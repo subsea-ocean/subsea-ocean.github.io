@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about
 subtitle: Quantifying subsurface biogeochemical cycling and carbon storage in subtropical gyres
 
 profile:
