@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_church.md
+    content: about_2.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>This person smiles at the camera</p>
