@@ -4,18 +4,14 @@ title: "home" #home
 permalink: /
 nav: false
 nav_order: 0
-subtitle:  #Integração Geotecnológica para Variáveis Dendrométricas, Qualitativas e Tecnológicas da Madeira
+subtitle:  
 
 # profile:
 #   align: right
 #   image: prof_pic.png
 #   image_circular: true # crops the image to make it circular
 #   more_info: >
-#     <p>Universidade Federal do Paraná</p>
-#     <p>CIFLOMA – Campus Jardim Botânico</p>
-#     <p>Laboratório de Inventário Florestal e Biofix</p>
-#     <p>Av. Pref. Lothário Meissner, 632 – Jardim Botânico</p>
-#     <p>CEP 80.210-170 – Curitiba – PR</p>
+#     <p>This is where an address might go</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -88,7 +84,7 @@ latest_posts:
   /*grid-template-columns: 1fr 350px;*/
   gap: 3rem;
   align-items: center;
-  animation: fadeInUp 1.2s ease-out;
+  animation: fadeInUp 0.8s ease-out;
 }
 
 @media (max-width: 768px) {
@@ -104,9 +100,11 @@ latest_posts:
   }
 }
 
+/* remove animation
 .hero-text {
-  animation: slideInLeft 1s ease-out 0.3s both;
+  animation: fadeIn 1s ease-out 0.3s both;
 }
+*/
 
 .hero-title {
   font-size: 3rem;
@@ -161,7 +159,7 @@ latest_posts:
   display: flex;
   flex-direction: column;
   align-items: center;
-  animation: slideInRight 1s ease-out 0.6s both;
+  /*animation: slideInRight 1s ease-out 0.6s both;*/
   height: fit-content;
 }
 
@@ -248,10 +246,10 @@ latest_posts:
   }
 }
 
-@keyframes slideInRight {
+@keyframes fadeIn {
   from {
     opacity: 0;
-    transform: translateX(50px);
+    transform: translateX(0);
   }
   to {
     opacity: 1;
@@ -359,15 +357,12 @@ latest_posts:
 <div class="hero-container">
   <div class="hero-content">
     <div class="hero-text">
-      <h1 class="hero-title">Subtropical Underwater Biogeochemistry and Subsurface Export Alliance</h1>
-      <p class="hero-subtitle">Project studying the ocean, biogeochemistry, and subsurface export.</p>
-      <!-- <div class="explore-message">
-        Explore nosso site para conhecer nossas linhas de pesquisa, nossa equipe e o impacto de nossos trabalhos
-      </div> -->
+      <h1 class="hero-title">SUBSEA</h1>
+      <p class="hero-subtitle">Subtropical Underwater Biogeochemistry and Subsurface Export Alliance</p>
       
     </div>
     
-    <!--
+    <!-- 
     <div class="hero-profile">
       <div class="profile-card">
         <img src="assets/img/prof_pic.png" alt="Profile" class="profile-image">
