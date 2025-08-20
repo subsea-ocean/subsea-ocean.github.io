@@ -47,8 +47,10 @@
       {% endif %}
     </div>
 
-    <!-- Footer 
-    {% include footer.liquid %} -->
+    <!-- Footer -->
+    {% unless page.title == "home" %}
+      {% include footer.liquid %} 
+    {% endunless %}
 
     <!-- JavaScripts -->
     {% include scripts.liquid %}
