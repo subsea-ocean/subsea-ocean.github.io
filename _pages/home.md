@@ -357,7 +357,7 @@ latest_posts:
 <div class="hero-container">
   <div class="hero-content">
     <div class="hero-text">
-      <h1 class="hero-title">SUBSEA</h1>
+      <h1 class="hero-title"><img src="assets/img/subsea_logo_small.png" alt="SUBSEA logo" width="156" height="153"><br><br>SUBSEA</h1>
       <p class="hero-subtitle">Subtropical Underwater Biogeochemistry and Subsurface Export Alliance</p>
       
     </div>
