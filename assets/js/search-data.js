@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "",
+          description: "Nothing yet! Check back later",
           section: "Navigation",
           handler: () => {
             window.location.href = "/subsea/publications/";
@@ -66,21 +66,13 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/subsea/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+      },{id: "news-obvi-2025-application",
+          title: 'OBVI 2025 application',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/subsea/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/subsea/news/obvi_2025_workshop_application/";
+            },},{id: "news-last-day-to-apply-for-the-2025-obvi-workshop-apply-here",
+          title: 'Last day to apply for the 2025 OBVI workshop! Apply here!',
           description: "",
           section: "News",},{
         id: 'social-email',
