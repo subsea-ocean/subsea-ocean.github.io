@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://carolynlober.github.io/subsea//sitemap.xml
+Sitemap: https://subsea-ocean.github.io/sitemap.xml

@@ -7,42 +7,42 @@ ninja.data = [{
     title: "home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/subsea/";
+      window.location.href = "/";
     },
   },{id: "nav-about",
           title: "about",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/subsea/about";
+            window.location.href = "/about";
           },
         },{id: "nav-news",
           title: "news",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/subsea/news/";
+            window.location.href = "/news/";
           },
         },{id: "nav-people",
           title: "people",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/subsea/people/";
+            window.location.href = "/people/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "Nothing yet! Check back later",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/subsea/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-data",
           title: "data",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/subsea/https:/google.com";
+            window.location.href = "/https:/google.com";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -70,7 +70,7 @@ ninja.data = [{
           title: 'OBVI 2025 application',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/subsea/news/obvi_2025_workshop_application/";
+              window.location.href = "/news/obvi_2025_workshop_application/";
             },},{id: "news-last-day-to-apply-for-the-2025-obvi-workshop-apply-here",
           title: 'Last day to apply for the 2025 OBVI workshop! Apply here!',
           description: "",
@@ -93,7 +93,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/subsea//feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
