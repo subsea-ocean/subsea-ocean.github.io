@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /publications
 title: publications
 description: Nothing yet! Check back later
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <!-- _pages/publications.md -->
