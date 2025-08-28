@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/news/";
+            window.location.href = "/news";
           },
         },{id: "nav-people",
           title: "people",
@@ -35,14 +35,14 @@ ninja.data = [{
           description: "Nothing yet! Check back later",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/publications";
           },
         },{id: "nav-data",
           title: "data",
-          description: "",
+          description: "Come back soon!",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/google.com";
+            window.location.href = "/data";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -93,7 +93,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("//feed.xml", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
