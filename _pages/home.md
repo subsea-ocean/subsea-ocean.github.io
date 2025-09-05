@@ -1,31 +1,10 @@
 ---
 layout: home
-title: "home" #home
+title: "home" 
 permalink: /
 nav: false
 nav_order: 0
 subtitle:  
-
-# profile:
-#   align: right
-#   image: prof_pic.png
-#   image_circular: true # crops the image to make it circular
-#   more_info: >
-#     <p>This is where an address might go</p>
-
-
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 <style>
 .video-background {
@@ -51,7 +30,7 @@ latest_posts:
   width: 100%;
   height: 100vh;
   z-index: -1;
-  backdrop-filter: blur(2px);
+  <!-- backdrop-filter: blur(2px); -->
 }
 
 [data-theme='dark'] .video-overlay {
@@ -81,7 +60,6 @@ latest_posts:
   width: 100%;
   height: 100%;
   display: grid;
-  /*grid-template-columns: 1fr 350px;*/
   gap: 3rem;
   align-items: center;
   animation: fadeInUp 0.8s ease-out;
@@ -99,12 +77,6 @@ latest_posts:
     min-height: calc(100vh - 120px);
   }
 }
-
-/* remove animation
-.hero-text {
-  animation: fadeIn 1s ease-out 0.3s both;
-}
-*/
 
 .hero-title {
   font-size: 3rem;
@@ -159,61 +131,8 @@ latest_posts:
   display: flex;
   flex-direction: column;
   align-items: center;
-  /*animation: slideInRight 1s ease-out 0.6s both;*/
   height: fit-content;
 }
-
-/*
-.profile-card {
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(15px);
-  border-radius: 20px;
-  padding: 1.5rem;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 8px 32px rgba(0,0,0,0.1);
-  transition: all 0.3s ease;
-  text-align: center;
-  max-height: 400px;
-}
-
-.profile-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 15px 40px rgba(0,0,0,0.2);
-}
-
-.profile-image {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  margin: 0 auto 1rem;
-  border: 4px solid rgba(255, 255, 255, 0.3);
-  box-shadow: 0 8px 25px rgba(0,0,0,0.2);
-  transition: all 0.3s ease;
-}
-
-.profile-image:hover {
-  transform: scale(1.05);
-  box-shadow: 0 12px 35px rgba(0,0,0,0.3);
-}
-
-.location-info {
-  color: var(--global-text-color);
-  font-size: 1 rem;
-  line-height: 1.4;
-  text-align: center;
-}
-
-.location-info p {
-  margin: 0.2rem 0;
-  opacity: 0.9;
-}
-
-.location-info p:first-child {
-  font-weight: 600;
-  font-size: 1 rem;
-  margin-bottom: 0.6rem;
-}
-*/
 
 [data-theme='dark'] .location-info p:first-child {
   color: #6C9C4E;
@@ -235,146 +154,21 @@ latest_posts:
   }
 }
 
-@keyframes slideInLeft {
-  from {
-    opacity: 0;
-    transform: translateX(-50px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateX(0);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-/* Floating particles effect */
-/*.particles {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 0;
-  pointer-events: none;
-}
-
-.particle {
-  position: absolute;
-  width: 4px;
-  height: 4px;
-  background: rgba(255, 255, 255, 0.6);
-  border-radius: 50%;
-  animation: float 6s infinite ease-in-out;
-}
-
-.particle:nth-child(1) { left: 10%; animation-delay: 0s; }
-.particle:nth-child(2) { left: 20%; animation-delay: 1s; }
-.particle:nth-child(3) { left: 30%; animation-delay: 2s; }
-.particle:nth-child(4) { left: 40%; animation-delay: 3s; }
-.particle:nth-child(5) { left: 50%; animation-delay: 4s; }
-.particle:nth-child(6) { left: 60%; animation-delay: 0.5s; }
-.particle:nth-child(7) { left: 70%; animation-delay: 1.5s; }
-.particle:nth-child(8) { left: 80%; animation-delay: 2.5s; }
-.particle:nth-child(9) { left: 90%; animation-delay: 3.5s; }
-*/
-
-@keyframes float {
-  0%, 100% { 
-    transform: translateY(100vh) rotate(0deg); 
-    opacity: 0; 
-  }
-  10%, 90% { 
-    opacity: 1; 
-  }
-  50% { 
-    transform: translateY(-10vh) rotate(180deg); 
-  }
-}
-
-/* Social media styling 
-.social-section .contact-icons {
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  margin-top: 0.5rem;
-}
-
-.social-section .contact-icons a {
-  font-size: 1.8rem;
-  color: rgba(255, 255, 255, 0.8);
-  transition: all 0.3s ease;
-  text-decoration: none;
-  padding: 0.3rem;
-}
-
-.social-section .contact-icons a:hover {
-  transform: translateY(-2px) scale(1.1);
-}
-
-[data-theme='dark'] .social-section .contact-icons a:hover {
-  color: #6C9C4E;
-}
-
-[data-theme='light'] .social-section .contact-icons a:hover {
-  color: #1D4528;
-}
-*/
-
 </style>
 
 <div class="video-background">
   <video autoplay loop muted playsinline>
-    <source src="assets/video/video_2.mp4" type="video/mp4">
+    <source src="assets/video/video_3.mp4" type="video/mp4">
     Your browser does not support video playback.
   </video>
 </div>
 <div class="video-overlay"></div>
 
-<!--
-<div class="particles">
-  <div class="particle"></div>
-  <div class="particle"></div>
-  <div class="particle"></div>
-  <div class="particle"></div>
-  <div class="particle"></div>
-  <div class="particle"></div>
-  <div class="particle"></div>
-  <div class="particle"></div>
-  <div class="particle"></div>
-</div>
--->
-
 <div class="hero-container">
   <div class="hero-content">
     <div class="hero-text">
       <h1 class="hero-title"><img src="assets/img/subsea_logo_small.png" alt="SUBSEA logo" width="156" height="153"><br><br>SUBSEA</h1>
-      <p class="hero-subtitle">Subtropical Underwater Biogeochemistry and Subsurface Export Alliance</p>
-      
+      <p class="hero-subtitle">Subtropical Underwater Biogeochemistry<br>and Subsurface Export Alliance</p>
     </div>
-    
-    <!-- 
-    <div class="hero-profile">
-      <div class="profile-card">
-        <img src="assets/img/prof_pic.png" alt="Profile" class="profile-image">
-        <div class="location-info">
-          <p>Universidade Federal do Paraná</p>
-          <p>CIFLOMA – Campus Jardim Botânico</p>
-          <p>Laboratório de Inventário Florestal e Biofix</p>
-          <p>Av. Pref. Lothário Meissner, 632 – Jardim Botânico</p>
-          <p>CEP 80.210-170 – Curitiba – PR</p>
-        </div>
-      </div>
-    </div>
-    -->
   </div>
 </div>
