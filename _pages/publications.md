@@ -2,10 +2,12 @@
 layout: page
 permalink: /publications
 title: publications
-description: Nothing yet! Check back later
+description: 
 nav: true
 nav_order: 5
 ---
+
+Nothing yet! Check back later
 
 <!-- _pages/publications.md -->
 
