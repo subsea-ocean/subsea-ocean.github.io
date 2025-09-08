@@ -1,36 +1,20 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /people
 title: people
 description: 
 nav: true
-nav_order: 3
+#display_categories: [&pi project investigators, &stud postdoctoral fellows and graduate students, &staff staff]
+# the & defines a variable for the following text string, which is referenced in the profiles below with *
+nav_order: 4
 
 profiles:
+  - align: right
+  - content: about_2.md
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_2.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>This person smiles at the camera</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_2.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>This person also smiles at the camera</p>
-  - align: right
-    image: prof_pic.jpg
-    content: about_2.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>This person also smiles at the camera</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_2.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>This person also smiles at the camera</p>
+  
+  # principal investigators
+
+
 ---
