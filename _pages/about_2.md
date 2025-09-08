@@ -1,1 +1,1 @@
-This is a biography about person number 2.
+Coming soon!
