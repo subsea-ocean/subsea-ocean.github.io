@@ -1,24 +1,27 @@
 ---
-layout: post
-title: OBVI 2025 application
-date: 2025-04-01 16:11:00-0400
-inline: false
+layout: about
+title: 2025 OBVI Workshop
+permalink: /workshop_2025
+subtitle: 
+nav: false
+nav_order: 1
+tabs: true
+#toc:
+#    sidebar: left
 ---
 
-2025 Ocean Biogeochemistry Virtual Institute (OBVI) Workshop applications are now open!
+Are you a participant? [Skip to the schedule.](#schedule)
 
 {% include figure.liquid loading="eager" path="assets/img/Workshop2025Flyer.png" class="img-fluid rounded z-depth-0" %}
 
----
-
-#### Ocean Biogeochemical Perspectives and Emerging Topics: Primary Production
+### About
 
 A 2-week workshop for OBVI graduate students and post-docs. Funding for this project is provided by the [Schmidt Sciences Ocean Biogeochemistry Virtual Institute](https://www.schmidtsciences.org/the-ocean-biogeochemistry-virtual-institute-obvi/) to the Subtropical Underwater Biogeochemistry and Subsurface Export Alliance (SUBSEA) program.
 
 Workshop dates: November 30 - December 12, 2025
 - Location: University of Hawaii at Manoa
 - Application deadline: April 15, 2025
-- [Application Link](https://forms.gle/HiTw8S9vEasGYbK39)
+- [Application announcement](/news/obvi_2025_workshop_application) and [link to apply](https://forms.gle/HiTw8S9vEasGYbK39)
 
 Workshop will include daily lectures, hands-on analyses and modeling of ocean productivity data, and training in ocean biogeochemical sampling and methodologies. Workshop objectives include:
 
@@ -26,4 +29,4 @@ Workshop will include daily lectures, hands-on analyses and modeling of ocean pr
 2. Become familiar with publicly available data and data products specific to ocean primary production
 3. Analyze shipboard, autonomous, and remote sensing data and data products
 
-[Find more information here.](/workshop_2025)
+Missed the application deadline? Join us next year at the 2026 workshop! Keep an eye on this site for updates.
