@@ -10,8 +10,9 @@ contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   SUBSEA seeks to better understand ocean biogeochemical cycles and build capacity through international collaborations and education.
 footer_text: >
-  <!-- <img src="assets/img/schmidt-sciences-logo-small.png" height="125" width="312"> <br> -->
   SUBSEA is funded by <a href="https://schmidtsciences.org/" target="_blank">Schmidt Sciences</a>.
+footer_text_after: >
+  Plankton images from <a href="https://ifcb-data.whoi.edu/mvco">MVCO IFCB</a>.
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: subsea_logo_small.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -94,7 +95,7 @@ pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -111,21 +112,6 @@ giscus:
   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
-
-# Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
-# External sources.
-# If you have blog posts published on medium.com or other external sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter

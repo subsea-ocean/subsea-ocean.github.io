@@ -19,6 +19,10 @@ strong {
   color: var(--global-text-color);
 }
 
+h1 {
+  text-transform: capitalize;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -249,6 +253,7 @@ ul.task-list input[type="checkbox"] {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
+  text-transform: uppercase;
 }
 
 .navbar .dropdown-menu {
@@ -396,82 +401,6 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Social (bottom)
-
-.social {
-  text-align: center;
-
-  .contact-icons {
-    font-size: 4rem;
-
-    a {
-      img {
-        width: 3.2rem;
-        height: 3.2rem;
-        margin-bottom: 1rem;
-      }
-
-      svg {
-        width: 3.5rem;
-        height: 4rem;
-        margin-bottom: 0.5rem;
-
-        image {
-          width: 3.5rem;
-          height: 3.5rem;
-        }
-      }
-
-      i::before {
-        color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
-      }
-
-      &:hover {
-        text-decoration: none;
-
-        i::before {
-          color: var(--global-theme-color);
-        }
-      }
-    }
-  }
-
-  .contact-note {
-    font-size: 0.8rem;
-  }
-}
-
-.wechat-modal {
-  display: none;
-  position: fixed;
-  z-index: 1;
-  padding-top: 100px;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background-color: rgb(0, 0, 0);
-  background-color: rgba(0, 0, 0, 0.8);
-}
-
-.wechat-modal > img {
-  display: block;
-  position: relative;
-  top: 50%;
-  left: 50%;
-  width: 33%;
-  max-width: 400px;
-  transform: translate(-50%, -50%);
-}
-
-@media only screen and (max-width: 400px) {
-  .wechat-modal > img {
-    width: 100%;
-  }
-}
-
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
@@ -501,8 +430,83 @@ footer.sticky-bottom {
   font-size: 0.9rem;
 
   .container {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translateX(-50%);
     text-align: center;
+    z-index: 2; /* show on top */
+
+      /* Double-sided gradient background so plankton don't disrupt footer text */
+    background: linear-gradient(to right,
+    rgba(244,244,244,0) 0%,    /* fade out */
+    rgba(28, 28, 29, 1) 20%,   /* solid background color */
+    rgba(28, 28, 29, 1) 80%,   /* stay solid */
+    rgba(244,244,244,0) 100%); /* fade back out */
   }
+
+  .footer-flex {
+    position: relative;
+    overflow: hidden;
+    padding: 20px 0;
+  }
+  
+  .footer-images {
+    display: flex;
+    justify-content: space-around; /* distribute images evenly */
+    z-index: 1;
+  }
+  
+  .footer-images img {
+    height: 40px;
+    width: auto;
+  }
+  
+  /* Vertical offsets: stagger images */
+  .footer-images img:nth-child(1) {
+    margin-top: 0;
+    height: 35px;
+  }
+  .footer-images img:nth-child(2) {
+    margin-top: 40px;
+  }
+  .footer-images img:nth-child(3) {
+    margin-top: -10px;
+    height: 30px;
+  }
+  /* hide spacing images */
+  .footer-images img:nth-child(4) {
+    opacity: 0;
+  }
+  .footer-images img:nth-child(5) {
+    opacity: 0;
+  }
+  .footer-images img:nth-child(6) {
+    opacity: 0;
+  }
+  .footer-images img:nth-child(7) {
+    margin-top: 30px;
+  }
+  .footer-images img:nth-child(8) {
+    margin-top: -25px;
+    height: 80px;
+  }
+  .footer-images img:nth-child(9) {
+    margin-top: 50px;
+  }
+
+  /* hide image containers on small screens */
+@media (max-width: 780px) {
+  .footer-images {
+    opacity: 0;
+  }
+
+  .footer-images-citation {
+    display: none;
+    font-weight: 100;
+  }
+}
+  
 }
 
 // CV
@@ -688,15 +692,16 @@ footer.sticky-bottom {
     width: 250px;
     margin-bottom: 10px;
   }
+}
 
+// outside of projects, so it applies to profiles as well
   h2.category {
-    color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
-    padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    text-align: right;
-  }
+  color: var(--global-text-color-light);
+  border-bottom: 1px solid var(--global-text-color-light);
+  padding-top: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-align: right;
 }
 
 // Publications
@@ -721,8 +726,8 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
+    color: var(--global-text-color-light);
+    border-top: 1px solid var(--global-text-color-light);
     padding-top: 1rem;
     margin-top: 2rem;
     text-align: right;

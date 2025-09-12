@@ -1,8 +1,12 @@
 {% capture footer_contents %}
-  <img src="https://www.schmidtsciences.org/wp-content/themes/schmidt-sciences/src/images/logo.svg" height="100" width="250" alt="Schmidt Sciences logo" style="filter:brightness(0%) invert(80%);"> <br>
+  <img src="https://www.schmidtsciences.org/wp-content/themes/schmidt-sciences/src/images/logo.svg" height="90" width="225" alt="Schmidt Sciences logo" style="filter:brightness(0%) invert(80%);"> <br>
   {{ site.footer_text }}
   &copy; Copyright {{ site.time | date: '%Y' }}
   {{ site.title }}. 
+  <br>
+  <small class="footer-images-citation">
+  {{ site.footer_text_after }}
+  </small>
   {% if site.impressum_path %}
     <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
   {% endif %}
@@ -18,13 +22,25 @@
     </div>
   </footer>
 {% else %}
-  <footer class="sticky-bottom mt-5" role="contentinfo">
-    {% if site.newsletter.enabled %}
-      {% include newsletter.liquid %}
-    {% endif %}
 
-    <div class="container">
-      {{ footer_contents }}
+  <footer class="sticky-bottom mt-5" role="contentinfo">
+    <div class="footer-flex">
+      <div class="footer-images">
+        <img src="{{ '/assets/img/plankton12.png' | relative_url }}" alt="plankton">
+        <img src="{{ '/assets/img/plankton11.png' | relative_url }}" alt="plankton">
+        <img src="{{ '/assets/img/plankton10.png' | relative_url }}" alt="plankton">
+        <img src="{{ '/assets/img/plankton8.png' | relative_url }}" alt="plankton"> <!-- for spacing -->
+        <img src="{{ '/assets/img/plankton8.png' | relative_url }}" alt="plankton">
+        <img src="{{ '/assets/img/plankton8.png' | relative_url }}" alt="plankton"> <!-- end spacing -->
+        <img src="{{ '/assets/img/plankton6.png' | relative_url }}" alt="plankton">
+        <img src="{{ '/assets/img/plankton9.png' | relative_url }}" alt="plankton">
+        <img src="{{ '/assets/img/plankton8.png' | relative_url }}" alt="plankton">
+      </div>
+
+      <div class="container footer-center">
+        {{ footer_contents }}
+      </div>
+
     </div>
   </footer>
 {% endif %}
