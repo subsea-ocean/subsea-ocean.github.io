@@ -1,0 +1,4 @@
+### **Nicholas Hawco** co-PI
+##### University of Hawai'i at Mānoa, USA
+
+Nicholas Hawco is an Associate Professor at the University of Hawaii at Manoa. His background is in chemistry and he received my Ph.D. from the MIT/WHOI Joint Program in 2017. His research group measures the abundance of trace elements in the oceans. Many of these elements are micronutrients that are essential for life, while others can serve as tracers of key oceanic processes. In SUBSEA, his group will be tracking the seasonal and spatial changes in trace element abundance to shed light on how the ecosystem has evolved to conserve scarce resources. 

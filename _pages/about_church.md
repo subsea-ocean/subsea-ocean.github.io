@@ -1,4 +1,4 @@
-### Matt Church
+### **Matt Church** project lead
 ##### University of Montana
 
-This is a biography about this person
+Matt Church is a biogeochemist and microbial ecologist. He works in both salty and freshwaters, with a background in microbial oceanography. He is a Professor at the University of Montana’s Flathead Lake Biological Station. He received his MS and PhD in Marine Science from the College of William and Mary’s Virigina Institute Marine Science. He joined the University of Montana in 2016 after having spent more than a decade working in the Department of Oceanography at the University of Hawaii. His research focuses on improving understanding of how microorganism metabolism influences the cycling of carbon and nutrients through aquatic ecosystems. His research has provided opportunities to work in remarkable ecosystems, ranging from waters around Antarctica to the vast subtropical ocean gyres, to Flathead Lake in Montana. On the SUBSEA project, his lab’s primary role is to quantify the distributions and activities of microorganisms catalyzing key processes in the nitrogen cycle. 

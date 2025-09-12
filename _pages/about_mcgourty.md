@@ -1,0 +1,4 @@
+### **Jared McGourty** technician
+##### University of Montana, USA
+
+Jared McGourty hails from Hamilton, Montana and graduated from the University of Montana in 2023 with a degree in microbiology. After graduating he worked at NIAID, a division of NIH, studying how Salmonella affects the gut microbiome in mice. He then joined the Flathead Lake Biological Station at the University of Montana in 2025 and began working with the SUBSEA project. As a lab technician, he supports a variety of scientific experiments and assists with the deployment of research probes. Jared ultimately enjoys studying microbes and how they affect and interact with their environment. He also enjoys hiking and fishing during the summer months.
