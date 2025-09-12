@@ -1,0 +1,4 @@
+### **Benedetto Barone** co-PI
+##### University of Hawai'i at Mānoa, USA
+
+Benedetto Barone is a co-PI of the SUBSEA project investigating the ecological and biogeochemical dynamics of the open ocean with a focus on phytoplankton photosynthesis and particle export. He is interested in characterizing the physical-biological dynamics associated with turbulent mixing and mesoscale eddies. He uses autonomous vehicles to collect underwater measurements including bio-optical proxies for the ecological characteristics of marine environments. He received his PhD in Marine Sciences and Engineering in Naples, Italy, from the Università “Federico II” & the Stazione Zoologica Anton Dohrn. Previously, he received an MSc in Environmental Sciences in Naples from the Università “Parthenope”. He is currently an ocean researcher at the University of Hawaiʻi.
