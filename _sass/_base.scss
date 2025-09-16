@@ -460,19 +460,21 @@ footer.sticky-bottom {
   .footer-images img {
     height: 40px;
     width: auto;
+    filter: brightness(70%) contrast(130%);
   }
   
   /* Vertical offsets: stagger images */
   .footer-images img:nth-child(1) {
-    margin-top: 0;
+    margin-top: 20;
     height: 35px;
   }
   .footer-images img:nth-child(2) {
-    margin-top: 40px;
+    margin-top: 70px;
   }
   .footer-images img:nth-child(3) {
     margin-top: -10px;
     height: 30px;
+    filter: brightness(100%);
   }
   /* hide spacing images */
   .footer-images img:nth-child(4) {
@@ -488,11 +490,11 @@ footer.sticky-bottom {
     margin-top: 30px;
   }
   .footer-images img:nth-child(8) {
-    margin-top: -25px;
-    height: 80px;
+    margin-top: -15px;
   }
   .footer-images img:nth-child(9) {
-    margin-top: 50px;
+    margin-top: 60px;
+    height: 30px;
   }
 
   /* hide image containers on small screens */
