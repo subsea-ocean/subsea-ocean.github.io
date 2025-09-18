@@ -10,8 +10,6 @@ tabs: true
 #    sidebar: left
 ---
 
-Are you a participant? [Skip to the schedule.](#schedule)
-
 {% include figure.liquid loading="eager" path="assets/img/Workshop2025Flyer.png" class="img-fluid rounded z-depth-0" %}
 
 ### About
