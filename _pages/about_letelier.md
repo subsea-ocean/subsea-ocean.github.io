@@ -1,4 +1,4 @@
-### Ricardo Letelier
+### [**Ricardo Letelier**](https://ceoas.oregonstate.edu/directory/ricardo-letelier) co-PI
 ##### Oregon State University, USA
 
-This is a biography about this person 
+Ricardo Letelier is a Professor at Oregon State University and the Program Director for NSF's Biological Oceanography Program. He holds a Ph.D. in Oceanography from the University of Hawai'i and a B.S. in Marine Biology from Universidad de Concepción, Chile. With SUBSEA, he will be assessing the phytoplankton community structure through pigment analysis and how it relates to the light distribution with depth. In addition, he will be analyzing ocean color remote sensing data to assess the spatial and temporal variability observed in the study regions.
