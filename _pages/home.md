@@ -48,7 +48,7 @@ subtitle:
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 1rem;
+  padding-top: 0rem;
   padding-left: 2rem;
   padding-right: 2rem;
   padding-bottom: 2rem;
@@ -56,6 +56,7 @@ subtitle:
 }
 
 .hero-content {
+  margin-top: -4rem;
   max-width: 1200px;
   width: 100%;
   height: 100%;
@@ -63,19 +64,6 @@ subtitle:
   gap: 3rem;
   align-items: center;
   animation: fadeInUp 0.8s ease-out;
-}
-
-@media (max-width: 768px) {
-  .hero-content {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-    text-align: center;
-    height: auto;
-  }
-  .hero-container {
-    height: auto;
-    min-height: calc(100vh - 120px);
-  }
 }
 
 .hero-title {
@@ -158,7 +146,7 @@ subtitle:
 
 <div class="video-background">
   <video autoplay loop muted playsinline>
-    <source src="assets/video/video_3.mp4" type="video/mp4">
+    <source src="assets/video/ocean.mov" type="video/mp4">
     Your browser does not support video playback.
   </video>
 </div>
@@ -168,7 +156,7 @@ subtitle:
   <div class="hero-content">
     <div class="hero-text">
       <h1 class="hero-title"><img src="assets/img/subsea_logo_small.png" alt="SUBSEA logo" width="156" height="153"><br><br>SUBSEA</h1>
-      <p class="hero-subtitle">Subtropical Underwater Biogeochemistry<br>and Subsurface Export Alliance</p>
+      <h3 class="hero-subtitle">Subtropical Underwater Biogeochemistry<br>and Subsurface Export Alliance</h3>
     </div>
   </div>
 </div>
