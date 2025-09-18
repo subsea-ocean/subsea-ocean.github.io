@@ -1,4 +1,4 @@
 ### **María Luz Torres Alberto** postdoc
-##### Instituto Nacional de Investigación y Desarrollo Pesquero, Argentina
+#### Instituto Nacional de Investigación y Desarrollo Pesquero, Argentina
 
 María Luz Torres Alberto holds a Ph.D. in Biological Sciences with a specialization in Biological Oceanography, and is currently a postdoctoral researcher at the National Institute for Fisheries Research and Development (INIDEP, Argentina). Her focus is on ocean productivity and carbon cycling, with particular interest in net community production (NCP) derived from O₂/Ar and its coupling with pCO₂ observations in subtropical oceanic gyres. Her research integrates field measurements, satellite data, and computational tools to understand how environmental variability and biogeochemical processes regulate carbon fluxes and shape marine ecosystems in the Southwestern Atlantic.

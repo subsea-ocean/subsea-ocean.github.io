@@ -156,7 +156,7 @@ subtitle:
   <div class="hero-content">
     <div class="hero-text">
       <h1 class="hero-title"><img src="assets/img/subsea_logo_small.png" alt="SUBSEA logo" width="156" height="153"><br><br>SUBSEA</h1>
-      <h3 class="hero-subtitle">Subtropical Underwater Biogeochemistry<br>and Subsurface Export Alliance</h3>
+      <h2 class="hero-subtitle">Subtropical Underwater Biogeochemistry<br>and Subsurface Export Alliance</h2>
     </div>
   </div>
 </div>
