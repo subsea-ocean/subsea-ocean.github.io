@@ -1,4 +1,4 @@
-### Robert O. Hall
+### **Robert Hall** co-PI
 ##### University of Montana, USA
 
-This is a biography about this person 
+Robert Hall is Distinguished Professor of Limnology at Flathead Lake Biological Station, University of Montana, where he has worked since 2017.  Prior to that he was on the faculty at University of Wyoming where he started in 1998. Since graduate school at University of Georgia he has been interested in aquatic carbon and nitrogen cycling. Current work links process models to long-term riverine oxygen time series, statistical modeling of biogeochemical fluxes, models for isotope tracers, and dissolved organic and inorganic carbon dynamics. Work as a co-PI on the SUBSEA project will include models for particle export fit to optically sensed particle depth distributions and carbon oxygen stoichiometry of metabolism.
