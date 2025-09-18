@@ -1,4 +1,4 @@
 ### **Zhou Liang** postdoc
-##### Carnegie Institution for Science, USA
+#### Carnegie Institution for Science, USA
 
 Zhou Liang is currently a postdoctoral fellow at Carnegie Science, working with Dr. Emily Zakem on the SUBSEA project. He received his Ph.D. in Chemical Oceanography from Florida State University in 2024, with training in both lab work and biogeochemical modeling. His research explores dissolved organic matter and its roles in the biological pump and the microbial loop in the ocean. He is developing new modeling frameworks to understand how interactions between microbes and organic matter shape ocean productivity. In his free time, he enjoys hiking, birding, and camping.

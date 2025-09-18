@@ -1,4 +1,4 @@
 ### **Emily Zakem** co-PI
-##### Carnegie Institution for Science, USA
+#### Carnegie Institution for Science, USA
 
 Emily Zakem is a Principal Investigator at the Biosphere Sciences & Engineering divison at the Carnegie Institution for Science. Previously, she was a Simons Foundation Postdoctoral Fellow in Marine Microbial Ecology at the University of Southern California in Los Angeles, and she completed her Ph.D. in Climate Physics and Chemistry in the Department of Earth, Atmospheric and Planetary Sciences at the Massachusetts Institute of Technology. Her research focuses on understanding the connections between microbial ecosystems, global biogeochemistry, and the climate system. For SUBSEA, she aims to develop a mechanistic ecosystem model of carbon, nitrogen, and other elemental cycling in the subtropical subsurface zone, driven by dynamic microbial populations, that can be used to improve biogeochemical predictions of ocean productivity and biological carbon storage on a changing planet.

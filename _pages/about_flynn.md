@@ -1,4 +1,4 @@
 ### **Raquel Flynn** research scientist
-##### University of Cape Town, South Africa
+#### University of Cape Town, South Africa
 
 Raquel's role in SUBSEA is to investigate the nitrogen preference of different phytoplankton groups under differing nutrient regimes. She aims to do this by combining nitrogen uptake rates and phytoplankton group specific measurements of nitrogen isotopes with 'omics. This will help us to understand how different phytoplankton groups are able to proliferate and contribute to primary production and export under oligotrophic conditions. She received her Ph.D. from University of Cape Town (UCT) and completed a postdoctoral fellowship at the University of North Carolina, Chapel Hill before returning to UCT to join the SUBSEA project. 

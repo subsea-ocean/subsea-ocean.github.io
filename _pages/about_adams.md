@@ -1,4 +1,4 @@
 ### **Hunter Adams** technician
-##### University of Hawai'i at Mānoa, USA
+#### University of Hawai'i at Mānoa, USA
 
 Hunter Adams is an Ocean Technician with a B.S. in Oceanography from Texas A&M University and broad hands-on experience working aboard research vessels. At the University of Hawaiʻi Mānoa, he supports the Schmidt Sciences SUBSEA project as a staff technician. His role involves deploying autonomous underwater platforms, coordinating equipment and cruise logistics, and conducting laboratory analyses to ensure quality oceanographic data collection. Through these efforts, he contributes to advancing SUBSEA’s biogeochemical research and fostering collaboration across fieldwork teams.
