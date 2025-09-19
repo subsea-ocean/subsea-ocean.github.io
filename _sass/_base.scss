@@ -774,6 +774,12 @@ footer.sticky-bottom {
         }
       }
 
+      @media only screen and (max-width: 780px) {
+        .abbr {
+            display: none;
+        }
+      }
+
       .title {
         font-weight: bolder;
       }
