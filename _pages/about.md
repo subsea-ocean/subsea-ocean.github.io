@@ -33,12 +33,16 @@ We are an [international team](/people) of biogeochemists, plankton ecologists, 
 The subtropical ocean gyres cover more than 20% of Earth’s surface area, making them some of the largest ecosystems on the planet. Despite persistently low concentrations of nutrients, the subtropical gyres are important components of the global carbon cycle. Our research focuses on the complex space-time structure of the sunlit portion of the upper ocean, from the sea surface to approximately 200 meters deep. The backbone of our work relies on shipboard observations in both the North Pacific and South Atlantic subtropical gyres. Our team has expertise in ocean biogeochemistry, remote and autonomous sensing technologies, and mathematical modeling. Together, SUBSEA aims to improve mechanistic understanding of how carbon and nutrients move through the photic zone in support of plankton productivity and carbon export. Specifically, we are interested in how nutrient cycling in the poorly studied subsurface habitats of the upper ocean impact plankton productivity and sequestration of carbon dioxide by the subtropical gyres.
 
 <swiper-container navigation="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery_7.jpg" class="img-fluid rounded" alt="The SUBSEA team stands on board the ship at night." %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery_8.jpg" class="img-fluid rounded" alt="Scientific equipment floats with a string of buoys on the ocean surface. The edge of the boat is seen in the foreground." %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery_9.jpg" class="img-fluid rounded" alt="Three scientists work together to lift a rack of tubes into or out of the ocean." %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery_2.jpg" class="img-fluid rounded" alt="The SUBSEA team stands on board the ship at night." %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery_1.jpg" class="img-fluid rounded" alt="Scientists stand and walk on the deck of a research vessel. Some are walking while others stand by the edge of the ship and look out at the ocean." %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery_5.jpg" class="img-fluid rounded" alt="Four men stand at a blue railing, lowering scientific equipment into the ocean." %}</swiper-slide> 
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery_4.jpg" class="img-fluid rounded" alt="Three scientists work together to lift a rack of samples over the edge of the ship." %}</swiper-slide>
 </swiper-container>
 
-## partner institutions
+<br>
+
+## Partner Institutions
+
 <div class="row mt-3 align-self-center">
   <div class="col-sm mt-3 mt-md-0 align-self-center">
   {% include figure.liquid loading="eager" path="assets/img/um_logo.png" class="img-fluid" alt="University of Montana logo" width="80%" %} 

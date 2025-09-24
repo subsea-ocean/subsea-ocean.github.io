@@ -30,11 +30,11 @@ subtitle:
   width: 100%;
   height: 100vh;
   z-index: -1;
-  <!-- backdrop-filter: blur(2px); -->
+  backdrop-filter: blur(1px); 
 }
 
 [data-theme='dark'] .video-overlay {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.5);
 }
 
 [data-theme='light'] .video-overlay {
@@ -146,7 +146,7 @@ subtitle:
 
 <div class="video-background">
   <video autoplay loop muted playsinline>
-    <source src="assets/video/ocean.mov" type="video/mp4">
+    <source src="assets/video/dolphins.mp4" type="video/mp4">
     Your browser does not support video playback.
   </video>
 </div>
