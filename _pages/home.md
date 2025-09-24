@@ -145,7 +145,7 @@ subtitle:
 </style>
 
 <div class="video-background">
-  <video autoplay loop muted playsinline>
+  <video autoplay loop muted playsinline poster="assets/video/dolphins.png">
     <source src="assets/video/dolphins.mp4" type="video/mp4">
     Your browser does not support video playback.
   </video>
