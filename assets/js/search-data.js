@@ -59,7 +59,12 @@ ninja.data = [{
             },},{id: "news-last-day-to-apply-for-the-2025-obvi-workshop-apply-here",
           title: 'Last day to apply for the 2025 OBVI workshop! Apply here!',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-news-from-the-cruise-hot-september-2025",
+          title: 'News from the cruise: HOT September 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/sep2025_HOTcruise/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
