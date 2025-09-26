@@ -7,7 +7,7 @@ inline: false
 
 **2025 Ocean Biogeochemistry Virtual Institute (OBVI) Workshop applications are now open! See below for the flyer, more information, and the link to apply.**
 
-{% include figure.liquid loading="eager" path="assets/img/Workshop2025Flyer.png" class="img-fluid rounded z-depth-0" %}
+{% include figure.liquid loading="eager" path="assets/img/Workshop2025Flyer.png" class="img-fluid rounded z-depth-0" alt="OBVI 2025 workshop flyer" %}
 
 #### Ocean Biogeochemical Perspectives and Emerging Topics: Primary Production
 
