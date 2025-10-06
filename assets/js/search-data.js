@@ -55,7 +55,7 @@ ninja.data = [{
           title: 'OBVI 2025 application',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/obvi_2025_workshop_application/";
+              window.location.href = "/news/obvi_2025_workshop_application.html";
             },},{id: "news-last-day-to-apply-for-the-2025-obvi-workshop-apply-here",
           title: 'Last day to apply for the 2025 OBVI workshop! Apply here!',
           description: "",
@@ -63,7 +63,7 @@ ninja.data = [{
           title: 'News from the cruise: HOT September 2025',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/sep2025_HOTcruise/";
+              window.location.href = "/news/sep2025_HOTcruise.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
