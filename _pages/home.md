@@ -52,7 +52,7 @@ subtitle:
   padding-left: 2rem;
   padding-right: 2rem;
   padding-bottom: 2rem;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .hero-content {
@@ -73,7 +73,7 @@ subtitle:
   margin-bottom: 1rem;
   line-height: 1.1;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-  text-align: center
+  text-align: center;
 }
 
 .hero-subtitle {
@@ -155,7 +155,7 @@ subtitle:
 <div class="hero-container">
   <div class="hero-content">
     <div class="hero-text">
-      <h1 class="hero-title"><img src="assets/img/subsea_logo_small.png" alt="SUBSEA logo" width="156" height="153"><br><br>SUBSEA</h1>
+      <h1 class="hero-title"><img src="assets/img/subsea_logo_small.png" alt="SUBSEA logo" width="18%" max-width="156" height=auto><br><br>SUBSEA</h1>
       <h2 class="hero-subtitle">Subtropical Underwater Biogeochemistry<br>and Subsurface Export Alliance</h2>
     </div>
   </div>
