@@ -51,8 +51,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/data";
           },
-        },{id: "news-obvi-2025-application",
-          title: 'OBVI 2025 application',
+        },{id: "news-obvi-workshop-2025-application-opens",
+          title: 'OBVI workshop 2025 application opens',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/obvi_2025_workshop_application.html";
@@ -64,7 +64,15 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/sep2025_HOTcruise.html";
-            },},{
+            },},{id: "news-2025-obvi-meeting-in-cape-town",
+          title: '2025 OBVI meeting in Cape Town',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/oct2025_UCTmeeting.html";
+            },},{id: "news-subsea-was-featured-in-the-online-science-magazine-nautilus-read-the-article-here",
+          title: 'SUBSEA was featured in the online science magazine Nautilus! Read the article here....',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
