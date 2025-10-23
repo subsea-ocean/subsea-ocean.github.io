@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OBVI 2025 application
+title: OBVI workshop 2025 application opens
 date: 2025-04-01 16:11:00-0400
 inline: false
 ---

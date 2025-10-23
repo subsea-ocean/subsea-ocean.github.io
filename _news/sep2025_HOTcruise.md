@@ -11,7 +11,7 @@ Members of the SUBSEA team participated in the monthly [Hawai'i Ocean Time-serie
 
 <div class="row mt-3 align-self-center">
   <div class="col-sm mt-3 mt-md-0 align-self-center">
-    {% include figure.liquid loading="eager" path="assets/img/news/sep2025_hot_2.jpg" class="img-fluid rounded" alt="Two scientists wearing helmets and life vests heave a rack of samples into the ocean at dusk."%} 
+    {% include figure.liquid loading="eager" path="assets/img/news/sep2025_hot_2.jpg" class="img-fluid rounded" alt="Two scientists wearing helmets and life vests heave a sediment trap array into the ocean at dusk."%} 
   </div>
   <div class="col-sm mt-3 mt-md-0 align-self-center">
     {% include figure.liquid loading="eager" path="assets/img/news/sep2025_hot_1.jpg" class="img-fluid rounded" alt="A yellow Seaglider sits at the surface of bright blue water, ready to start collecting data."%} 
