@@ -45,31 +45,31 @@ The subtropical ocean gyres cover more than 20% of Earth’s surface area, makin
 
 <div class="row mt-3 align-self-center">
   <div class="col-sm mt-3 mt-md-0 align-self-center">
-  {% include figure.liquid loading="eager" path="assets/img/um_logo.png" class="img-fluid" alt="University of Montana logo" width="80%" %} 
+  {% include figure.liquid loading="eager" path="assets/img/um_logo.png" class="img-fluid logo-fig" alt="University of Montana logo" width="80%" %} 
   </div>
   <div class="col-sm mt-3 mt-md-0 align-self-center">
-  {% include figure.liquid loading="eager" path="assets/img/uhm_logo.png" class="img-fluid" alt="University of Hawai'i at Mānoa logo" width="80%" %}
+  {% include figure.liquid loading="eager" path="assets/img/uhm_logo.png" class="img-fluid logo-fig" alt="University of Hawai'i at Mānoa logo" width="80%" %}
   </div>
   <div class="col-sm mt-3 mt-md-0 align-self-center">
-  {% include figure.liquid loading="eager" path="assets/img/umiami_logo.png" class="img-fluid" alt="University of Miami logo" width="60%" %}
-  </div>
-</div>
-<div class="row mt-3 align-self-center">
-  <div class="col-sm mt-3 mt-md-0 align-self-center">
-  {% include figure.liquid loading="eager" path="assets/img/inidep_logo.png" class="img-fluid" alt="Instituto Nacional de Investigación y Desarrollo Pesquero logo" width="80%" %} 
-  </div>
-  <div class="col-sm mt-3 mt-md-0 align-self-center">
-  {% include figure.liquid loading="eager" path="assets/img/uct_logo.png" class="img-fluid" alt="University of Cape Town logo" width="80%" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0 align-self-center">
-  {% include figure.liquid loading="eager" path="assets/img/osu_logo.png" class="img-fluid" alt="Oregon State University logo" width="80%" %}
+  {% include figure.liquid loading="eager" path="assets/img/umiami_logo.png" class="img-fluid logo-fig" alt="University of Miami logo" width="60%" %}
   </div>
 </div>
 <div class="row mt-3 align-self-center">
   <div class="col-sm mt-3 mt-md-0 align-self-center">
+  {% include figure.liquid loading="eager" path="assets/img/inidep_logo.png" class="img-fluid logo-fig" alt="Instituto Nacional de Investigación y Desarrollo Pesquero logo" width="80%" %} 
   </div>
   <div class="col-sm mt-3 mt-md-0 align-self-center">
-  {% include figure.liquid loading="eager" path="assets/img/carnegie_logo.png" class="img-fluid" alt="Carnegie Institution for Science logo" width="80%"%}
+  {% include figure.liquid loading="eager" path="assets/img/uct_logo.png" class="img-fluid logo-fig" alt="University of Cape Town logo" width="80%" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0 align-self-center">
+  {% include figure.liquid loading="eager" path="assets/img/osu_logo.png" class="img-fluid logo-fig" alt="Oregon State University logo" width="80%" %}
+  </div>
+</div>
+<div class="row mt-3 align-self-center">
+  <div class="col-sm mt-3 mt-md-0 align-self-center">
+  </div>
+  <div class="col-sm mt-3 mt-md-0 align-self-center">
+  {% include figure.liquid loading="eager" path="assets/img/carnegie_logo.png" class="img-fluid logo-fig" alt="Carnegie Institution for Science logo" width="80%"%}
   </div> 
   <div class="col-sm mt-3 mt-md-0 align-self-center">
   </div>

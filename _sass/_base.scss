@@ -1368,6 +1368,12 @@ ninja-keys::part(ninja-input-wrapper) {
   color: var(--global-text-color);
 }
 
+.logo-fig {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 figure.cover {
   display: inline-block;
   text-align: center;
