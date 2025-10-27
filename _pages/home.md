@@ -56,9 +56,9 @@ subtitle:
 }
 
 .hero-content {
-  margin-top: -4rem;
+  margin-top: 2rem;
   max-width: 1200px;
-  width: 100%;
+  width: 120vw;
   height: 100%;
   display: grid;
   gap: 3rem;
@@ -67,22 +67,46 @@ subtitle:
 }
 
 .hero-title {
-  font-size: 3rem;
-  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  font-size: 19vmin;
   color: var(--global-text-color);
   margin-bottom: 1rem;
   line-height: 1.1;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
-  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  /*text-align: center;*/
 }
 
+.title-text {
+  opacity: 0.8;
+  font-weight: 900;
+  /*letter-spacing: -15px;*/
+  font-family: Tahoma, sans-serif;
+  /*float: left;*/
+  border-bottom: 1px solid var(--global-text-color);
+  text-align: center;
+  display: inline-block;
+}
+
+
+.subsea-logo {
+  /*vertical-align: baseline;
+  height: 15vmin;
+  width: auto;*/
+  opacity: 1.0;
+  height: 15vmin;
+  vertical-align: bottom;
+} 
+
 .hero-subtitle {
-  font-size: 1.2rem;
+  font-size: 4vmin; /*1.2rem;*/
   color: var(--global-text-color);
   margin-bottom: 1.5rem;
   line-height: 1.3;
   font-weight: 400;
-  opacity: 1;
+  opacity: 0.8;
   text-align: center;
 }
 
@@ -155,7 +179,8 @@ subtitle:
 <div class="hero-container">
   <div class="hero-content">
     <div class="hero-text">
-      <h1 class="hero-title"><img src="assets/img/subsea_logo_small.png" alt="SUBSEA logo" width="18%" max-width="156" height=auto><br><br>SUBSEA</h1>
+      <h1 class="hero-title">
+      <img src="assets/img/subsea_logo_small.png" alt="SUBSEA logo" class="subsea-logo"><div class="title-text">SUBSEA</div></h1>
       <h2 class="hero-subtitle">Subtropical Underwater Biogeochemistry<br>and Subsurface Export Alliance</h2>
     </div>
   </div>
