@@ -76,15 +76,12 @@ subtitle:
   text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
   align-items: center;
   flex-direction: column;
-  /*text-align: center;*/
 }
 
 .title-text {
   opacity: 0.8;
   font-weight: 900;
-  /*letter-spacing: -15px;*/
   font-family: Tahoma, sans-serif;
-  /*float: left;*/
   border-bottom: 1px solid var(--global-text-color);
   text-align: center;
   display: inline-block;
@@ -92,16 +89,13 @@ subtitle:
 
 
 .subsea-logo {
-  /*vertical-align: baseline;
-  height: 15vmin;
-  width: auto;*/
   opacity: 1.0;
   height: 15vmin;
   vertical-align: bottom;
 } 
 
 .hero-subtitle {
-  font-size: 4vmin; /*1.2rem;*/
+  font-size: 4vmin; 
   color: var(--global-text-color);
   margin-bottom: 1.5rem;
   line-height: 1.3;
@@ -158,7 +152,7 @@ subtitle:
 @keyframes fadeInUp {
   from {
     opacity: 0;
-    transform: translateY(30px);
+    transform: translateY(20px);
   }
   to {
     opacity: 1;
