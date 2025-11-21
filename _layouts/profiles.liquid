@@ -3,8 +3,14 @@ layout: page
 ---
 <div class="post">
 {% if page.display_categories %}
+  <div id="category-list">
+  <div class="category-list-item">jump to:</div>
+  {% for category in page.display_categories %} 
+  <div class="category-list-item"><a href="#{{ category | replace: ' ', '-' }}">{{ category }}</a>{% unless forloop.last %} | {% endunless %}</div>
+  {% endfor %}
+  </div>
   {% for category in page.display_categories %}
-    <h2 class="category">{{ category }}</h2>
+    <h2 class="category" id={{ category | replace: ' ', '-' }}>{{ category }}</h2>
   {% assign categorized_profiles = page.profiles | where: "category", category %}
   <article>
     {% if categorized_profiles %}

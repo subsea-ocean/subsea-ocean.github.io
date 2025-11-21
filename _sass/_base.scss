@@ -196,7 +196,43 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+// About map
+
+.about-map {
+  width: 100%;
+}
+
+.about-map.float-right {
+  margin-left: 1rem;
+}
+
+.about-map.float-left {
+  margin-right: 1rem;
+}
+
+@media (min-width: 576px) {
+  .about-map {
+    width: 67%;
+  }
+}
+
 // Profile
+
+.category-list-item {
+  display: inline;
+  font-size: 1.2rem;
+  color: var(--global-text-color-light);
+
+  a:not(.active) {
+    color: var(--global-text-color-light);
+  }
+
+  a:hover {
+    color: var(--global-hover-color);
+    text-decoration: none;
+  }
+
+}
 
 .profile {
   width: 100%;
@@ -510,6 +546,11 @@ footer.sticky-bottom {
   }
 }
   
+}
+
+.gyre-map {
+  padding-right: 0;
+  padding-left: 0;
 }
 
 // CV
