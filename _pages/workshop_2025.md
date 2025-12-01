@@ -189,7 +189,7 @@ Repeat of previous day's rotations.
 | Time             | Event                                             | Who               |
 | ---------------- | ------------------------------------------------- | ----------------- |
 | 08:15            | Breakfast                                         |                   |
-| 09:00            | Lecture: Metabolic Rates from Diel O2             | Barone            |
+| 09:00            | Lecture: Metabolic Rates from Diel O<sub>2</sub>             | Barone            |
 |                  | **Group A**                                       |                   |
 | 11:00            | Walking Tour of UH Mānoa                          | Karl              |
 | 12:30            | Lunch                                             |                   |
