@@ -10,7 +10,7 @@ tabs: true
 #    sidebar: left
 ---
 
-Are you a participant? [Skip to the schedule.](#schedule)
+The 2025 OBVI workshop wrapped up Dec 12, 2025. [Read more here](/news/obvi_2025_workshop_wrapup)!
 
 {% include figure.liquid loading="eager" path="assets/img/Workshop2025Flyer.png" class="img-fluid rounded z-depth-0" %}
 
