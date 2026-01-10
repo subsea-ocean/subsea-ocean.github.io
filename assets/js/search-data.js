@@ -72,7 +72,12 @@ ninja.data = [{
             },},{id: "news-subsea-was-featured-in-the-online-science-magazine-nautilus-read-the-article-here",
           title: 'SUBSEA was featured in the online science magazine Nautilus! Read the article here....',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-2025-obvi-workshop-recap",
+          title: '2025 OBVI Workshop recap',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/obvi_2025_workshop_wrapup.html";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
