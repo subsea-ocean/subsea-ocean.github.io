@@ -30,3 +30,91 @@ Throughout the expedition, the team has been tracking diel vertical migration of
 The team also continues to marvel at the spatial variability in this ecosystem; for example, near-surface ocean concentrations of phosphate vary from <15 nM to as high as nearly 200 nM.
 
 The SUBSEA team continues to work at full capacity and with good spirits, with support from the captain, crew, and marine technicians aboard the R/V Falkor (too). Following completion of the current station occupation, the expedition will continue northward toward waters characterized by very low chlorophyll concentrations, where the team will conduct one final long-duration station occupation.
+
+<div id="subseaNews4Carousel" class="carousel slide mt-4 mb-4" data-ride="carousel" style="max-width:800px; margin:auto;">
+
+  <div class="carousel-inner" style="background:transparent; border-radius:0.25rem;">
+
+    <div class="carousel-item active">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img src="/assets/img/news/subsea32.jpg" alt="Deploying McLane pumps" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The team deploys the McLane pumps. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img src="/assets/img/news/subsea31.jpg" alt="Deploying the Wirewalker" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The team deploys the Wirewalker. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img src="/assets/img/news/subsea30.jpg" alt="Ricardo Letelier holding the HyperPro" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        Co-PI Dr. Ricardo Letelier holds the HyperPro before deployment. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img src="/assets/img/news/subsea29.jpg" alt="Trace metal rosette deployment" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The team deploys a trace metal rosette. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img src="/assets/img/news/subsea28.jpg" alt="Experiment bottles in incubator" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        Postdoctoral researcher Frank Xavier Ferrer González places experiment bottles in an incubator. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img src="/assets/img/news/subsea27.jpg" alt="Deploying an array" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The team deploys an array. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img src="/assets/img/news/subsea26.jpg" alt="Productivity array from small boat" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The productivity array as seen from a small boat. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img src="/assets/img/news/subsea25.jpg" alt="Deploying the VMP profiler" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The team deploys the VMP profiler. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+  </div>
+
+  <a class="carousel-control-prev" href="#subseaNews4Carousel" role="button" data-slide="prev" style="left:-90px; width:60px;">
+    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❮</span>
+  </a>
+
+  <a class="carousel-control-next" href="#subseaNews4Carousel" role="button" data-slide="next" style="right:-90px; width:60px;">
+    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❯</span>
+  </a>
+
+</div>
