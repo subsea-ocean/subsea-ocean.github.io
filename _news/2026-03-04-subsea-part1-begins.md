@@ -9,9 +9,9 @@ The SUBSEA team departed Rio de Janeiro aboard the R/V Falkor (too) this week to
 
 {% include figure.liquid
 loading="eager"
-path="assets/img/news/subsea1.png"
-class="img-fluid rounded z-depth-1"
-caption="R/V Falkor (too) heads into the Subtropical Gyre for the SUBSEA Part 1 expedition. Image Credit: Schmidt Ocean Institute"
+path="assets/img/news/subsea_part1_track.png"
+class="img-fluid rounded z-depth-1 mx-auto d-block w-75"
+caption="Planned cruise track for the SUBSEA Part 1 expedition in the South Atlantic."
 %}
 
 Subtropical gyres are among the largest continuous biomes on Earth and play an important role in global nutrient and carbon cycling. Although these regions are often nutrient-limited, they account for a substantial fraction of ocean primary productivity and carbon export. During the expedition, scientists will investigate nutrient exchange between the photic and twilight zones using a suite of oceanographic instruments, including CTD systems, drifters, gliders, McLane pumps, and Wirewalker profilers.
