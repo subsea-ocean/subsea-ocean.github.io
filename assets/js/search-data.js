@@ -82,8 +82,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-04-subsea-part1-begins.html";
-            },},{id: "news-subsea-part-1-science-operations-begin-at-station-1",
-          title: 'SUBSEA Part 1: Science Operations Begin at Station 1',
+            },},{id: "news-news-from-the-cruise-subsea-part-1-science-operations-begin",
+          title: 'News from the Cruise: SUBSEA Part 1 Science Operations Begin',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-07-subsea-part1-station1-operations.html";
