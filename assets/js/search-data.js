@@ -87,13 +87,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-07-subsea-part1-station1-operations.html";
-            },},{id: "news-news-from-the-cruise-subsea-part-1-week-2-update",
-          title: 'News from the Cruise: SUBSEA Part 1 Week 2 Update',
+            },},{id: "news-news-from-the-cruise-s-atlantic-cruise-1-week-2-update",
+          title: 'News from the Cruise: S.Atlantic Cruise 1 Week 2 Update',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-13-subsea-part1-week2-update.html";
-            },},{id: "news-news-from-the-cruise-subsea-part-1-mid-cruise-update",
-          title: 'News from the Cruise: SUBSEA Part 1 Mid-Cruise Update',
+            },},{id: "news-news-from-the-cruise-s-atlantic-cruise-1-mid-cruise-update",
+          title: 'News from the Cruise: S.Atlantic Cruise 1 Mid-Cruise Update',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-22-subsea-mid-cruise-update.html";
