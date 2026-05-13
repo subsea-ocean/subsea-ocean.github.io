@@ -37,56 +37,52 @@ Additional information about the expedition is available through the Schmidt Oce
 SUBSEA Part 1 – Schmidt Ocean Institute
 </a>
 
-<div class="row mt-3">
+<div class="row justify-content-center mt-4">
 
-  <div class="col-sm-4 mt-3 mt-md-0">
+  <div class="col-md-4 mb-4">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/news/subsea2.png"
+      path="assets/img/news/subsea_part1_news1_gallery/subsea2.jpg"
       class="img-fluid rounded z-depth-1"
       alt="Science team on heli deck departing Rio de Janeiro"
       caption="Members of the science team watch Rio de Janeiro recede into the distance from the R/V Falkor (too) heli deck. Image Credit: Schmidt Ocean Institute."
     %}
   </div>
 
-  <div class="col-sm-4 mt-3 mt-md-0">
+  <div class="col-md-4 mb-4">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/news/subsea3.png"
+      path="assets/img/news/subsea_part1_news1_gallery/subsea3.jpg"
       class="img-fluid rounded z-depth-1"
       alt="Science team aboard R/V Falkor too departing Rio"
       caption="Researchers gather on deck as the expedition departs Rio de Janeiro for the South Atlantic. Image Credit: Schmidt Ocean Institute."
     %}
   </div>
 
-  <div class="col-sm-4 mt-3 mt-md-0">
+  <div class="col-md-4 mb-4">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/news/subsea4.png"
+      path="assets/img/news/subsea_part1_news1_gallery/subsea4.jpg"
       class="img-fluid rounded z-depth-1"
       alt="Matt Church and Captain Peter Reynolds"
       caption="Chief Scientist Dr. Matt Church speaks with R/V Falkor (too) Captain Peter Reynolds during departure operations."
     %}
   </div>
 
-</div>
-
-<div class="row mt-3">
-
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col-md-6 mb-4">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/news/subsea5.png"
+      path="assets/img/news/subsea_part1_news1_gallery/subsea5.jpg"
       class="img-fluid rounded z-depth-1"
       alt="Rio de Janeiro coastline from the ship"
       caption="View of Rio de Janeiro from aboard the R/V Falkor (too) as the expedition begins."
     %}
   </div>
 
-  <div class="col-sm-6 mt-3 mt-md-0">
+  <div class="col-md-6 mb-4">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/news/subsea6.png"
+      path="assets/img/news/subsea_part1_news1_gallery/subsea6.jpg"
       class="img-fluid rounded z-depth-1"
       alt="Science team on heli deck"
       caption="Science team members gather on the heli deck while departing Rio de Janeiro. Image Credit: Schmidt Ocean Institute."
