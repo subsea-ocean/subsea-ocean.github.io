@@ -87,8 +87,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-07-subsea-part1-station1-operations.html";
-            },},{id: "news-subsea-part-1-sampling-expands-across-the-south-atlantic-gyre",
-          title: 'SUBSEA Part 1: Sampling Expands Across the South Atlantic Gyre',
+            },},{id: "news-subsea-part-1-week-2-update",
+          title: 'SUBSEA Part 1: Week 2 Update',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-13-subsea-part1-week2-update.html";
