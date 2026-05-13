@@ -24,8 +24,6 @@ The team observed notable differences between the two stations. At Station 2, th
 
 After recovering the sediment trap array on March 10, the team briefly returned to Rio de Janeiro to retrieve an additional container of scientific equipment needed for the next phase of the expedition. Following the port stop, the R/V Falkor (too) departed Rio again on March 12 and resumed transit toward the team’s next sampling stations in the South Atlantic.
 
-The team is now transiting back toward the original Station 1 location, where the Seaglider is currently operating and where researchers will begin a planned 96-hour station occupation. During this next phase, the team will conduct underway CTD profiling, trace metal rosette deployments, water collection for experiments, and additional observations designed to compare conditions across different parts of the subtropical gyre.
-
-Researchers also continue to examine the biological communities inhabiting the upper ocean and twilight zone. Zooplankton collected during net tows at Station 2 revealed a diverse planktonic community associated with the elevated chlorophyll feature.
+The team is now transiting back toward the original Station 1 location, where the Seaglider is currently operating and where researchers will begin a planned 96-hour station occupation. During this next phase, the team will continue to conduct underway CTD profiling, trace metal rosette deployments, and CTD water collection for experiments, but with the addition of McLane pump and Productivity array deployments.
 
 The SUBSEA team continues to receive excellent support from the captain, crew, and marine technicians aboard the R/V Falkor (too), enabling continuous science operations as the expedition progresses across the South Atlantic.
