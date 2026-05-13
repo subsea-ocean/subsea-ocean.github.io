@@ -43,61 +43,83 @@ SUBSEA Part 1 – Schmidt Ocean Institute
 
 <div id="subseaNews1Carousel" class="carousel slide mt-4 mb-4" data-ride="carousel" style="max-width:800px; margin:auto;">
 
-  <div class="carousel-inner" style="background:#f8f8f8; border-radius:0.25rem;">
+  <div class="carousel-inner" style="background:transparent; border-radius:0.25rem;">
 
     <div class="carousel-item active">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
-        <img src="/assets/img/news/subsea_part1_news1_gallery/subsea2.jpg" alt="Science team on the heli deck" style="max-height:100%; max-width:100%; object-fit:contain;">
+        <img 
+          src="/assets/img/news/subsea_part1_news1_gallery/subsea2.jpg"
+          alt="Science team on the heli deck"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
       </div>
-      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem;">
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
         Members of the science team watch Rio de Janeiro recede from the R/V Falkor (too) heli deck. Image Credit: Schmidt Ocean Institute.
       </p>
     </div>
 
     <div class="carousel-item">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
-        <img src="/assets/img/news/subsea_part1_news1_gallery/subsea3.jpg" alt="Researchers departing Rio de Janeiro" style="max-height:100%; max-width:100%; object-fit:contain;">
+        <img 
+          src="/assets/img/news/subsea_part1_news1_gallery/subsea3.jpg"
+          alt="Researchers departing Rio de Janeiro"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
       </div>
-      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem;">
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
         Researchers gather on deck as the expedition departs Rio de Janeiro for the South Atlantic. Image Credit: Schmidt Ocean Institute.
       </p>
     </div>
 
     <div class="carousel-item">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
-        <img src="/assets/img/news/subsea_part1_news1_gallery/subsea4.jpg" alt="Matt Church and Captain Peter Reynolds" style="max-height:100%; max-width:100%; object-fit:contain;">
+        <img 
+          src="/assets/img/news/subsea_part1_news1_gallery/subsea4.jpg"
+          alt="Matt Church and Captain Peter Reynolds"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
       </div>
-      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem;">
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
         Chief Scientist Dr. Matt Church speaks with R/V Falkor (too) Captain Peter Reynolds during departure operations.
       </p>
     </div>
 
     <div class="carousel-item">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
-        <img src="/assets/img/news/subsea_part1_news1_gallery/subsea5.jpg" alt="Rio de Janeiro from R/V Falkor too" style="max-height:100%; max-width:100%; object-fit:contain;">
+        <img 
+          src="/assets/img/news/subsea_part1_news1_gallery/subsea5.jpg"
+          alt="Rio de Janeiro from R/V Falkor too"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
       </div>
-      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem;">
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
         View of Rio de Janeiro from aboard the R/V Falkor (too) as the expedition begins.
       </p>
     </div>
 
     <div class="carousel-item">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
-        <img src="/assets/img/news/subsea_part1_news1_gallery/subsea6.jpg" alt="Science team on heli deck" style="max-height:100%; max-width:100%; object-fit:contain;">
+        <img 
+          src="/assets/img/news/subsea_part1_news1_gallery/subsea6.jpg"
+          alt="Science team on heli deck"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
       </div>
-      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem;">
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
         Science team members gather on the heli deck while departing Rio de Janeiro. Image Credit: Schmidt Ocean Institute.
       </p>
     </div>
 
   </div>
 
-  <a class="carousel-control-prev" href="#subseaNews1Carousel" role="button" data-slide="prev" style="left:-60px;">
-    <span class="carousel-control-prev-icon" aria-hidden="true" style="filter:invert(1);"></span>
+  <a class="carousel-control-prev" href="#subseaNews1Carousel" role="button" data-slide="prev" style="left:-90px; width:60px;">
+    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❮</span>
   </a>
 
-  <a class="carousel-control-next" href="#subseaNews1Carousel" role="button" data-slide="next" style="right:-60px;">
-    <span class="carousel-control-next-icon" aria-hidden="true" style="filter:invert(1);"></span>
+  <a class="carousel-control-next" href="#subseaNews1Carousel" role="button" data-slide="next" style="right:-90px; width:60px;">
+    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❯</span>
   </a>
 
 </div>
+
+
