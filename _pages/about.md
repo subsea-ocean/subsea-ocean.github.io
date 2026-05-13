@@ -101,6 +101,5 @@ This video features research activities and field operations from the recent SUB
 {% include figure.liquid
 loading="eager"
 path="assets/img/about_gallery/about_gallery_0.jpg"
-class="img-fluid rounded z-depth-1 mx-auto d-block w-75"
-caption="Research activities during the SUBSEA expedition."
+class="img-fluid rounded z-depth-1 mx-auto d-block w-100"
 %}
