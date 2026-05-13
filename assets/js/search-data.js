@@ -97,6 +97,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-22-subsea-mid-cruise-update.html";
+            },},{id: "news-news-from-the-cruise-subsea-part-1-final-long-station",
+          title: 'News from the Cruise: SUBSEA Part 1 Final Long Station',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-28-subsea-bloom-dynamics-final-station.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
