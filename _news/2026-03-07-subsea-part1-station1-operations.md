@@ -7,7 +7,7 @@ inline: false
 
 The SUBSEA team began operations at the first sampling station on March 5 after mapping near-surface phosphate concentrations across the western South Atlantic. The station was selected in waters with very low phosphate concentrations, providing an opportunity to study nutrient limitation and biogeochemical cycling in the subtropical gyre.
 
-At Station 1, the team deployed a sediment trap array at 75 meters and 150 meters to measure the export of carbon, nitrogen, phosphorus, silica, and trace metals from the upper ocean and across the base of the photic zone. Scientists also conducted a series of CTD casts to collect high-resolution water samples for measurements of nutrients, pigments, microbial community composition, particulate carbon and nitrogen, metabolites, oxygen production, respiration, and net ecosystem production.
+At Station 1, the team deployed a sediment trap array at 75 meters and 150 meters to measure the export of carbon, nitrogen, phosphorus, silica, and trace metals from the upper ocean and across the base of the photic zone. They also conducted a series of CTD casts to collect high-resolution water samples for measurements of nutrients, pigments, microbial community composition, particulate carbon and nitrogen, metabolites, oxygen production, respiration, and net ecosystem production.
 
 The team also successfully launched a Seaglider, conducted day and night net tows, and collected trace-metal-clean seawater for nutrient limitation experiments. Together, these measurements will help characterize how biological and chemical processes vary across the upper ocean and twilight zone.
 
