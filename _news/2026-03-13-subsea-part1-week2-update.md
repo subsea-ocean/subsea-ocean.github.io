@@ -18,7 +18,7 @@ The team observed notable differences between the two stations. At Station 2, th
     >
   </a>
   <figcaption style="font-size:0.9em; margin-top:0.5rem;">
-    INSERT CAPTION HERE.
+    Satellite ocean color image (March 8) depicting Station 1 and 2 (orange circles), where station 1 is to the south and Station 2 is to the north (image courtesy of co-PI Dr. Benedetto Barone).
   </figcaption>
 </figure>
 
