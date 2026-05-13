@@ -32,3 +32,123 @@ SUBSEA Part 1 Seaglider Tracking
 </div>
 
 Over the next phase of the cruise, the team will continue sampling in low-phosphate waters before moving north toward waters with elevated chlorophyll concentrations. Comparing these different oceanographic conditions will help researchers investigate how the subsurface export loop varies across the South Atlantic Subtropical Gyre.
+
+<div id="subseaNews2Carousel" class="carousel slide mt-4 mb-4" data-ride="carousel" style="max-width:800px; margin:auto;">
+
+  <div class="carousel-inner" style="background:transparent; border-radius:0.25rem;">
+
+    <div class="carousel-item active">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea7.jpg"
+          alt="Sediment trap deployment"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The team deploys the first sediment trap of the cruise. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea8.jpg"
+          alt="Seaglider deployment"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The team deploys the Seaglider from a small boat. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea9.jpg"
+          alt="Seaglider in the water"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The Seaglider in the water. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea10.jpg"
+          alt="Matt Church measuring phosphate concentrations"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        Chief Scientist Dr. Matt Church measures near-surface phosphate concentrations. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea11.jpg"
+          alt="Nicholas Hawco filtering water for trace metals"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        Co-PI Dr. Nicholas Hawco filters water for trace metals in the wet lab. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea12.jpg"
+          alt="CTD sampling operations"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The team samples from the CTD. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea13.jpg"
+          alt="CTD sampling operations"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The team samples from the CTD. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea14.jpg"
+          alt="CTD sampling operations"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        The team samples from the CTD. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+  </div>
+
+  <a class="carousel-control-prev" href="#subseaNews2Carousel" role="button" data-slide="prev" style="left:-90px; width:60px;">
+    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❮</span>
+  </a>
+
+  <a class="carousel-control-next" href="#subseaNews2Carousel" role="button" data-slide="next" style="right:-90px; width:60px;">
+    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❯</span>
+  </a>
+
+</div>
