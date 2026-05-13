@@ -55,7 +55,9 @@ SUBSEA (Subtropical Underwater Biogeochemistry and Subsurface Export Alliance) i
 
 This video features research activities and field operations from the recent SUBSEA Part 1 expedition aboard the R/V Falkor (too).
 
-[Learn more about the SUBSEA Part 1 cruise here.](LINK_GOES_HERE)
+[Learn more about the SUBSEA Part 1 cruise here.](/news/2026-03-04-subsea-part1-begins/)
+
+<div style="height: 40px;"></div>
 
 ## Partner Institutions
 
@@ -90,3 +92,15 @@ This video features research activities and field operations from the recent SUB
   <div class="col-sm mt-3 mt-md-0 align-self-center">
   </div>
 </div>
+
+
+<p> <br> </p>
+
+<div style="height: 40px;"></div>
+
+{% include figure.liquid
+loading="eager"
+path="assets/img/about_gallery/about_gallery_0.jpg"
+class="img-fluid rounded z-depth-1 mx-auto d-block w-75"
+caption="Research activities during the SUBSEA expedition."
+%}
