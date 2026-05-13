@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SUBSEA Part 1: Science Operations Begin at Station 1"
+title: "News from the Cruise: SUBSEA Part 1 Science Operations Begin"
 date: 2026-03-07
 inline: false
 ---
