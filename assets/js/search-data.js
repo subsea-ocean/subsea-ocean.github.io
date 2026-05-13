@@ -77,6 +77,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/obvi_2025_workshop_wrapup.html";
+            },},{id: "news-subsea-part-1-begins-in-the-south-atlantic",
+          title: 'SUBSEA Part 1 Begins in the South Atlantic',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-04-subsea-part1-begins.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
