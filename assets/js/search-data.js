@@ -92,6 +92,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-13-subsea-part1-week2-update.html";
+            },},{id: "news-news-from-the-cruise-subsea-part-1-mid-cruise-update",
+          title: 'News from the Cruise: SUBSEA Part 1 Mid-Cruise Update',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-22-subsea-mid-cruise-update.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
