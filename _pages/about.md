@@ -39,15 +39,23 @@ SUBSEA (Subtropical Underwater Biogeochemistry and Subsurface Export Alliance) i
 
 <p> <br> </p>
 
-<swiper-container navigation="true" rewind="true">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery/about_gallery_0.jpg" class="img-fluid rounded" alt="Scientists stand and walk on the deck of a research vessel. Some are walking while others stand by the edge of the ship and look out at the ocean." %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery/about_gallery_1.jpg" class="img-fluid rounded" alt="The SUBSEA team readies a Wirewalker for deployment from a research ship at night." %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery/about_gallery_2.jpg" class="img-fluid rounded" alt="Four scientists stand at the rear of a ship, looking out towards the ocean, with the sun setting in front of them." %}</swiper-slide> 
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery/about_gallery_3.jpg" class="img-fluid rounded" alt="Four men stand at a blue railing, lowering scientific equipment into the ocean." %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/about_gallery/about_gallery_4.jpg" class="img-fluid rounded" alt="Three scientists work together to lift a sediment trap array over the edge of the ship while others look on." %}</swiper-slide>
-</swiper-container>
+## Learn More About SUBSEA
 
-<br>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe
+    src="https://www.youtube.com/embed/EPcPzG4f59Q"
+    title="SUBSEA Expedition Video"
+    style="position: absolute; top:0; left:0; width:100%; height:100%;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
+*Credit: Schmidt Ocean Institute*
+
+This video features research activities and field operations from the recent SUBSEA Part 1 expedition aboard the R/V Falkor (too).
+
+[Learn more about the SUBSEA Part 1 cruise here.](LINK_GOES_HERE)
 
 ## Partner Institutions
 
