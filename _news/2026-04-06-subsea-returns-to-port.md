@@ -47,6 +47,48 @@ As the cruise concluded, the captain and crew hosted an Easter Sunday barbecue a
   </figcaption>
 </figure>
 
-As the expedition comes to an end in Salvador, the SUBSEA team reflects not only on the scientific accomplishments of the cruise, but also on the remarkable collaboration that developed over more than a month at sea. Researchers, crew members, and technicians worked together continuously under demanding conditions, building both an extraordinary scientific dataset and lasting connections through shared experiences in one of the most remote regions of the Atlantic Ocean.
+As the expedition comes to an end in Salvador, the SUBSEA team reflects not only on the scientific accomplishments of the cruise, but also on the remarkable collaboration that developed over more than a month at sea. 
+
+<div id="subseaNews6Carousel" class="carousel slide mt-4 mb-4" data-ride="carousel" style="max-width:800px; margin:auto;">
+
+  <div class="carousel-inner" style="background:transparent; border-radius:0.25rem;">
+
+    <div class="carousel-item active">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea42.jpg"
+          alt="SUBSEA team aboard Falkor too"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        Scientists from the SUBSEA Part 1 expedition pose in front of the A-frame on the aft deck of the R/V Falkor (too). Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+    <div class="carousel-item">
+      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea44.jpg"
+          alt="Sunset from Falkor too aft deck"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
+        View from the aft deck of the R/V Falkor (too) during sunset. Image Credit: Schmidt Ocean Institute.
+      </p>
+    </div>
+
+  </div>
+
+  <a class="carousel-control-prev" href="#subseaNews6Carousel" role="button" data-slide="prev" style="left:-90px; width:60px;">
+    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❮</span>
+  </a>
+
+  <a class="carousel-control-next" href="#subseaNews6Carousel" role="button" data-slide="next" style="right:-90px; width:60px;">
+    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❯</span>
+  </a>
+
+</div>Researchers, crew members, and technicians worked together continuously under demanding conditions, building both an extraordinary scientific dataset and lasting connections through shared experiences in one of the most remote regions of the Atlantic Ocean.
 
 The SUBSEA team extends tremendous gratitude to everyone aboard the R/V Falkor (too) whose dedication, expertise, and enthusiasm made the expedition possible.
