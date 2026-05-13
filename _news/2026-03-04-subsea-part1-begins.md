@@ -9,7 +9,7 @@ The SUBSEA team departed Rio de Janeiro aboard the R/V Falkor (too) this week to
 
 <figure style="text-align:center;">
   <img 
-    src="/assets/img/news/subsea1.png"
+    src="/assets/img/news/subsea1.jpg"
     alt="R/V Falkor (too) departing Rio de Janeiro"
     style="max-width:700px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
   >
