@@ -102,6 +102,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-28-subsea-bloom-dynamics-final-station.html";
+            },},{id: "news-news-from-the-cruise-s-atlantic-cruise-1-returns-to-port",
+          title: 'News from the Cruise: S.Atlantic Cruise 1 Returns to Port',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-04-06-subsea-returns-to-port.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
