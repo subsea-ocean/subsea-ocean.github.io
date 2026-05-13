@@ -11,7 +11,7 @@ Subtropical gyres are among the largest continuous biomes on Earth and play an i
 
 {% include figure.liquid
 loading="eager"
-path="assets/img/news/subsea_part1_track.jpg"
+path="assets/img/news/subsea_part1_track.png"
 class="img-fluid rounded z-depth-1"
 caption="Planned cruise track for the SUBSEA Part 1 expedition in the South Atlantic."
 %}
