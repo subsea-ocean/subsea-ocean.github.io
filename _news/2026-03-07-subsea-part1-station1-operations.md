@@ -17,4 +17,12 @@ Near real-time Seaglider data from the expedition can be viewed here:
 SUBSEA Part 1 Seaglider Tracking
 </a>
 
+<div style="text-align:center; margin: 30px 0;">
+  <img 
+    src="/assets/img/subseaglider.jpg"
+    alt="SUBSEA Seaglider deployment"
+    style="max-width:450px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
+  >
+</div>
+
 Over the next phase of the cruise, the team will continue sampling in low-phosphate waters before moving north toward waters with elevated chlorophyll concentrations. Comparing these different oceanographic conditions will help researchers investigate how the subsurface export loop varies across the South Atlantic Subtropical Gyre.
