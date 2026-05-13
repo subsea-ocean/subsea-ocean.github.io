@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SUBSEA Part 1: Sampling Expands Across the South Atlantic Gyre"
+title: "SUBSEA Part 1: Week 2 Update"
 date: 2026-03-13
 inline: false
 ---
