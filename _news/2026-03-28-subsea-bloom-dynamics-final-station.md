@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "News from the Cruise: SUBSEA Part 1 Final Long Station"
+title: "News from the Cruise: S.Atlantic Cruise 1 Final Long Station"
 date: 2026-03-28
 inline: false
 ---
