@@ -82,6 +82,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-04-subsea-part1-begins.html";
+            },},{id: "news-subsea-part-1-science-operations-begin-at-station-1",
+          title: 'SUBSEA Part 1: Science Operations Begin at Station 1',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-07-subsea-part1-station1-operations.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
