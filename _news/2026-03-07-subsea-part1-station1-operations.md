@@ -11,11 +11,15 @@ At Station 1, the team deployed a sediment trap array at 75 meters and 150 meter
 
 The team also successfully launched a Seaglider, conducted day and night net tows, and collected trace-metal-clean seawater for nutrient limitation experiments. Together, these measurements will help characterize how biological and chemical processes vary across the upper ocean and twilight zone.
 
-Near real-time Seaglider data from the expedition can be viewed here:
+<div style="text-align:center; margin-top:20px;">
+
+<p>Near real-time Seaglider data from the expedition can be viewed here:</p>
 
 <a href="https://hahana.soest.hawaii.edu/seagliders/SGdiveTrack.html?sgGlider=513&sgMission=017&sgZoom=6&sgLat=-25.5&sgLon=-38.0" target="_blank">
 SUBSEA Part 1 Seaglider Tracking
 </a>
+
+</div>
 
 <div style="text-align:center; margin: 30px 0;">
   <img 
