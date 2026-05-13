@@ -91,7 +91,7 @@ ninja.data = [{
           title: 'SUBSEA Part 1: Sampling Expands Across the South Atlantic Gyre',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/title:%20%22News%20from%20the%20Cruise:%20SUBSEA%20Part%201%20Week%202%20Update%22";
+              window.location.href = "/news/2026-03-13-subsea-part1-week2-update.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
