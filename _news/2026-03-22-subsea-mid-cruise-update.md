@@ -13,6 +13,19 @@ Science operations during these long stations are intense and round the clock. T
 
 After the 96 hour occupation, the expedition continued northeastward, toward a region where satellite observations indicated elevated chlorophyll concentrations persisting for several months. While in transit to this station, the team conducted round the clock underway CTD profiles, collected regular samples from the ship’s underway seawater system, and measured concentrations of phosphate. The station location was identified based on near-real time analyses of the underway CTD data, which identified the ship had entered a region where chlorophyll concentrations in the upper ocean were elevated relative to surrounding waters. The team is currently at this station (Station 7), and initial observations suggest strong particle abundance in the upper ocean, with the chlorophyll maximum occurring at shallower depths than at previous stations.
 
+<figure style="text-align:center;">
+  <a href="/assets/img/news/newmap.jpeg" target="_blank">
+    <img 
+      src="/assets/img/news/newmap.jpeg"
+      alt="Satellite ocean color map showing Station 7"
+      style="max-width:450px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
+    >
+  </a>
+  <figcaption style="font-size:0.9em; margin-top:0.5rem;">
+    Satellite ocean color depicting the location of Station 7 (orange triangle), characterized by elevated chlorophyll relative to the ship’s position (yellow triangle) on March 20, 2026. Figure courtesy of co-PI Dr. Benedetto Barone.
+  </figcaption>
+</figure>
+
 Throughout the expedition, the team has been tracking diel vertical migration of zooplankton and small fish using the amazing shipboard acoustic sensors. Watching these organisms move hundreds of meters each day is amazing -  they ascend rapidly in the late afternoon, remain at the surface until the predawn hours, then move quickly back to 320-400 m depth where they reside for most of the daylight hours. It’s both remarkable and exhausting to contemplate this as a daily routine.
 The team also continues to marvel at the spatial variability in this ecosystem; for example, near-surface ocean concentrations of phosphate vary from <15 nM to as high as nearly 200 nM.
 
