@@ -97,7 +97,7 @@ The SUBSEA team continues to receive excellent support from the captain, crew, a
 
     <div class="carousel-item">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
-        <img src="/assets/img/news/subsea14.jpg" alt="Sediment trap preparation" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
+        <img src="/assets/img/news/st.jpg" alt="Sediment trap preparation" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
       </div>
       <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
         Preparing a sediment trap for deployment. Image Credit: Schmidt Ocean Institute.
