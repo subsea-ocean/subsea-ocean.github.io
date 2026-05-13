@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "News from the Cruise: SUBSEA Part 1 Mid-Cruise Update"
+title: "News from the Cruise: S.Atlantic Cruise 1 Mid-Cruise Update"
 date: 2026-03-22
 inline: false
 ---
