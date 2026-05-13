@@ -8,11 +8,13 @@ inline: false
 The SUBSEA team departed Rio de Janeiro aboard the R/V Falkor (too) this week to begin the first expedition of the project in the subtropical South Atlantic. Over the coming weeks, researchers will conduct interdisciplinary observations across the South Atlantic Subtropical Gyre to investigate connections between upper ocean productivity, subsurface ecosystems, and carbon export to the deep sea.
 
 <figure style="text-align:center;">
-  <img 
-    src="/assets/img/news/subsea1.jpg"
-    alt="R/V Falkor (too) departing Rio de Janeiro"
-    style="max-width:700px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
-  >
+  <a href="/assets/img/news/subsea1.jpg" target="_blank">
+    <img 
+      src="/assets/img/news/subsea1.jpg"
+      alt="R/V Falkor (too) departing Rio de Janeiro"
+      style="max-width:450px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
+    >
+  </a>
   <figcaption style="font-size:0.9em; margin-top:0.5rem;">
     R/V Falkor (too) heads into the Subtropical Gyre for the SUBSEA Part 1 expedition. Image Credit: Schmidt Ocean Institute.
   </figcaption>
@@ -21,11 +23,13 @@ The SUBSEA team departed Rio de Janeiro aboard the R/V Falkor (too) this week to
 Subtropical gyres are among the largest continuous biomes on Earth and play an important role in global nutrient and carbon cycling. Although these regions are often nutrient-limited, they account for a substantial fraction of ocean primary productivity and carbon export. During the expedition, scientists will investigate nutrient exchange between the photic and twilight zones using a suite of oceanographic instruments, including CTD systems, drifters, gliders, McLane pumps, and Wirewalker profilers.
 
 <figure style="text-align:center;">
-  <img 
-    src="/assets/img/news/subsea_part1_track.png"
-    alt="Planned cruise track for the SUBSEA Part 1 expedition in the South Atlantic"
-    style="max-width:700px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
-  >
+  <a href="/assets/img/news/subsea_part1_track.png" target="_blank">
+    <img 
+      src="/assets/img/news/subsea_part1_track.png"
+      alt="Planned cruise track for the SUBSEA Part 1 expedition in the South Atlantic"
+      style="max-width:450px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
+    >
+  </a>
   <figcaption style="font-size:0.9em; margin-top:0.5rem;">
     Planned cruise track for the SUBSEA Part 1 expedition in the South Atlantic.
   </figcaption>
