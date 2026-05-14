@@ -34,12 +34,13 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 <figure style="text-align:center;">
   <a href="/assets/img/newgrouppic.jpg" target="_blank">
     <img 
-      src="/assets/img/news/newgrouppic.jpg"
+      src="/assets/img/newgrouppic.jpg"
       alt="SUBSEA science team aboard Falkor too"
       style="max-width:900px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
     >
   </a>
-  <figcaption style="font-size:0.85em; margin-top:0.5rem; text-align:left;">
+
+  <figcaption style="font-size:0.85em; margin-top:0.75rem; text-align:left;">
     <strong>Back row:</strong> Nick Hawco, Bob Hall, Kelly George, Mattia Da Fieno, Pierre Marrec, Hilary Close, Matt Church, Benedetto Barone, Frank Xavier Ferrer Gonzalez<br><br>
 
     <strong>Middle row:</strong> Katie Coates, Hunter Adams, Calvin Swart, Tully Rohrer, Angelique White, Alexis Floback, Raquel Flynn, María Luz Torres Alberto, Micaela Gonella, Jason Friesen, Dailen Jeng<br><br>
@@ -47,13 +48,6 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
     <strong>Front row:</strong> Jared McGourty, Susan Garcia, Esther Mak, Ricardo Letelier, Daniela Del Valle, Richelle Ellis, Alexandra Skrivanek, Deepika Sahoo
   </figcaption>
 </figure>
-
-<div style="text-align:center; margin-top:20px;">
-  <a href="https://schmidtocean.org/cruise/subsea-part-1/" target="_blank">
-    Meet the Team
-  </a>
-</div>
-
 ---
 
 ## Expedition Photo Gallery
