@@ -58,6 +58,13 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
     <strong>Front row:</strong> Jared McGourty, Susan Garcia, Esther Mak, Ricardo Letelier, Daniela Del Valle, Richelle Ellis, Alexandra Skrivanek, Deepika Sahoo
   </figcaption>
 </figure>
+
+<div style="text-align:center; margin: 25px 0 40px 0;">
+  <a href="/subsea-part-1/team/" style="font-size:1.1em;">
+    Meet the Team
+  </a>
+</div>
+
 ---
 
 <h2 style="text-align:center;">
