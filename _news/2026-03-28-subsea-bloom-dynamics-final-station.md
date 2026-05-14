@@ -66,7 +66,7 @@ The SUBSEA team continues to work with remarkable energy and collaboration as th
 
     <div class="carousel-item">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
-        <img src="/assets/img/news/subsea38.jpg" alt="Recovering the productivity array" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
+        <img src="/assets/img/news/subsea41.jpg" alt="Recovering the productivity array" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;">
       </div>
       <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
         Hunter Adams throws a grabbing hook to recover the productivity array. Image Credit: Schmidt Ocean Institute.
