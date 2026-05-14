@@ -7,7 +7,7 @@ nav: false
 
 # SUBSEA Part 1 Team
 
-Meet the scientists, students, technicians, and collaborators who participated in the first SUBSEA South Atlantic expedition aboard the R/V *Falkor* (too).
+Meet the members of the SUBSEA team and collaborators who participated in the first SUBSEA South Atlantic expedition aboard the R/V *Falkor* (too).
 
 <div class="row text-center mt-4">
 
