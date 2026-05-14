@@ -316,3 +316,31 @@ nav: false
   </a>
 
 </div>
+
+<div class="col-md-3 col-sm-6 mb-5">
+
+  <a href="/subsea-part-1/team/maria-luz-torres-alberto/" style="text-decoration:none; color:inherit;">
+
+    <img 
+      src="/assets/img/marialuztorresalbertocruise.png"
+      alt="María Luz Torres Alberto"
+      style="
+        width:160px;
+        height:160px;
+        object-fit:cover;
+        border-radius:50%;
+        border:6px solid white;
+      "
+    >
+
+    <h5 style="margin-top:15px;">
+      María Luz Torres Alberto
+    </h5>
+
+    <p style="font-size:0.9em;">
+      Postdoctoral Researcher
+    </p>
+
+  </a>
+
+</div>
