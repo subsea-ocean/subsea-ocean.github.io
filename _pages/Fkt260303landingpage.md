@@ -393,7 +393,9 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
 .media-card img {
   width: 100%;
-  height: 220px;
+  height: 250px;
+  min-height: 250px;
+  max-height: 250px;
   object-fit: cover;
   display: block;
 }
