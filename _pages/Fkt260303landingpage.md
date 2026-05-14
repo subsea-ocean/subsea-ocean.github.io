@@ -58,7 +58,65 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
 ## Expedition Photo Gallery
 
-Add a large combined carousel/gallery here later using all uploaded expedition photos from the cruise updates.
+<div id="subseaLandingGallery" class="carousel slide mt-4 mb-4" data-ride="carousel" style="max-width:900px; margin:auto;">
+
+  <div class="carousel-inner" style="background:transparent; border-radius:0.25rem;">
+
+    <div class="carousel-item active"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea_part1_news1_gallery/subsea2.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea_part1_news1_gallery/subsea3.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea_part1_news1_gallery/subsea4.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea_part1_news1_gallery/subsea5.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea_part1_news1_gallery/subsea6.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea7.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea8.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea9.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea10.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea11.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea12.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea13.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea14.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea17.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea18.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea19.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea20.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea21.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea22.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea23.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea25.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea26.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea27.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea28.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea29.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea30.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea31.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea32.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea33.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea34.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea35.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea36.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea37.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea38.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea39.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea40.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea42.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea44.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+
+  </div>
+
+  <a class="carousel-control-prev" href="#subseaLandingGallery" role="button" data-slide="prev" style="left:-90px; width:60px;">
+    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❮</span>
+  </a>
+
+  <a class="carousel-control-next" href="#subseaLandingGallery" role="button" data-slide="next" style="right:-90px; width:60px;">
+    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❯</span>
+  </a>
+
+</div>
 
 ---
 
