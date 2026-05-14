@@ -204,3 +204,31 @@ nav: false
   </a>
 
 </div>
+
+<div class="col-md-3 col-sm-6 mb-5">
+
+  <a href="/subsea-part-1/team/angelicque-white/" style="text-decoration:none; color:inherit;">
+
+    <img 
+      src="/assets/img/angelicquewhitecruise.png"
+      alt="Angelicque White"
+      style="
+        width:160px;
+        height:160px;
+        object-fit:cover;
+        border-radius:50%;
+        border:6px solid white;
+      "
+    >
+
+    <h5 style="margin-top:15px;">
+      Angelicque White
+    </h5>
+
+    <p style="font-size:0.9em;">
+      Co-PI
+    </p>
+
+  </a>
+
+</div>
