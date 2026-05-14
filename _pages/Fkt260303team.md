@@ -34,7 +34,17 @@ nav: false
 
 <div class="container">
 
-  <div class="row justify-content-center text-center">
+<div class="row justify-content-center text-center">
+
+<!-- Alexandra Skrivanek -->
+<div class="col-md-3 col-sm-6 mb-5">
+  <a href="/subsea-part-1/team/alexandra-skrivanek/" style="text-decoration:none; color:inherit;">
+    <img src="/assets/img/alexandraskrivanekcruise.png" alt="Alexandra Skrivanek"
+      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
+    <h5 style="margin-top:15px;">Alexandra Skrivanek</h5>
+    <p style="font-size:0.9em;">Program Scientist</p>
+  </a>
+</div>
 
 <!-- Matthew Church -->
 <div class="col-md-3 col-sm-6 mb-5">
@@ -109,7 +119,7 @@ nav: false
 <!-- Angelicque White -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/angelicque-white/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/angelicquewhitecruise.png" alt="Angelicque White"
+    <img src="/assets/img/angeliquewhitecruise.png" alt="Angelicque White"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Angelicque White</h5>
     <p style="font-size:0.9em;">Co-PI</p>
@@ -156,6 +166,16 @@ nav: false
   </a>
 </div>
 
+<!-- Frank Xavier Ferrer González -->
+<div class="col-md-3 col-sm-6 mb-5">
+  <a href="/subsea-part-1/team/frank-xavier-ferrer-gonzalez/" style="text-decoration:none; color:inherit;">
+    <img src="/assets/img/frankxavierferrergonzálezcruise%20(2).png" alt="Frank Xavier Ferrer González"
+      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
+    <h5 style="margin-top:15px;">Frank Xavier Ferrer González</h5>
+    <p style="font-size:0.9em;">Postdoctoral Researcher</p>
+  </a>
+</div>
+
 <!-- Jason Freisen -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/jason-freisen/" style="text-decoration:none; color:inherit;">
@@ -176,6 +196,16 @@ nav: false
   </a>
 </div>
 
+<!-- Susan Garcia -->
+<div class="col-md-3 col-sm-6 mb-5">
+  <a href="/subsea-part-1/team/susan-garcia/" style="text-decoration:none; color:inherit;">
+    <img src="/assets/img/susangarciacruise.png" alt="Susan Garcia"
+      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
+    <h5 style="margin-top:15px;">Susan Garcia</h5>
+    <p style="font-size:0.9em;">Ph.D. Student</p>
+  </a>
+</div>
+
 <!-- Raquel Flynn -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/raquel-flynn/" style="text-decoration:none; color:inherit;">
@@ -183,6 +213,36 @@ nav: false
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Raquel Flynn</h5>
     <p style="font-size:0.9em;">Research Scientist</p>
+  </a>
+</div>
+
+<!-- Kelly George -->
+<div class="col-md-3 col-sm-6 mb-5">
+  <a href="/subsea-part-1/team/kelly-george/" style="text-decoration:none; color:inherit;">
+    <img src="/assets/img/kellygeorgecruise.png" alt="Kelly George"
+      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
+    <h5 style="margin-top:15px;">Kelly George</h5>
+    <p style="font-size:0.9em;">Research Assistant</p>
+  </a>
+</div>
+
+<!-- Pierre Marrec -->
+<div class="col-md-3 col-sm-6 mb-5">
+  <a href="/subsea-part-1/team/pierre-marrec/" style="text-decoration:none; color:inherit;">
+    <img src="/assets/img/pierremarreccruise.png" alt="Pierre Marrec"
+      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
+    <h5 style="margin-top:15px;">Pierre Marrec</h5>
+    <p style="font-size:0.9em;">Field Coordinator</p>
+  </a>
+</div>
+
+<!-- Micaela Gonella -->
+<div class="col-md-3 col-sm-6 mb-5">
+  <a href="/subsea-part-1/team/micaela-gonella/" style="text-decoration:none; color:inherit;">
+    <img src="/assets/img/micaelagonellacruise.png" alt="Micaela Gonella"
+      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
+    <h5 style="margin-top:15px;">Micaela Gonella</h5>
+    <p style="font-size:0.9em;">Intern</p>
   </a>
 </div>
 
@@ -226,46 +286,6 @@ nav: false
   </a>
 </div>
 
-<!-- Pierre Marrec -->
-<div class="col-md-3 col-sm-6 mb-5">
-  <a href="/subsea-part-1/team/pierre-marrec/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/pierremarreccruise.png" alt="Pierre Marrec"
-      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
-    <h5 style="margin-top:15px;">Pierre Marrec</h5>
-    <p style="font-size:0.9em;">Field Coordinator</p>
-  </a>
-</div>
-
-<!-- Alexandra Skrivanek -->
-<div class="col-md-3 col-sm-6 mb-5">
-  <a href="/subsea-part-1/team/alexandra-skrivanek/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/alexandraskrivanekcruise.png" alt="Alexandra Skrivanek"
-      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
-    <h5 style="margin-top:15px;">Alexandra Skrivanek</h5>
-    <p style="font-size:0.9em;">Program Scientist</p>
-  </a>
-</div>
-
-<!-- Frank Xavier Ferrer González -->
-<div class="col-md-3 col-sm-6 mb-5">
-  <a href="/subsea-part-1/team/frank-xavier-ferrer-gonzalez/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/frankxavierferrergonzalezcruise.png" alt="Frank Xavier Ferrer González"
-      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
-    <h5 style="margin-top:15px;">Frank Xavier Ferrer González</h5>
-    <p style="font-size:0.9em;">Postdoctoral Researcher</p>
-  </a>
-</div>
-
-<!-- Kelly George -->
-<div class="col-md-3 col-sm-6 mb-5">
-  <a href="/subsea-part-1/team/kelly-george/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/kellygeorgecruise.png" alt="Kelly George"
-      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
-    <h5 style="margin-top:15px;">Kelly George</h5>
-    <p style="font-size:0.9em;">Research Assistant</p>
-  </a>
-</div>
-
 <!-- Mattia Da Fieno -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/mattia-da-fieno/" style="text-decoration:none; color:inherit;">
@@ -276,26 +296,6 @@ nav: false
   </a>
 </div>
 
-<!-- Micaela Gonella -->
-<div class="col-md-3 col-sm-6 mb-5">
-  <a href="/subsea-part-1/team/micaela-gonella/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/micaelagonellacruise.png" alt="Micaela Gonella"
-      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
-    <h5 style="margin-top:15px;">Micaela Gonella</h5>
-    <p style="font-size:0.9em;">Intern</p>
-  </a>
 </div>
-
-<!-- Susan Garcia -->
-<div class="col-md-3 col-sm-6 mb-5">
-  <a href="/subsea-part-1/team/susan-garcia/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/susangarciacruise.png" alt="Susan Garcia"
-      style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
-    <h5 style="margin-top:15px;">Susan Garcia</h5>
-    <p style="font-size:0.9em;">Ph.D. Student</p>
-  </a>
-</div>
-
-  </div>
 
 </div>
