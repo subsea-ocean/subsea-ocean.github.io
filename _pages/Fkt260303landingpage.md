@@ -37,7 +37,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 <figure style="text-align:center;">
   <a href="/assets/img/newgrouppic.jpg" target="_blank">
     <img 
-      src="/assets/img/news/subsea42.jpg"
+      src="/assets/img/news/newgrouppic.jpg"
       alt="SUBSEA science team aboard Falkor too"
       style="max-width:900px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
     >
