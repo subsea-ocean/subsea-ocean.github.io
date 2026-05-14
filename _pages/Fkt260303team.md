@@ -14,7 +14,7 @@ Meet the scientists, students, technicians, and collaborators who participated i
   <div class="col-md-3 col-sm-6 mb-5">
     <a href="/subsea-part-1/team/matthew-church/" style="text-decoration:none;">
       <img 
-        src="/assets/img/Matt_Church.jpg"
+        src="/assets/img/MattChurchCruise.png"
         alt="Matthew Church"
         style="width:160px; height:160px; object-fit:cover; border-radius:50%; border:6px solid white;"
       >
