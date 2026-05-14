@@ -425,7 +425,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
       "
       onmouseover="this.style.transform='scale(1.25)'; this.style.zIndex='5';"
       onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
-        <img src="/assets/img/media2.png" alt="Scientific American Instagram reel" style="width:100%; height:100%; object-fit:cover;">
+        <img src="/assets/img/media3.png" alt="Scientific American Instagram reel" style="width:100%; height:100%; object-fit:cover;">
       </div>
       <p style="font-size:0.8em; text-align:center; margin-top:0.5rem; max-width:190px;">
         Instagram reel. Source: Scientific American.
