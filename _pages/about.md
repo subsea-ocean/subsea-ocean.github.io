@@ -53,9 +53,9 @@ SUBSEA (Subtropical Underwater Biogeochemistry and Subsurface Export Alliance) i
 
 *Credit: Schmidt Ocean Institute*
 
-This video features research activities and field operations from the recent SUBSEA Part 1 expedition aboard the R/V Falkor (too).
+This video features research activities and field operations from the recent SUBSEA expedition in the South Atlantic Subtropical Gyre, aboard the R/V Falkor (too).
 
-[Learn more about the SUBSEA Part 1 cruise here.](/news/2026-03-04-subsea-part1-begins/)
+[Explore updates, videos, and photos from the South Atlantic expedition here.](/subsea-part-1/)
 
 <div style="height: 40px;"></div>
 
