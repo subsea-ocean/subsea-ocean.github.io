@@ -6,27 +6,18 @@ nav: true
 nav_order: 2
 ---
 
-<div style="text-align:center; margin-bottom:40px;">
-
-<h1 style="margin-bottom:10px;">
-  Cruises
-</h1>
-
-<p style="max-width:850px; margin:auto;">
-  Explore SUBSEA field expeditions across the subtropical gyres.
-</p>
-
-</div>
-
 <style>
+.post-title {
+  display: none;
+}
+
 .cruise-map-wrap {
   position: relative;
   max-width: 950px;
   margin: 40px auto;
 }
 
-.cruise-map-wrap img,
-.cruise-track-map {
+.cruise-map-wrap img {
   width: 100%;
   display: block;
   border-radius: 0.5rem;
@@ -119,8 +110,10 @@ nav_order: 2
   transform: translateY(-2px);
 }
 
-.cruise-route {
-  transition: all 0.25s ease;
+.leaflet-map {
+  height: 420px;
+  width: 100%;
+  border-radius: 0.5rem;
 }
 
 @media (max-width: 768px) {
@@ -130,9 +123,28 @@ nav_order: 2
 }
 </style>
 
+<link 
+  rel="stylesheet" 
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<div style="text-align:center; margin-bottom:40px;">
+
+<h1 style="margin-bottom:10px;">
+  Cruises
+</h1>
+
+<p style="max-width:850px; margin:auto;">
+  Explore SUBSEA field expeditions across the subtropical gyres.
+</p>
+
+</div>
+
 <div class="cruise-map-wrap">
 
-  <img src="/assets/img/subtropical_gyres_map.png" alt="Map of subtropical ocean gyres">
+  <img src="/assets/img/Fkt260303 South Atlantic Cruise 1.png" alt="Map of subtropical ocean gyres">
 
   <div id="northPacificHotspot" class="gyre-hotspot" onclick="showGyre('northPacific')"></div>
 
@@ -162,19 +174,19 @@ nav_order: 2
 
       <h3>Cruises</h3>
 
-      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot356358')" onmouseout="resetTracks()">HOT Cruise 356</a>
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">HOT Cruise 356</a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot356358')" onmouseout="resetTracks()">HOT Cruise 357</a>
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">HOT Cruise 357</a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot356358')" onmouseout="resetTracks()">HOT Cruise 358</a>
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">HOT Cruise 358</a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot359362')" onmouseout="resetTracks()">HOT Cruise 359</a>
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">HOT Cruise 359</a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot359362')" onmouseout="resetTracks()">HOT Cruise 360</a>
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">HOT Cruise 360</a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot359362')" onmouseout="resetTracks()">HOT Cruise 361</a>
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">HOT Cruise 361</a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot359362')" onmouseout="resetTracks()">HOT Cruise 362</a>
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">HOT Cruise 362</a>
 
     </div>
 
@@ -182,40 +194,7 @@ nav_order: 2
 
       <h3>Cruise Tracks</h3>
 
-      <div style="position:relative;">
-
-        <img
-          src="/assets/img/cruises/north_pacific_base_map.png"
-          alt="North Pacific HOT cruise map"
-          class="cruise-track-map"
-        >
-
-        <svg viewBox="0 0 100 100"
-             style="position:absolute; top:0; left:0; width:100%; height:100%;">
-
-          <polyline
-            id="hot356358"
-            class="cruise-route"
-            points="20,70 35,62 68,28 72,34 40,55 20,70"
-            fill="none"
-            stroke="white"
-            stroke-width="1.5"
-            stroke-dasharray="2,2"
-          />
-
-          <polyline
-            id="hot359362"
-            class="cruise-route"
-            points="20,70 35,62 68,28 76,32 40,55 20,70"
-            fill="none"
-            stroke="white"
-            stroke-width="1.5"
-            stroke-dasharray="2,2"
-          />
-
-        </svg>
-
-      </div>
+      <div id="northPacificMap" class="leaflet-map"></div>
 
       <p style="font-size:0.9em; margin-top:0.75rem; text-align:center;">
         Representative HOT cruise tracks in the North Pacific Subtropical Gyre.
@@ -243,10 +222,14 @@ nav_order: 2
 
       <a class="cruise-button"
          href="/subsea-part-1/"
-         onmouseover="highlightTrack('southAtlanticFkt260303')"
-         onmouseout="resetTracks()">
+         onmouseover="highlightSouthAtlanticTrack()"
+         onmouseout="resetSouthAtlanticTrack()">
         Fkt260303: South Atlantic Cruise 1
       </a>
+
+      <p style="margin-top:25px;">
+        Future South Atlantic cruise pages will be added here.
+      </p>
 
     </div>
 
@@ -254,30 +237,7 @@ nav_order: 2
 
       <h3>Cruise Tracks</h3>
 
-      <div style="position:relative;">
-
-        <img
-          src="/assets/img/Fkt260303%20South%20Atlantic%20Cruise%201.png"
-          alt="South Atlantic SUBSEA cruise map"
-          class="cruise-track-map"
-        >
-
-        <svg viewBox="0 0 100 100"
-             style="position:absolute; top:0; left:0; width:100%; height:100%;">
-
-          <polyline
-            id="southAtlanticFkt260303"
-            class="cruise-route"
-            points="20,65 38,78 40,63 50,62 65,60 72,45 80,35"
-            fill="none"
-            stroke="white"
-            stroke-width="1.5"
-            stroke-dasharray="2,2"
-          />
-
-        </svg>
-
-      </div>
+      <div id="southAtlanticMap" class="leaflet-map"></div>
 
       <p style="font-size:0.9em; margin-top:0.75rem; text-align:center;">
         SUBSEA cruise tracks in the South Atlantic Subtropical Gyre.
@@ -290,32 +250,229 @@ nav_order: 2
 </div>
 
 <script>
+let southAtlanticMap;
+let southAtlanticTrack;
+
+let northPacificMap;
+let hot356358Track;
+let hot359362Track;
+
+function themeColor() {
+  return getComputedStyle(document.documentElement).getPropertyValue("--global-theme-color").trim();
+}
+
+function addBaseLayer(map) {
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 8,
+    attribution: "&copy; OpenStreetMap contributors"
+  }).addTo(map);
+}
+
 function showGyre(gyreId) {
   document.querySelectorAll('.cruise-info').forEach(function(section) {
     section.classList.remove('active');
   });
 
   document.getElementById(gyreId).classList.add('active');
-}
 
-function highlightTrack(trackId) {
-  resetTracks();
+  if (gyreId === "northPacific") {
+    initNorthPacificMap();
+    setTimeout(function() {
+      northPacificMap.invalidateSize();
+    }, 150);
+  }
 
-  const track = document.getElementById(trackId);
-
-  if (track) {
-    track.style.stroke = "var(--global-theme-color)";
-    track.style.strokeWidth = "3";
-    track.style.strokeDasharray = "none";
-    track.parentNode.appendChild(track);
+  if (gyreId === "southAtlantic") {
+    initSouthAtlanticMap();
+    setTimeout(function() {
+      southAtlanticMap.invalidateSize();
+    }, 150);
   }
 }
 
-function resetTracks() {
-  document.querySelectorAll("polyline.cruise-route").forEach(function(track) {
-    track.style.stroke = "white";
-    track.style.strokeWidth = "1.5";
-    track.style.strokeDasharray = "2,2";
+/* SOUTH ATLANTIC MAP */
+
+function initSouthAtlanticMap() {
+  if (southAtlanticMap) return;
+
+  const fkt260303Coords = [
+    [-22.891312, -43.190369],
+    [-26.227144, -37.706217],
+    [-23.799483, -37.299183],
+    [-22.891312, -43.190369],
+    [-25.731641, -38.662314],
+    [-26.031828, -37.798844],
+    [-25.541122, -33.283535],
+    [-25.225968, -30.270903],
+    [-25.100000, -28.600000],
+    [-23.930618, -27.467479],
+    [-21.963639, -25.095520],
+    [-18.000000, -25.100000],
+    [-17.437127, -26.713943],
+    [-16.475592, -29.535370],
+    [-12.969100, -38.511900]
+  ];
+
+  southAtlanticMap = L.map("southAtlanticMap", {
+    scrollWheelZoom: false
+  }).setView([-22, -33], 4);
+
+  addBaseLayer(southAtlanticMap);
+
+  southAtlanticTrack = L.polyline(fkt260303Coords, {
+    color: "white",
+    weight: 3,
+    dashArray: "6,6",
+    opacity: 0.95
+  }).addTo(southAtlanticMap);
+
+  fkt260303Coords.forEach(function(coord) {
+    L.circleMarker(coord, {
+      radius: 4,
+      color: "white",
+      fillColor: "white",
+      fillOpacity: 1,
+      weight: 1
+    }).addTo(southAtlanticMap);
+  });
+
+  southAtlanticMap.fitBounds(southAtlanticTrack.getBounds(), {
+    padding: [25, 25]
   });
 }
+
+function highlightSouthAtlanticTrack() {
+  initSouthAtlanticMap();
+
+  southAtlanticTrack.setStyle({
+    color: themeColor(),
+    weight: 5,
+    dashArray: null,
+    opacity: 1
+  });
+
+  southAtlanticTrack.bringToFront();
+}
+
+function resetSouthAtlanticTrack() {
+  if (!southAtlanticTrack) return;
+
+  southAtlanticTrack.setStyle({
+    color: "white",
+    weight: 3,
+    dashArray: "6,6",
+    opacity: 0.95
+  });
+}
+
+/* NORTH PACIFIC MAP */
+
+function initNorthPacificMap() {
+  if (northPacificMap) return;
+
+  const hot356358Coords = [
+    [21.3069, -157.8583],
+    [21.3433, -158.2733],
+    [22.7500, -158.0000],
+    [22.6680, -157.9502],
+    [21.8467, -158.3633],
+    [21.3069, -157.8583]
+  ];
+
+  const hot359362Coords = [
+    [21.3069, -157.8583],
+    [21.3433, -158.2733],
+    [22.7500, -158.0000],
+    [22.7665, -157.9009],
+    [21.8467, -158.3633],
+    [21.3069, -157.8583]
+  ];
+
+  northPacificMap = L.map("northPacificMap", {
+    scrollWheelZoom: false
+  }).setView([22.1, -158.1], 8);
+
+  addBaseLayer(northPacificMap);
+
+  hot356358Track = L.polyline(hot356358Coords, {
+    color: "white",
+    weight: 3,
+    dashArray: "6,6",
+    opacity: 0.95
+  }).addTo(northPacificMap);
+
+  hot359362Track = L.polyline(hot359362Coords, {
+    color: "white",
+    weight: 3,
+    dashArray: "6,6",
+    opacity: 0.95
+  }).addTo(northPacificMap);
+
+  const northPacificStations = [
+    [21.3069, -157.8583],
+    [21.3433, -158.2733],
+    [22.7500, -158.0000],
+    [22.6680, -157.9502],
+    [22.7665, -157.9009],
+    [21.8467, -158.3633]
+  ];
+
+  northPacificStations.forEach(function(coord) {
+    L.circleMarker(coord, {
+      radius: 4,
+      color: "white",
+      fillColor: "white",
+      fillOpacity: 1,
+      weight: 1
+    }).addTo(northPacificMap);
+  });
+
+  const group = L.featureGroup([hot356358Track, hot359362Track]);
+  northPacificMap.fitBounds(group.getBounds(), {
+    padding: [25, 25]
+  });
+}
+
+function highlightNorthPacificTrack(trackId) {
+  initNorthPacificMap();
+  resetNorthPacificTracks();
+
+  let track = null;
+
+  if (trackId === "hot356358") {
+    track = hot356358Track;
+  }
+
+  if (trackId === "hot359362") {
+    track = hot359362Track;
+  }
+
+  if (track) {
+    track.setStyle({
+      color: themeColor(),
+      weight: 5,
+      dashArray: null,
+      opacity: 1
+    });
+
+    track.bringToFront();
+  }
+}
+
+function resetNorthPacificTracks() {
+  [hot356358Track, hot359362Track].forEach(function(track) {
+    if (!track) return;
+
+    track.setStyle({
+      color: "white",
+      weight: 3,
+      dashArray: "6,6",
+      opacity: 0.95
+    });
+  });
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  initSouthAtlanticMap();
+});
 </script>
