@@ -43,11 +43,13 @@ As the cruise concluded, the captain and crew hosted an Easter Sunday barbecue a
     >
   </a>
   <figcaption style="font-size:0.9em; margin-top:0.5rem;">
-    INSERT CAPTION HERE. Image Credit: Schmidt Ocean Institute.
+     The SUBSEA team poses alongside the crew of the Falkor(too). Image Credit: Schmidt Ocean Institute.
   </figcaption>
 </figure>
 
-As the expedition comes to an end in Salvador, the SUBSEA team reflects not only on the scientific accomplishments of the cruise, but also on the remarkable collaboration that developed over more than a month at sea. 
+As the expedition comes to an end in Salvador, the SUBSEA team reflects not only on the scientific accomplishments of the cruise, but also on the remarkable collaboration that developed over more than a month at sea. Researchers, crew members, and technicians worked together continuously under demanding conditions, building both an extraordinary scientific dataset and lasting connections through shared experiences in one of the most remote regions of the Atlantic Ocean.
+
+The SUBSEA team extends tremendous gratitude to everyone aboard the R/V Falkor (too) whose dedication, expertise, and enthusiasm made the expedition possible.
 
 <div id="subseaNews6Carousel" class="carousel slide mt-4 mb-4" data-ride="carousel" style="max-width:800px; margin:auto;">
 
@@ -62,7 +64,7 @@ As the expedition comes to an end in Salvador, the SUBSEA team reflects not only
         >
       </div>
       <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
-        Scientists from the SUBSEA Part 1 expedition pose in front of the A-frame on the aft deck of the R/V Falkor (too). Image Credit: Schmidt Ocean Institute.
+        Scientists from the first SUBSEA South Atlantic cruise pose in front of the A-frame on the aft deck of the R/V Falkor (too). Image Credit: Schmidt Ocean Institute.
       </p>
     </div>
 
@@ -89,6 +91,4 @@ As the expedition comes to an end in Salvador, the SUBSEA team reflects not only
     <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❯</span>
   </a>
 
-</div>Researchers, crew members, and technicians worked together continuously under demanding conditions, building both an extraordinary scientific dataset and lasting connections through shared experiences in one of the most remote regions of the Atlantic Ocean.
-
-The SUBSEA team extends tremendous gratitude to everyone aboard the R/V Falkor (too) whose dedication, expertise, and enthusiasm made the expedition possible.
+</div>
