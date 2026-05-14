@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: Cruises
 permalink: /cruises/
 nav: true
 nav_order: 2
@@ -247,10 +247,6 @@ nav_order: 2
          onmouseout="resetTracks()">
         Fkt260303: South Atlantic Cruise 1
       </a>
-
-      <p style="margin-top:25px;">
-        Future South Atlantic cruise pages will be added here.
-      </p>
 
     </div>
 
