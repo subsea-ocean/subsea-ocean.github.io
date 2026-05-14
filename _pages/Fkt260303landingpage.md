@@ -61,43 +61,57 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
 ## Cruise Video Updates
 
-### Schmidt Ocean Institute Video Update 1
+<div class="row mt-4">
 
-<div style="text-align:center; margin: 40px 0;">
+  <div class="col-md-6 mb-4">
 
-<iframe 
-  width="800" 
-  height="450" 
-  src="https://www.youtube.com/embed/EPcPzG4f59Q?si=MhaQz9bFSrEkxjZD" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen
-  style="max-width:100%; border-radius:0.25rem;">
-</iframe>
+    <div style="text-align:center;">
+
+      <iframe 
+        width="100%" 
+        height="315" 
+        src="https://www.youtube.com/embed/EPcPzG4f59Q?si=MhaQz9bFSrEkxjZD" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen
+        style="border-radius:0.25rem;">
+      </iframe>
+
+      <p style="font-size:0.9em; margin-top:0.5rem;">
+        Schmidt Ocean Institute Video Update 1
+      </p>
+
+    </div>
+
+  </div>
+
+  <div class="col-md-6 mb-4">
+
+    <div style="text-align:center;">
+
+      <iframe 
+        width="100%" 
+        height="315" 
+        src="https://www.youtube.com/embed/LPakzn-8pOk?si=F_iSmKd5xFVor_38" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen
+        style="border-radius:0.25rem;">
+      </iframe>
+
+      <p style="font-size:0.9em; margin-top:0.5rem;">
+        Schmidt Ocean Institute Video Update 2
+      </p>
+
+    </div>
+
+  </div>
 
 </div>
-
-### Schmidt Ocean Institute Video Update 2
-
-<div style="text-align:center; margin: 40px 0;">
-
-<iframe 
-  width="800" 
-  height="450" 
-  src="https://www.youtube.com/embed/LPakzn-8pOk?si=F_iSmKd5xFVor_38" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen
-  style="max-width:100%; border-radius:0.25rem;">
-</iframe>
-
-</div>
-
----
 
 ## Cruise News Updates
 
