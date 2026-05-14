@@ -162,54 +162,19 @@ nav_order: 2
 
       <h3>Cruises</h3>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightTrack('hot356358')"
-         onmouseout="resetTracks()">
-        HOT Cruise 356
-      </a>
+      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot356358')" onmouseout="resetTracks()">HOT Cruise 356</a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightTrack('hot356358')"
-         onmouseout="resetTracks()">
-        HOT Cruise 357
-      </a>
+      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot356358')" onmouseout="resetTracks()">HOT Cruise 357</a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightTrack('hot356358')"
-         onmouseout="resetTracks()">
-        HOT Cruise 358
-      </a>
+      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot356358')" onmouseout="resetTracks()">HOT Cruise 358</a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightTrack('hot359362')"
-         onmouseout="resetTracks()">
-        HOT Cruise 359
-      </a>
+      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot359362')" onmouseout="resetTracks()">HOT Cruise 359</a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightTrack('hot359362')"
-         onmouseout="resetTracks()">
-        HOT Cruise 360
-      </a>
+      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot359362')" onmouseout="resetTracks()">HOT Cruise 360</a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightTrack('hot359362')"
-         onmouseout="resetTracks()">
-        HOT Cruise 361
-      </a>
+      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot359362')" onmouseout="resetTracks()">HOT Cruise 361</a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightTrack('hot359362')"
-         onmouseout="resetTracks()">
-        HOT Cruise 362
-      </a>
+      <a class="cruise-button" href="#" onmouseover="highlightTrack('hot359362')" onmouseout="resetTracks()">HOT Cruise 362</a>
 
     </div>
 
@@ -252,11 +217,7 @@ nav_order: 2
 
       </div>
 
-      <p style="
-        font-size:0.9em;
-        margin-top:0.75rem;
-        text-align:center;
-      ">
+      <p style="font-size:0.9em; margin-top:0.75rem; text-align:center;">
         Representative HOT cruise tracks in the North Pacific Subtropical Gyre.
       </p>
 
@@ -300,7 +261,7 @@ nav_order: 2
       <div style="position:relative;">
 
         <img
-          src="/assets/img/cruises/south_atlantic_base_map.png"
+          src="/assets/img/Fkt260303%20South%20Atlantic%20Cruise%201.png"
           alt="South Atlantic SUBSEA cruise map"
           class="cruise-track-map"
         >
@@ -322,11 +283,7 @@ nav_order: 2
 
       </div>
 
-      <p style="
-        font-size:0.9em;
-        margin-top:0.75rem;
-        text-align:center;
-      ">
+      <p style="font-size:0.9em; margin-top:0.75rem; text-align:center;">
         SUBSEA cruise tracks in the South Atlantic Subtropical Gyre.
       </p>
 
@@ -338,17 +295,14 @@ nav_order: 2
 
 <script>
 function showGyre(gyreId) {
-
   document.querySelectorAll('.cruise-info').forEach(function(section) {
     section.classList.remove('active');
   });
 
   document.getElementById(gyreId).classList.add('active');
-
 }
 
 function highlightTrack(trackId) {
-
   resetTracks();
 
   const track = document.getElementById(trackId);
@@ -357,21 +311,15 @@ function highlightTrack(trackId) {
     track.style.stroke = "var(--global-theme-color)";
     track.style.strokeWidth = "3";
     track.style.strokeDasharray = "none";
-
     track.parentNode.appendChild(track);
   }
-
 }
 
 function resetTracks() {
-
   document.querySelectorAll("polyline.cruise-route").forEach(function(track) {
-
     track.style.stroke = "white";
     track.style.strokeWidth = "1.5";
     track.style.strokeDasharray = "2,2";
-
   });
-
 }
 </script>
