@@ -357,7 +357,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
   Cruise News Updates
 </h2>
 
-- [S.Atlantic Cruise 1 Begins]({{ site.baseurl }}/news/2026-03-04-subsea-part1-begins.html)
+- [South Atlantic Cruise 1 Begins]({{ site.baseurl }}/news/2026-03-04-subsea-part1-begins.html)
 - [News from the Cruise: S.Atlantic Cruise 1 Science Operations Begin]({{ site.baseurl }}/news/2026-03-07-subsea-part1-station1-operations.html)
 - [News from the Cruise: S.Atlantic Cruise 1 Week 2 Update]({{ site.baseurl }}/news/2026-03-13-subsea-part1-week2-update.html)
 - [News from the Cruise: S.Atlantic Cruise 1 Mid-Cruise Update]({{ site.baseurl }}/news/2026-03-22-subsea-mid-cruise-update.html)
