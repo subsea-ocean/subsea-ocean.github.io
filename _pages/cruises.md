@@ -13,6 +13,7 @@ nav_order: 2
 </p>
 
 <style>
+
 .cruise-map-wrap {
   position: relative;
   max-width: 950px;
@@ -102,6 +103,7 @@ nav_order: 2
     grid-template-columns: 1fr;
   }
 }
+
 </style>
 
 <div class="cruise-map-wrap">
@@ -109,40 +111,103 @@ nav_order: 2
   <img src="/assets/img/subtropical_gyres_map.png" alt="Map of subtropical ocean gyres">
 
   <div id="northPacificHotspot" class="gyre-hotspot" onclick="showGyre('northPacific')"></div>
+
   <div id="southAtlanticHotspot" class="gyre-hotspot" onclick="showGyre('southAtlantic')"></div>
 
-  <div id="northPacificLabel" class="gyre-label">North<br>Pacific</div>
-  <div id="southAtlanticLabel" class="gyre-label">South<br>Atlantic</div>
+  <div id="northPacificLabel" class="gyre-label">
+    North<br>Pacific
+  </div>
+
+  <div id="southAtlanticLabel" class="gyre-label">
+    South<br>Atlantic
+  </div>
 
 </div>
 
+<!-- NORTH PACIFIC -->
+
 <div id="northPacific" class="cruise-info">
 
-  <h2 style="text-align:center;">North Pacific Subtropical Gyre</h2>
+  <h2 style="text-align:center;">
+    North Pacific Subtropical Gyre
+  </h2>
 
   <div class="cruise-grid">
 
     <div class="cruise-card">
+
       <h3>Cruises</h3>
-      <p>North Pacific cruise pages will be added here.</p>
+
+      <p>
+        <a href="#">
+          Hawaii Ocean Time Series (HOT) Cruise 356
+        </a>
+      </p>
+
+      <p>
+        <a href="#">
+          Hawaii Ocean Time Series (HOT) Cruise 357
+        </a>
+      </p>
+
+      <p>
+        <a href="#">
+          Hawaii Ocean Time Series (HOT) Cruise 358
+        </a>
+      </p>
+
+      <p>
+        <a href="#">
+          Hawaii Ocean Time Series (HOT) Cruise 359
+        </a>
+      </p>
+
+      <p>
+        <a href="#">
+          Hawaii Ocean Time Series (HOT) Cruise 360
+        </a>
+      </p>
+
+      <p>
+        <a href="#">
+          Hawaii Ocean Time Series (HOT) Cruise 361
+        </a>
+      </p>
+
+      <p>
+        <a href="#">
+          Hawaii Ocean Time Series (HOT) Cruise 362
+        </a>
+      </p>
+
     </div>
 
     <div class="cruise-card">
+
       <h3>Cruise Track</h3>
-      <p>Cruise track map coming soon.</p>
+
+      <p>
+        North Pacific cruise track maps coming soon.
+      </p>
+
     </div>
 
   </div>
 
 </div>
 
+<!-- SOUTH ATLANTIC -->
+
 <div id="southAtlantic" class="cruise-info active">
 
-  <h2 style="text-align:center;">South Atlantic Subtropical Gyre</h2>
+  <h2 style="text-align:center;">
+    South Atlantic Subtropical Gyre
+  </h2>
 
   <div class="cruise-grid">
 
     <div class="cruise-card">
+
       <h3>Cruises</h3>
 
       <p>
@@ -154,34 +219,47 @@ nav_order: 2
       <p>
         Future South Atlantic cruise pages will be added here.
       </p>
+
     </div>
 
-   <div class="cruise-card">
-  <h3>Cruise Track</h3>
+    <div class="cruise-card">
 
-  <a href="/assets/img/cruises/Fkt260303_track_map.png" target="_blank">
-    <img 
-      src="/assets/img/cruises/Fkt260303_track_map.png"
-      alt="SUBSEA Cruise Fkt260303 track map"
-      class="cruise-track"
-    >
-  </a>
+      <h3>Cruise Track</h3>
 
-  <p style="font-size:0.9em; margin-top:0.75rem; text-align:center;">
-    Cruise track for SUBSEA Cruise Fkt260303 in the South Atlantic Subtropical Gyre.
-  </p>
-</div>
+      <a href="/assets/img/cruises/Fkt260303_track_map.png" target="_blank">
+
+        <img 
+          src="/assets/img/cruises/Fkt260303_track_map.png"
+          alt="SUBSEA Cruise Fkt260303 track map"
+          class="cruise-track"
+        >
+
+      </a>
+
+      <p style="
+        font-size:0.9em;
+        margin-top:0.75rem;
+        text-align:center;
+      ">
+        Cruise track for SUBSEA Cruise Fkt260303 in the South Atlantic Subtropical Gyre.
+      </p>
+
+    </div>
 
   </div>
 
 </div>
 
 <script>
+
 function showGyre(gyreId) {
+
   document.querySelectorAll('.cruise-info').forEach(function(section) {
     section.classList.remove('active');
   });
 
   document.getElementById(gyreId).classList.add('active');
+
 }
+
 </script>
