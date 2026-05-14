@@ -92,23 +92,49 @@ nav_order: 2
 }
 
 .cruise-button {
-  display: block;
-  text-align: center;
-  background: rgba(255,255,255,0.72);
-  color: #2b6f8a;
-  padding: 14px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  background: white;
+  color: #1f2a44;
+  padding: 0;
   margin: 14px 0;
   border-radius: 999px;
-  font-size: 1.05rem;
+  font-size: 1.15rem;
+  font-weight: 600;
   text-decoration: none;
+  overflow: hidden;
   transition: all 0.25s ease;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.18);
+}
+
+.cruise-title {
+  flex: 1;
+  text-align: left;
+  padding: 18px 26px;
+  color: #1f2a44;
+}
+
+.cruise-learn-more {
+  background: rgba(0,0,0,0.10);
+  color: #1f2a44;
+  padding: 18px 26px;
+  border-radius: 999px;
+  white-space: nowrap;
+  transition: all 0.25s ease;
+  font-weight: 700;
 }
 
 .cruise-button:hover {
-  background: var(--global-theme-color);
-  color: white;
   text-decoration: none;
   transform: translateY(-2px);
+  box-shadow: 0 8px 22px rgba(0,0,0,0.25);
+}
+
+.cruise-button:hover .cruise-learn-more {
+  background: var(--global-theme-color);
+  color: white;
 }
 
 .leaflet-map {
@@ -179,49 +205,105 @@ nav_order: 2
          href="#"
          onmouseover="highlightNorthPacificTrack('hot356358')"
          onmouseout="resetNorthPacificTracks()">
-        HOT Cruise 356
+
+        <span class="cruise-title">
+          HOT Cruise 356
+        </span>
+
+        <span class="cruise-learn-more">
+          Learn more
+        </span>
+
       </a>
 
       <a class="cruise-button"
          href="#"
          onmouseover="highlightNorthPacificTrack('hot356358')"
          onmouseout="resetNorthPacificTracks()">
-        HOT Cruise 357
+
+        <span class="cruise-title">
+          HOT Cruise 357
+        </span>
+
+        <span class="cruise-learn-more">
+          Learn more
+        </span>
+
       </a>
 
       <a class="cruise-button"
          href="#"
          onmouseover="highlightNorthPacificTrack('hot356358')"
          onmouseout="resetNorthPacificTracks()">
-        HOT Cruise 358
+
+        <span class="cruise-title">
+          HOT Cruise 358
+        </span>
+
+        <span class="cruise-learn-more">
+          Learn more
+        </span>
+
       </a>
 
       <a class="cruise-button"
          href="#"
          onmouseover="highlightNorthPacificTrack('hot359362')"
          onmouseout="resetNorthPacificTracks()">
-        HOT Cruise 359
+
+        <span class="cruise-title">
+          HOT Cruise 359
+        </span>
+
+        <span class="cruise-learn-more">
+          Learn more
+        </span>
+
       </a>
 
       <a class="cruise-button"
          href="#"
          onmouseover="highlightNorthPacificTrack('hot359362')"
          onmouseout="resetNorthPacificTracks()">
-        HOT Cruise 360
+
+        <span class="cruise-title">
+          HOT Cruise 360
+        </span>
+
+        <span class="cruise-learn-more">
+          Learn more
+        </span>
+
       </a>
 
       <a class="cruise-button"
          href="#"
          onmouseover="highlightNorthPacificTrack('hot359362')"
          onmouseout="resetNorthPacificTracks()">
-        HOT Cruise 361
+
+        <span class="cruise-title">
+          HOT Cruise 361
+        </span>
+
+        <span class="cruise-learn-more">
+          Learn more
+        </span>
+
       </a>
 
       <a class="cruise-button"
          href="#"
          onmouseover="highlightNorthPacificTrack('hot359362')"
          onmouseout="resetNorthPacificTracks()">
-        HOT Cruise 362
+
+        <span class="cruise-title">
+          HOT Cruise 362
+        </span>
+
+        <span class="cruise-learn-more">
+          Learn more
+        </span>
+
       </a>
 
     </div>
@@ -260,7 +342,15 @@ nav_order: 2
          href="/subsea-part-1/"
          onmouseover="highlightSouthAtlanticTrack()"
          onmouseout="resetSouthAtlanticTrack()">
-        Fkt260303: South Atlantic Cruise 1
+
+        <span class="cruise-title">
+          Fkt260303: South Atlantic Cruise 1
+        </span>
+
+        <span class="cruise-learn-more">
+          Learn more
+        </span>
+
       </a>
 
     </div>
