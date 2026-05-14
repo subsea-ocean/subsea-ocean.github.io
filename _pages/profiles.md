@@ -6,7 +6,7 @@ description:
 nav: true
 display_categories: [&pi principal investigators, &stud postdoctoral fellows and graduate students, &staff staff]
 # the & defines a variable for the following text string, which is referenced in the profiles below with *
-nav_order: 4
+nav_order: 5
   
   # PRINCIPLE INVESTIGATORS
 profiles:
