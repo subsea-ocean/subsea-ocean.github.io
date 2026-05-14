@@ -107,19 +107,23 @@ nav_order: 2
   overflow: hidden;
   transition: all 0.25s ease;
   box-shadow: 0 4px 14px rgba(0,0,0,0.18);
+
+  min-width: 520px;
 }
 
 .cruise-title {
   flex: 1;
   text-align: left;
-  padding: 18px 26px;
+  padding: 18px 30px;
   color: #1f2a44;
+
+  white-space: nowrap;
 }
 
 .cruise-learn-more {
   background: rgba(0,0,0,0.10);
   color: #1f2a44;
-  padding: 18px 26px;
+  padding: 18px 30px;
   border-radius: 999px;
   white-space: nowrap;
   transition: all 0.25s ease;
@@ -144,9 +148,19 @@ nav_order: 2
 }
 
 @media (max-width: 768px) {
+
   .cruise-grid {
     grid-template-columns: 1fr;
   }
+
+  .cruise-button {
+    min-width: 100%;
+  }
+
+  .cruise-title {
+    white-space: normal;
+  }
+
 }
 </style>
 
