@@ -36,7 +36,7 @@ SUBSEA (Subtropical Underwater Biogeochemistry and Subsurface Export Alliance) i
   <img 
     src="/assets/img/subtropical_gyres_map.png"
     alt="Map of subtropical ocean gyres"
-    style="width:100%; border-radius:0.25rem;"
+    style="width:75%; border-radius:0.25rem;"
   >
   <figcaption style="margin-top:12px; font-size:0.95em;">
     Map of ocean gyres, with the North Pacific and South Atlantic subtropical gyres in white. SUBSEA partner institutions are marked in red.
