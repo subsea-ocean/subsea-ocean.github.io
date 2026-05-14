@@ -56,6 +56,12 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
 ---
 
+## Expedition Photo Gallery
+
+Add a large combined carousel/gallery here later using all uploaded expedition photos from the cruise updates.
+
+---
+
 ## Cruise Video Updates
 
 <div class="row mt-4">
@@ -135,7 +141,3 @@ Example:
 - [Schmidt Ocean Institute Cruise Page](https://schmidtocean.org/cruise/subsea-part-1/)
 
 ---
-
-## Expedition Photo Gallery
-
-Add a large combined carousel/gallery here later using all uploaded expedition photos from the cruise updates.
