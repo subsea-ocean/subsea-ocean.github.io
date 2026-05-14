@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SUBSEA Cruise Fkt260303: Expedition in the South Atlantic"
+title: ""
 permalink: /subsea-part-1/
 nav: false
 ---
