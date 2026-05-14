@@ -366,92 +366,94 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
 ---
 
-<h2 style="text-align:center;">
+<style>
+.media-slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  overflow-x: auto;
+  padding: 20px 10px;
+}
+
+.media-card {
+  flex: 0 0 260px;
+  background: #111;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: all 0.35s ease;
+  text-decoration: none;
+  color: white;
+}
+
+.media-card:hover {
+  flex: 0 0 360px;
+  transform: translateY(-4px);
+}
+
+.media-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+}
+
+.media-caption {
+  padding: 14px;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.media-card:hover .media-caption {
+  font-size: 1rem;
+}
+</style>
+
+<h2 style="text-align:center; margin-bottom:30px;">
   In the Media
 </h2>
 
-<div style="position:relative; max-width:900px; margin:40px auto;">
+<div class="media-slider">
 
-  <div style="
-    display:flex;
-    gap:12px;
-    justify-content:center;
-    align-items:center;
-    padding:20px 70px;
-    overflow:visible;
-  ">
+  <a class="media-card"
+     href="https://www.youtube.com/live/oRuxfFRRwh4?si=GLb5M_a321oTtIUr"
+     target="_blank">
 
-    <a href="https://www.youtube.com/live/oRuxfFRRwh4?si=GLb5M_a321oTtIUr" target="_blank" style="text-decoration:none; color:inherit;">
-      <div style="
-        width:190px;
-        height:190px;
-        transition:all 0.3s ease;
-        overflow:hidden;
-        border-radius:0.25rem;
-      "
-      onmouseover="this.style.transform='scale(1.25)'; this.style.zIndex='5';"
-      onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
-        <img src="/assets/img/media1.jpg" alt="SOI livestream" style="width:100%; height:100%; object-fit:cover;">
-      </div>
-      <p style="font-size:0.8em; text-align:center; margin-top:0.5rem; max-width:190px;">
-        Livestream from R/V Falkor (too) about cruise operations. Source: YouTube, Schmidt Ocean Institute.
-      </p>
-    </a>
+    <img src="/assets/img/media1.jpg">
 
-    <a href="https://www.instagram.com/p/DXxS4g8FSgS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" style="text-decoration:none; color:inherit;">
-      <div style="
-        width:190px;
-        height:190px;
-        transition:all 0.3s ease;
-        overflow:hidden;
-        border-radius:0.25rem;
-      "
-      onmouseover="this.style.transform='scale(1.25)'; this.style.zIndex='5';"
-      onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
-        <img src="/assets/img/media2.png" alt="Schmidt Sciences Instagram post" style="width:100%; height:100%; object-fit:cover;">
-      </div>
-      <p style="font-size:0.8em; text-align:center; margin-top:0.5rem; max-width:190px;">
-        Instagram post. Source: Schmidt Sciences.
-      </p>
-    </a>
+    <div class="media-caption">
+      Livestream from R/V Falkor (too) about cruise operations.<br>
+      Source: YouTube, Schmidt Ocean Institute.
+    </div>
 
-    <a href="https://www.instagram.com/reel/DXznxspuQWs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" target="_blank" style="text-decoration:none; color:inherit;">
-      <div style="
-        width:190px;
-        height:190px;
-        transition:all 0.3s ease;
-        overflow:hidden;
-        border-radius:0.25rem;
-      "
-      onmouseover="this.style.transform='scale(1.25)'; this.style.zIndex='5';"
-      onmouseout="this.style.transform='scale(1)'; this.style.zIndex='1';">
-        <img src="/assets/img/media3.png" alt="Scientific American Instagram reel" style="width:100%; height:100%; object-fit:cover;">
-      </div>
-      <p style="font-size:0.8em; text-align:center; margin-top:0.5rem; max-width:190px;">
-        Instagram reel. Source: Scientific American.
-      </p>
-    </a>
+  </a>
 
-  </div>
+  <a class="media-card"
+     href="https://www.instagram.com/p/DXxS4g8FSgS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+     target="_blank">
 
-  <span style="
-    position:absolute;
-    left:0;
-    top:38%;
-    font-size:4rem;
-    color:white;
-    line-height:1;
-  ">❮</span>
+    <img src="/assets/img/media2.png">
 
-  <span style="
-    position:absolute;
-    right:0;
-    top:38%;
-    font-size:4rem;
-    color:white;
-    line-height:1;
-  ">❯</span>
+    <div class="media-caption">
+      Instagram post.<br>
+      Source: Schmidt Sciences.
+    </div>
+
+  </a>
+
+  <a class="media-card"
+     href="https://www.instagram.com/reel/DXznxspuQWs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+     target="_blank">
+
+    <img src="/assets/img/media3.png">
+
+    <div class="media-caption">
+      Instagram reel.<br>
+      Source: Scientific American.
+    </div>
+
+  </a>
 
 </div>
-
 ---
