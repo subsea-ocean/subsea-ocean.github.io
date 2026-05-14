@@ -1,11 +1,11 @@
 ---
 layout: page
-title: SUBSEA Cruise Fkt260303
+title: SUBSEA Cruise Fkt260303: Expedition in the South Atlantic
 permalink: /subsea-part-1/
 nav: false
 ---
 
-# SUBSEA Cruise Fkt260303: Expedition in the South Atlantic
+# March 3 2026 - April 6 2026
 
 The SUBSEA Part 1 expedition aboard Schmidt Ocean Institute’s R/V *Falkor* (too) was the first of two planned expeditions investigating nutrient cycling, productivity, and carbon export in the subtropical South Atlantic. Conducted as part of the Schmidt Sciences Ocean Biogeochemistry Virtual Institute (OBVI), the expedition brought together an international team of scientists, technicians, engineers, and students for 35 days of continuous science operations at sea.
 
