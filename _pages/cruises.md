@@ -35,38 +35,18 @@ nav_order: 2
   background-color: rgba(0, 188, 212, 0.22);
 }
 
-.gyre-label {
-  position: absolute;
-  color: white;
-  font-weight: 700;
-  font-size: 1.2rem;
-  pointer-events: none;
-  text-align: center;
-  text-shadow: 0 2px 8px rgba(0,0,0,0.5);
-}
-
 #northPacificHotspot {
-  left: 31%;
-  top: 22%;
-  width: 23%;
+  left: 32%;
+  top: 23%;
+  width: 21%;
   height: 24%;
 }
 
 #southAtlanticHotspot {
-  left: 77%;
-  top: 56%;
-  width: 18%;
-  height: 25%;
-}
-
-#northPacificLabel {
-  left: 38%;
-  top: 31%;
-}
-
-#southAtlanticLabel {
-  left: 82%;
-  top: 64%;
+  left: 78%;
+  top: 57%;
+  width: 15%;
+  height: 27%;
 }
 
 .cruise-info {
@@ -107,7 +87,6 @@ nav_order: 2
   overflow: hidden;
   transition: all 0.25s ease;
   box-shadow: 0 4px 14px rgba(0,0,0,0.18);
-
   min-width: 520px;
 }
 
@@ -116,7 +95,6 @@ nav_order: 2
   text-align: left;
   padding: 18px 30px;
   color: #1f2a44;
-
   white-space: nowrap;
 }
 
@@ -148,7 +126,6 @@ nav_order: 2
 }
 
 @media (max-width: 768px) {
-
   .cruise-grid {
     grid-template-columns: 1fr;
   }
@@ -160,7 +137,6 @@ nav_order: 2
   .cruise-title {
     white-space: normal;
   }
-
 }
 </style>
 
@@ -191,14 +167,6 @@ nav_order: 2
 
   <div id="southAtlanticHotspot" class="gyre-hotspot" onclick="showGyre('southAtlantic')"></div>
 
-  <div id="northPacificLabel" class="gyre-label">
-    North<br>Pacific
-  </div>
-
-  <div id="southAtlanticLabel" class="gyre-label">
-    South<br>Atlantic
-  </div>
-
 </div>
 
 <!-- NORTH PACIFIC -->
@@ -215,109 +183,39 @@ nav_order: 2
 
       <h3>Cruises</h3>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightNorthPacificTrack('hot356358')"
-         onmouseout="resetNorthPacificTracks()">
-
-        <span class="cruise-title">
-          HOT Cruise 356
-        </span>
-
-        <span class="cruise-learn-more">
-          Learn more
-        </span>
-
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">
+        <span class="cruise-title">HOT Cruise 356</span>
+        <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightNorthPacificTrack('hot356358')"
-         onmouseout="resetNorthPacificTracks()">
-
-        <span class="cruise-title">
-          HOT Cruise 357
-        </span>
-
-        <span class="cruise-learn-more">
-          Learn more
-        </span>
-
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">
+        <span class="cruise-title">HOT Cruise 357</span>
+        <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightNorthPacificTrack('hot356358')"
-         onmouseout="resetNorthPacificTracks()">
-
-        <span class="cruise-title">
-          HOT Cruise 358
-        </span>
-
-        <span class="cruise-learn-more">
-          Learn more
-        </span>
-
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">
+        <span class="cruise-title">HOT Cruise 358</span>
+        <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightNorthPacificTrack('hot359362')"
-         onmouseout="resetNorthPacificTracks()">
-
-        <span class="cruise-title">
-          HOT Cruise 359
-        </span>
-
-        <span class="cruise-learn-more">
-          Learn more
-        </span>
-
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
+        <span class="cruise-title">HOT Cruise 359</span>
+        <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightNorthPacificTrack('hot359362')"
-         onmouseout="resetNorthPacificTracks()">
-
-        <span class="cruise-title">
-          HOT Cruise 360
-        </span>
-
-        <span class="cruise-learn-more">
-          Learn more
-        </span>
-
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
+        <span class="cruise-title">HOT Cruise 360</span>
+        <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightNorthPacificTrack('hot359362')"
-         onmouseout="resetNorthPacificTracks()">
-
-        <span class="cruise-title">
-          HOT Cruise 361
-        </span>
-
-        <span class="cruise-learn-more">
-          Learn more
-        </span>
-
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
+        <span class="cruise-title">HOT Cruise 361</span>
+        <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button"
-         href="#"
-         onmouseover="highlightNorthPacificTrack('hot359362')"
-         onmouseout="resetNorthPacificTracks()">
-
-        <span class="cruise-title">
-          HOT Cruise 362
-        </span>
-
-        <span class="cruise-learn-more">
-          Learn more
-        </span>
-
+      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
+        <span class="cruise-title">HOT Cruise 362</span>
+        <span class="cruise-learn-more">Learn more</span>
       </a>
 
     </div>
@@ -400,7 +298,6 @@ function themeColor() {
 }
 
 function addBaseLayer(map) {
-
   L.tileLayer(
     "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
     {
@@ -408,11 +305,9 @@ function addBaseLayer(map) {
       attribution: "&copy; OpenStreetMap contributors"
     }
   ).addTo(map);
-
 }
 
 function showGyre(gyreId) {
-
   document.querySelectorAll('.cruise-info').forEach(function(section) {
     section.classList.remove('active');
   });
@@ -420,31 +315,25 @@ function showGyre(gyreId) {
   document.getElementById(gyreId).classList.add('active');
 
   if (gyreId === "northPacific") {
-
     initNorthPacificMap();
 
     setTimeout(function() {
       northPacificMap.invalidateSize();
     }, 150);
-
   }
 
   if (gyreId === "southAtlantic") {
-
     initSouthAtlanticMap();
 
     setTimeout(function() {
       southAtlanticMap.invalidateSize();
     }, 150);
-
   }
-
 }
 
 /* SOUTH ATLANTIC */
 
 function initSouthAtlanticMap() {
-
   if (southAtlanticMap) return;
 
   const fkt260303Coords = [
@@ -484,11 +373,9 @@ function initSouthAtlanticMap() {
       padding: [25, 25]
     }
   );
-
 }
 
 function highlightSouthAtlanticTrack() {
-
   initSouthAtlanticMap();
 
   southAtlanticTrack.setStyle({
@@ -499,11 +386,9 @@ function highlightSouthAtlanticTrack() {
   });
 
   southAtlanticTrack.bringToFront();
-
 }
 
 function resetSouthAtlanticTrack() {
-
   if (!southAtlanticTrack) return;
 
   southAtlanticTrack.setStyle({
@@ -512,13 +397,11 @@ function resetSouthAtlanticTrack() {
     dashArray: "6,6",
     opacity: 0.95
   });
-
 }
 
 /* NORTH PACIFIC */
 
 function initNorthPacificMap() {
-
   if (northPacificMap) return;
 
   const hot356358Coords = [
@@ -570,11 +453,9 @@ function initNorthPacificMap() {
       padding: [25, 25]
     }
   );
-
 }
 
 function highlightNorthPacificTrack(trackId) {
-
   initNorthPacificMap();
 
   resetNorthPacificTracks();
@@ -590,7 +471,6 @@ function highlightNorthPacificTrack(trackId) {
   }
 
   if (track) {
-
     track.setStyle({
       color: themeColor(),
       weight: 5,
@@ -599,15 +479,11 @@ function highlightNorthPacificTrack(trackId) {
     });
 
     track.bringToFront();
-
   }
-
 }
 
 function resetNorthPacificTracks() {
-
   [hot356358Track, hot359362Track].forEach(function(track) {
-
     if (!track) return;
 
     track.setStyle({
@@ -616,14 +492,10 @@ function resetNorthPacificTracks() {
       dashArray: "6,6",
       opacity: 0.95
     });
-
   });
-
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-
   initSouthAtlanticMap();
-
 });
 </script>
