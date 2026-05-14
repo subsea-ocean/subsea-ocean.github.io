@@ -58,12 +58,15 @@ nav: false
   margin-top:40px;
 ">
 
-<h2 style="
+<div style="
   text-align:center;
-  margin-bottom:30px;
+  font-size:2rem;
+  font-weight:700;
+  margin-top:25px;
+  margin-bottom:35px;
 ">
-Chief Scientist
-</h2>
+  Chief Scientist
+</div>
 
 <p style="
   font-size:1.05em;
