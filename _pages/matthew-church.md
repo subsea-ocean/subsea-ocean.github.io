@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Matthew Church
+title: ""
 permalink: /subsea-part-1/team/matthew-church/
 nav: false
 ---
 
 <div style="
-  background-image: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url('/assets/img/news/newgrouppic.jpg');
+  background-image:
+    linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
+    url('/assets/img/teampicfaded.png');
   background-size: cover;
   background-position: center;
-  height: 300px;
+  height: 350px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -17,12 +19,21 @@ nav: false
   border-radius: 0.25rem;
   margin-bottom: 40px;
 ">
-  <h1 style="color:white; font-size:3rem; font-weight:700;">
+
+  <h1 style="
+    color:white;
+    font-size:4rem;
+    font-weight:700;
+    margin:0;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+  ">
     Matthew Church
   </h1>
+
 </div>
 
 <div style="text-align:center;">
+
   <img 
     src="/assets/img/MattChurchCruise.png"
     alt="Matthew Church"
@@ -32,30 +43,50 @@ nav: false
       object-fit:cover;
       border-radius:50%;
       border:6px solid white;
-      margin-top:-120px;
+      margin-top:-150px;
+      position:relative;
+      z-index:5;
+      background:black;
     "
   >
+
 </div>
 
-<div style="max-width:900px; margin:auto; margin-top:40px;">
+<div style="
+  max-width:900px;
+  margin:auto;
+  margin-top:40px;
+">
 
-<h2 style="text-align:center;">
+<h2 style="
+  text-align:center;
+  margin-bottom:30px;
+">
 Chief Scientist
 </h2>
 
-<p style="font-size:1.05em; line-height:1.8;">
+<p style="
+  font-size:1.05em;
+  line-height:1.8;
+">
 
 I study the ways that microorganisms catalyze the movement of elements through aquatic ecosystems. Most of my research focuses on linking specific microorganisms to transformations of nitrogen, phosphorus, and carbon. Much of this work centers on marine ecosystems and the interdisciplinary nature of oceanography.
 
 </p>
 
-<p style="font-size:1.05em; line-height:1.8;">
+<p style="
+  font-size:1.05em;
+  line-height:1.8;
+">
 
 My group has spent considerable time examining the microorganisms driving nitrogen cycling in the ocean, including studies of spatial and temporal variation in organisms involved in N₂ fixation, nitrification, and nitrogen assimilation.
 
 </p>
 
-<p style="font-size:1.05em; line-height:1.8;">
+<p style="
+  font-size:1.05em;
+  line-height:1.8;
+">
 
 I am a Professor at the University of Montana, based at the Flathead Lake Biological Station.
 
