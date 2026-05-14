@@ -39,7 +39,7 @@ As the cruise concluded, the captain and crew hosted an Easter Sunday barbecue a
     <img 
       src="/assets/img/news/subsea43.jpg"
       alt="SUBSEA operations aboard R/V Falkor (too)"
-      style="max-width:450px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
+      style="max-width:800px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
     >
   </a>
   <figcaption style="font-size:0.9em; margin-top:0.5rem;">
