@@ -369,10 +369,10 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 <style>
 .media-slider {
   display: flex;
-  align-items: center;
+  align-items: stretch;
   justify-content: center;
   gap: 20px;
-  overflow-x: auto;
+  flex-wrap: wrap;
   padding: 20px 10px;
 }
 
@@ -416,8 +416,8 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
   In the Media
 </h2>
 
-<div class="media-slider">
-
+<div class="media-slider justify-content-center">
+  
   <a class="media-card"
      href="https://www.youtube.com/live/oRuxfFRRwh4?si=GLb5M_a321oTtIUr"
      target="_blank">
