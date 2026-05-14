@@ -1,11 +1,19 @@
 ---
 layout: page
-title: "SUBSEA Cruise Fkt260303: Expedition in the South Atlantic"
+<h1 style="text-align:center; margin-top:10px;">
+  SUBSEA Cruise Fkt260303: Expedition in the South Atlantic
+</h1>
 permalink: /subsea-part-1/
 nav: false
 ---
 
-# March 3 2026 - April 6 2026
+<h1 style="text-align:center;">
+  SUBSEA Cruise Fkt260303: Expedition in the South Atlantic
+</h1>
+
+<p style="text-align:center; font-size:1.15em; margin-top:-10px;">
+  March 3, 2026 – April 6, 2026
+</p>
 
 The SUBSEA Part 1 expedition aboard Schmidt Ocean Institute’s R/V *Falkor* (too) was the first of two planned expeditions investigating nutrient cycling, productivity, and carbon export in the subtropical South Atlantic. Conducted as part of the Schmidt Sciences Ocean Biogeochemistry Virtual Institute (OBVI), the expedition brought together an international team of scientists, technicians, engineers, and students for 35 days of continuous science operations at sea.
 
@@ -15,7 +23,9 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
 ---
 
-## Cruise Track
+<h2 style="text-align:center;">
+  Cruise Track
+</h2>
 
 <figure style="text-align:center;">
   <a href="/assets/img/news/subsea_part1_track.png" target="_blank">
@@ -29,7 +39,9 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
 ---
 
-## Science Team
+<h2 style="text-align:center;">
+  Science Team
+</h2>
 
 <figure style="text-align:center;">
   <a href="/assets/img/newgrouppic.jpg" target="_blank">
@@ -50,7 +62,9 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 </figure>
 ---
 
-## Expedition Photo Gallery
+<h2 style="text-align:center;">
+  Expedition Photo Gallery
+</h2>
 
 <div id="subseaLandingGallery" class="carousel slide mt-4 mb-4" data-ride="carousel" style="max-width:900px; margin:auto;">
 
@@ -114,7 +128,9 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
 ---
 
-## Cruise Video Updates
+<h2 style="text-align:center;">
+  Cruise Video Updates
+</h2>
 
 <div class="row mt-4">
 
@@ -178,7 +194,9 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
 ---
 
-## In the Media
+<h2 style="text-align:center;">
+  In the Media
+</h2>
 
 <div style="position:relative; max-width:900px; margin:40px auto;">
 
