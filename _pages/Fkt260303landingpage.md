@@ -1,13 +1,11 @@
 ---
 layout: page
-<h1 style="text-align:center; margin-top:10px;">
-  SUBSEA Cruise Fkt260303: Expedition in the South Atlantic
-</h1>
+title: "SUBSEA Cruise Fkt260303: Expedition in the South Atlantic"
 permalink: /subsea-part-1/
 nav: false
 ---
 
-<h1 style="text-align:center;">
+<h1 style="text-align:center; margin-top:10px;">
   SUBSEA Cruise Fkt260303: Expedition in the South Atlantic
 </h1>
 
