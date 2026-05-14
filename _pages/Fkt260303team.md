@@ -16,10 +16,22 @@ Meet the scientists, students, technicians, and collaborators who participated i
       <img 
         src="/assets/img/MattChurchCruise.png"
         alt="Matthew Church"
-        style="width:160px; height:160px; object-fit:cover; border-radius:50%; border:6px solid white;"
+        style="
+          width:160px;
+          height:160px;
+          object-fit:cover;
+          border-radius:50%;
+          border:6px solid white;
+        "
       >
-      <h5 style="margin-top:15px;">Matthew Church</h5>
-      <p style="font-size:0.9em;">Chief Scientist</p>
+
+      <h5 style="margin-top:15px;">
+        Matthew Church
+      </h5>
+
+      <p style="font-size:0.9em;">
+        Chief Scientist
+      </p>
     </a>
   </div>
 
