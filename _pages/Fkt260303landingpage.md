@@ -353,7 +353,9 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
 </div>
 
-## Cruise News Updates
+<h2 style="text-align:center;">
+  Cruise News Updates
+</h2>
 
 - [SUBSEA Part 1 Begins in the South Atlantic](/news/2026-03-04-subsea-part1-begins/)
 - [SUBSEA Part 1: Science Operations Begin at Station 1](/news/2026-03-07-subsea-part1-station1-operations/)
