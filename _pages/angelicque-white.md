@@ -35,7 +35,7 @@ nav: false
 <div style="text-align:center;">
 
   <img 
-    src="/assets/img/angelicquewhitecruise.png"
+    src="/assets/img/angeliquewhitecruise.png"
     alt="Angelicque White"
     style="
       width:220px;
@@ -72,7 +72,7 @@ nav: false
   line-height:1.8;
 ">
 
-Angelicque E. White is a co-PI on the SUBSEA project.
+The fundamental objective of my research is to develop an enhanced and mechanistic understanding of the chemical and biological processes that define the fluxes, standing stocks and productivity of the oceanic component of Earth’s life support system. Accordingly, my research skill set and interests are broad, spanning the following topical areas: phytoplankton physiology, nitrogen fixation, phosphorus cycling, elemental stoichiometry, hyperspectral absorbance, attenuation and fluorescence, harmful algal blooms, numerical approaches to modeling phytoplankton‐mediated processes, and utilization of remote sensing tools to explore habitat variability.
 
 </p>
 
