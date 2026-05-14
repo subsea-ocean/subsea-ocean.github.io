@@ -44,19 +44,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people";
           },
-        },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications";
-          },
         },{id: "nav-data",
           title: "data",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/data";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications";
           },
         },{id: "news-obvi-workshop-2025-application-opens",
           title: 'OBVI workshop 2025 application opens',
