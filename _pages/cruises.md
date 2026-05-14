@@ -156,17 +156,21 @@ nav_order: 2
       </p>
     </div>
 
-    <div class="cruise-card">
-      <h3>Cruise Track</h3>
+   <div class="cruise-card">
+  <h3>Cruise Track</h3>
 
-      <a href="/assets/img/news/subsea_part1_track.png" target="_blank">
-        <img 
-          src="/assets/img/news/subsea_part1_track.png"
-          alt="SUBSEA South Atlantic cruise track"
-          class="cruise-track"
-        >
-      </a>
-    </div>
+  <a href="/assets/img/cruises/Fkt260303_track_map.png" target="_blank">
+    <img 
+      src="/assets/img/cruises/Fkt260303_track_map.png"
+      alt="SUBSEA Cruise Fkt260303 track map"
+      class="cruise-track"
+    >
+  </a>
+
+  <p style="font-size:0.9em; margin-top:0.75rem; text-align:center;">
+    Cruise track for SUBSEA Cruise Fkt260303 in the South Atlantic Subtropical Gyre.
+  </p>
+</div>
 
   </div>
 
