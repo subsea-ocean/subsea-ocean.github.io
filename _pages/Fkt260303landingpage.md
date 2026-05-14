@@ -25,9 +25,6 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
       style="max-width:700px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
     >
   </a>
-  <figcaption style="font-size:0.9em; margin-top:0.5rem;">
-    Planned cruise track for the SUBSEA Part 1 expedition in the South Atlantic.
-  </figcaption>
 </figure>
 
 ---
