@@ -1,29 +1,35 @@
 ---
 layout: page
-title: Cruises
+title: ""
 permalink: /cruises/
 nav: true
 nav_order: 2
 ---
 
-<h1 style="text-align:center;">Cruises</h1>
+<div style="text-align:center; margin-bottom:40px;">
 
-<p style="text-align:center; max-width:850px; margin:auto;">
+<h1 style="margin-bottom:10px;">
+  Cruises
+</h1>
+
+<p style="max-width:850px; margin:auto;">
   Explore SUBSEA field expeditions across the subtropical gyres.
 </p>
 
-<style>
+</div>
 
+<style>
 .cruise-map-wrap {
   position: relative;
   max-width: 950px;
   margin: 40px auto;
 }
 
-.cruise-map-wrap img {
+.cruise-map-wrap img,
+.cruise-track-map {
   width: 100%;
   display: block;
-  border-radius: 0.25rem;
+  border-radius: 0.5rem;
 }
 
 .gyre-hotspot {
@@ -89,13 +95,32 @@ nav_order: 2
 
 .cruise-card {
   background: rgba(255,255,255,0.04);
-  padding: 20px;
+  padding: 24px;
   border-radius: 0.5rem;
 }
 
-.cruise-track {
-  width: 100%;
-  border-radius: 0.5rem;
+.cruise-button {
+  display: block;
+  text-align: center;
+  background: rgba(255,255,255,0.72);
+  color: #2b6f8a;
+  padding: 14px 18px;
+  margin: 14px 0;
+  border-radius: 999px;
+  font-size: 1.05rem;
+  text-decoration: none;
+  transition: all 0.25s ease;
+}
+
+.cruise-button:hover {
+  background: var(--global-theme-color);
+  color: white;
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+.cruise-route {
+  transition: all 0.25s ease;
 }
 
 @media (max-width: 768px) {
@@ -103,7 +128,6 @@ nav_order: 2
     grid-template-columns: 1fr;
   }
 }
-
 </style>
 
 <div class="cruise-map-wrap">
@@ -138,56 +162,102 @@ nav_order: 2
 
       <h3>Cruises</h3>
 
-      <p>
-        <a href="#">
-          Hawaii Ocean Time Series (HOT) Cruise 356
-        </a>
-      </p>
+      <a class="cruise-button"
+         href="#"
+         onmouseover="highlightTrack('hot356358')"
+         onmouseout="resetTracks()">
+        HOT Cruise 356
+      </a>
 
-      <p>
-        <a href="#">
-          Hawaii Ocean Time Series (HOT) Cruise 357
-        </a>
-      </p>
+      <a class="cruise-button"
+         href="#"
+         onmouseover="highlightTrack('hot356358')"
+         onmouseout="resetTracks()">
+        HOT Cruise 357
+      </a>
 
-      <p>
-        <a href="#">
-          Hawaii Ocean Time Series (HOT) Cruise 358
-        </a>
-      </p>
+      <a class="cruise-button"
+         href="#"
+         onmouseover="highlightTrack('hot356358')"
+         onmouseout="resetTracks()">
+        HOT Cruise 358
+      </a>
 
-      <p>
-        <a href="#">
-          Hawaii Ocean Time Series (HOT) Cruise 359
-        </a>
-      </p>
+      <a class="cruise-button"
+         href="#"
+         onmouseover="highlightTrack('hot359362')"
+         onmouseout="resetTracks()">
+        HOT Cruise 359
+      </a>
 
-      <p>
-        <a href="#">
-          Hawaii Ocean Time Series (HOT) Cruise 360
-        </a>
-      </p>
+      <a class="cruise-button"
+         href="#"
+         onmouseover="highlightTrack('hot359362')"
+         onmouseout="resetTracks()">
+        HOT Cruise 360
+      </a>
 
-      <p>
-        <a href="#">
-          Hawaii Ocean Time Series (HOT) Cruise 361
-        </a>
-      </p>
+      <a class="cruise-button"
+         href="#"
+         onmouseover="highlightTrack('hot359362')"
+         onmouseout="resetTracks()">
+        HOT Cruise 361
+      </a>
 
-      <p>
-        <a href="#">
-          Hawaii Ocean Time Series (HOT) Cruise 362
-        </a>
-      </p>
+      <a class="cruise-button"
+         href="#"
+         onmouseover="highlightTrack('hot359362')"
+         onmouseout="resetTracks()">
+        HOT Cruise 362
+      </a>
 
     </div>
 
     <div class="cruise-card">
 
-      <h3>Cruise Track</h3>
+      <h3>Cruise Tracks</h3>
 
-      <p>
-        North Pacific cruise track maps coming soon.
+      <div style="position:relative;">
+
+        <img
+          src="/assets/img/cruises/north_pacific_base_map.png"
+          alt="North Pacific HOT cruise map"
+          class="cruise-track-map"
+        >
+
+        <svg viewBox="0 0 100 100"
+             style="position:absolute; top:0; left:0; width:100%; height:100%;">
+
+          <polyline
+            id="hot356358"
+            class="cruise-route"
+            points="20,70 35,62 68,28 72,34 40,55 20,70"
+            fill="none"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-dasharray="2,2"
+          />
+
+          <polyline
+            id="hot359362"
+            class="cruise-route"
+            points="20,70 35,62 68,28 76,32 40,55 20,70"
+            fill="none"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-dasharray="2,2"
+          />
+
+        </svg>
+
+      </div>
+
+      <p style="
+        font-size:0.9em;
+        margin-top:0.75rem;
+        text-align:center;
+      ">
+        Representative HOT cruise tracks in the North Pacific Subtropical Gyre.
       </p>
 
     </div>
@@ -210,13 +280,14 @@ nav_order: 2
 
       <h3>Cruises</h3>
 
-      <p>
-        <a href="/subsea-part-1/">
-          SUBSEA Cruise Fkt260303: Expedition in the South Atlantic
-        </a>
-      </p>
+      <a class="cruise-button"
+         href="/subsea-part-1/"
+         onmouseover="highlightTrack('southAtlanticFkt260303')"
+         onmouseout="resetTracks()">
+        Fkt260303: South Atlantic Cruise 1
+      </a>
 
-      <p>
+      <p style="margin-top:25px;">
         Future South Atlantic cruise pages will be added here.
       </p>
 
@@ -224,24 +295,39 @@ nav_order: 2
 
     <div class="cruise-card">
 
-      <h3>Cruise Track</h3>
+      <h3>Cruise Tracks</h3>
 
-      <a href="/assets/img/cruises/Fkt260303_track_map.png" target="_blank">
+      <div style="position:relative;">
 
-        <img 
-          src="/assets/img/cruises/Fkt260303_track_map.png"
-          alt="SUBSEA Cruise Fkt260303 track map"
-          class="cruise-track"
+        <img
+          src="/assets/img/cruises/south_atlantic_base_map.png"
+          alt="South Atlantic SUBSEA cruise map"
+          class="cruise-track-map"
         >
 
-      </a>
+        <svg viewBox="0 0 100 100"
+             style="position:absolute; top:0; left:0; width:100%; height:100%;">
+
+          <polyline
+            id="southAtlanticFkt260303"
+            class="cruise-route"
+            points="20,65 38,78 40,63 50,62 65,60 72,45 80,35"
+            fill="none"
+            stroke="white"
+            stroke-width="1.5"
+            stroke-dasharray="2,2"
+          />
+
+        </svg>
+
+      </div>
 
       <p style="
         font-size:0.9em;
         margin-top:0.75rem;
         text-align:center;
       ">
-        Cruise track for SUBSEA Cruise Fkt260303 in the South Atlantic Subtropical Gyre.
+        SUBSEA cruise tracks in the South Atlantic Subtropical Gyre.
       </p>
 
     </div>
@@ -251,7 +337,6 @@ nav_order: 2
 </div>
 
 <script>
-
 function showGyre(gyreId) {
 
   document.querySelectorAll('.cruise-info').forEach(function(section) {
@@ -262,4 +347,31 @@ function showGyre(gyreId) {
 
 }
 
+function highlightTrack(trackId) {
+
+  resetTracks();
+
+  const track = document.getElementById(trackId);
+
+  if (track) {
+    track.style.stroke = "var(--global-theme-color)";
+    track.style.strokeWidth = "3";
+    track.style.strokeDasharray = "none";
+
+    track.parentNode.appendChild(track);
+  }
+
+}
+
+function resetTracks() {
+
+  document.querySelectorAll("polyline.cruise-route").forEach(function(track) {
+
+    track.style.stroke = "white";
+    track.style.strokeWidth = "1.5";
+    track.style.strokeDasharray = "2,2";
+
+  });
+
+}
 </script>
