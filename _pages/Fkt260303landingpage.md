@@ -357,12 +357,12 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
   Cruise News Updates
 </h2>
 
-- [SUBSEA Part 1 Begins in the South Atlantic](/news/2026-03-04-subsea-part1-begins/)
-- [SUBSEA Part 1: Science Operations Begin at Station 1](/news/2026-03-07-subsea-part1-station1-operations/)
-- [SUBSEA Part 1 Week 2 Update](/news/2026-03-13-subsea-part1-week2-update/)
-- [SUBSEA Part 1 Mid-Cruise Update](/news/2026-03-22-subsea-mid-cruise-update/)
-- [SUBSEA Part 1 Bloom Dynamics and Final Long Station](/news/2026-03-28-subsea-bloom-dynamics-final-station/)
-- [SUBSEA Part 1 Returns to Port](/news/2026-04-06-subsea-returns-to-port/)
+- [SUBSEA Part 1 Begins in the South Atlantic](/news/2026-03-04-subsea-part1-begins.html)
+- [SUBSEA Part 1: Science Operations Begin at Station 1](/news/2026-03-07-subsea-part1-station1-operations.html)
+- [SUBSEA Part 1 Week 2 Update](/news/2026-03-13-subsea-part1-week2-update.html)
+- [SUBSEA Part 1 Mid-Cruise Update](/news/2026-03-22-subsea-mid-cruise-update.html)
+- [SUBSEA Part 1 Bloom Dynamics and Final Long Station](/news/2026-03-28-subsea-bloom-dynamics-final-station.html)
+- [SUBSEA Part 1 Returns to Port](/news/2026-04-06-subsea-returns-to-port.html)
 
 ---
 
