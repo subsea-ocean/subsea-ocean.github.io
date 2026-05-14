@@ -1,13 +1,17 @@
 ---
 layout: page
-title: SUBSEA Part 1 Team
+title: ""
 permalink: /subsea-part-1/team/
 nav: false
 ---
 
-# SUBSEA Part 1 Team
+<h1 style="text-align:center;">
+  SUBSEA Part 1 Team
+</h1>
 
-Meet the members of the SUBSEA team and collaborators who participated in the first SUBSEA South Atlantic expedition aboard the R/V *Falkor* (too).
+<p style="text-align:center; max-width:900px; margin:auto; margin-bottom:50px;">
+  Meet the members of the SUBSEA team and collaborators who participated in the first SUBSEA South Atlantic expedition aboard the R/V <i>Falkor</i> (too).
+</p>
 
 <div class="row text-center mt-4">
 
