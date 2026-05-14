@@ -68,49 +68,213 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
   <div class="carousel-inner" style="background:transparent; border-radius:0.25rem;">
 
-    <div class="carousel-item active"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea_part1_news1_gallery/subsea2.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea_part1_news1_gallery/subsea3.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea_part1_news1_gallery/subsea4.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea_part1_news1_gallery/subsea5.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea_part1_news1_gallery/subsea6.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <!-- ACTIVE IMAGE -->
+    <div class="carousel-item active">
 
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea7.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea8.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea9.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea10.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea11.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea12.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea13.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea14.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea_part1_news1_gallery/subsea2.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
 
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea17.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea18.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea19.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea20.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea21.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea22.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea23.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        The R/V Falkor (too) transits across the South Atlantic during SUBSEA Part 1. Image Credit: Schmidt Ocean Institute.
+      </p>
 
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea25.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea26.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea27.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea28.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea29.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea30.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea31.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea32.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    </div>
 
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea33.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea34.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea35.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea36.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea37.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea38.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea39.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea40.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+    <!-- IMAGE -->
+    <div class="carousel-item">
 
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea42.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
-    <div class="carousel-item"><div style="height:550px; display:flex; align-items:center; justify-content:center;"><img src="/assets/img/news/subsea44.jpg" style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"></div></div>
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea7.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        The team deploys the first Sediment Trap of the cruise! Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea8.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        The team deploys the Seaglider from a small boat. Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea9.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        The Seaglider in the water! Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea10.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        Chief Scientist Dr. Matt Church measures near-surface phosphate concentrations. Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea11.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        Co-PI Dr. Nicholas Hawco filters water for trace metals in the wet lab. Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea12.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        The team samples from the CTD! Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea17.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        Looking at a micrograph of the zooplankton community retrieved from a net tow from Station 2 (imaging done by Raquel Flynn). Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea21.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        Unloading the McLane Pumps from the new container! Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea25.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        The team deploys the VMP Profiler. Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea31.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        The team deploys the Wirewalker. Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea33.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        The team deploys the productivity array. Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
+
+    <!-- IMAGE -->
+    <div class="carousel-item">
+
+      <div style="height:550px; display:flex; align-items:center; justify-content:center;">
+        <img 
+          src="/assets/img/news/subsea42.jpg"
+          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
+        >
+      </div>
+
+      <p style="text-align:center; margin-top:15px; font-size:0.9em; color:white; max-width:800px; margin-left:auto; margin-right:auto;">
+        Scientists from the Subsea Part 1 expedition pose in front of the A-Frame at the aft deck of Falkor (too). Image Credit: Schmidt Ocean Institute.
+      </p>
+
+    </div>
 
   </div>
 
