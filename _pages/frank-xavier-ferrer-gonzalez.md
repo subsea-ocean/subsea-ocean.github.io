@@ -36,7 +36,7 @@ nav: false
 <div style="text-align:center;">
 
   <img 
-    src="/assets/img/frankxavierferrergonzálezcruise.png"
+    src="/assets/img/frankxavierferrergonzálezcruise (2).png"
     alt="Frank Xavier Ferrer González"
     style="
       width:220px;
