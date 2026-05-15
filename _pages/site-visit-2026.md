@@ -5,11 +5,32 @@ permalink: /site-visit-2026/
 nav: false
 ---
 
-<img 
-  src="/assets/img/church2026_thumbnail.pdf.png"
-  alt="2026 SUBSEA site visit"
-  style="width:100%; border-radius:0.25rem; margin-bottom:40px;"
->
+<style>
+.post-title {
+  display: none;
+}
+
+.full-width-banner {
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  margin-top: -20px;
+  margin-bottom: 50px;
+}
+
+.full-width-banner img {
+  width: 100%;
+  display: block;
+}
+</style>
+
+<div class="full-width-banner">
+  <img
+    src="/assets/church2026_thumbnailnew.pdf.png"
+    alt="2026 SUBSEA Site Visit"
+  >
+</div>
 
 ## Details
 
@@ -67,14 +88,45 @@ Please include your arrival and departure details in the RSVP form so we can coo
 
 ## Flathead Lake Biological Station Map
 
-<div style="margin-top:30px; margin-bottom:40px;">
+<div style="text-align:center; margin:30px 0;">
 
-  <iframe
-    src="/assets/flbs-grounds-map-may-2021 (1).pdf.png"
-    width="100%"
-    height="700px"
-    style="border:none; border-radius:0.5rem;"
-  >
-  </iframe>
+  <div style="margin-bottom:15px;">
+    <button onclick="zoomMap(1.2)">Zoom In</button>
+    <button onclick="zoomMap(0.8)">Zoom Out</button>
+    <button onclick="resetMapZoom()">Reset</button>
+  </div>
+
+  <div style="
+    overflow:hidden;
+    max-width:100%;
+    border-radius:0.5rem;
+    border:1px solid rgba(255,255,255,0.15);
+  ">
+    <img
+      id="flbsMap"
+      src="/assets/flbs-grounds-map-may-2021%20(1).pdf.png"
+      alt="Flathead Lake Biological Station grounds map"
+      style="
+        width:100%;
+        transform:scale(1);
+        transform-origin:center center;
+        transition:transform 0.25s ease;
+      "
+    >
+  </div>
 
 </div>
+
+<script>
+let mapZoom = 1;
+
+function zoomMap(factor) {
+  mapZoom = Math.max(1, Math.min(mapZoom * factor, 4));
+  document.getElementById("flbsMap").style.transform = `scale(${mapZoom})`;
+}
+
+function resetMapZoom() {
+  mapZoom = 1;
+  document.getElementById("flbsMap").style.transform = "scale(1)";
+}
+</script>
