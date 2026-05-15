@@ -84,8 +84,6 @@ Please include your arrival and departure details in the RSVP form so we can coo
 
 ---
 
----
-
 ## Flathead Lake Biological Station Map
 
 <div style="text-align:center; margin:30px 0;">
