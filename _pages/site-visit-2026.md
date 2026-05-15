@@ -9,6 +9,43 @@ nav: false
 .post-title {
   display: none;
 }
+
+.map-controls {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.map-controls button {
+  margin: 0 4px;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  background: var(--global-theme-color);
+  color: white;
+  cursor: pointer;
+}
+
+#map-container {
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(255,255,255,0.15);
+  cursor: grab;
+  position: relative;
+}
+
+#map-container:active {
+  cursor: grabbing;
+}
+
+#flbsMap {
+  width: 100%;
+  height: auto;
+  transform-origin: 0 0;
+  user-select: none;
+  pointer-events: none;
+}
 </style>
 
 <div style="margin-bottom:50px;">
@@ -79,98 +116,29 @@ Please include your arrival and departure details in the RSVP form so we can coo
 
 ## Flathead Lake Biological Station Map
 
-<div style="text-align:center; margin:30px 0;">
-
-  <div style="margin-bottom:15px;">
-    <button onclick="zoomMap(1.2)">Zoom In</button>
-    <button onclick="zoomMap(0.8)">Zoom Out</button>
-    <button onclick="resetMapZoom()">Reset</button>
-  </div>
-
-  <div style="
-    overflow:hidden;
-    max-width:100%;
-    border-radius:0.5rem;
-    border:1px solid rgba(255,255,255,0.15);
-  ">
-    <img
-      id="flbsMap"
-      src="/assets/flbs-grounds-map-may-2021%20(1).pdf.png"
-      alt="Flathead Lake Biological Station grounds map"
-      style="
-        width:100%;
-        transform:scale(1);
-        transform-origin:center center;
-        transition:transform 0.25s ease;
-      "
-    >
-  </div>
-
-### Map
-
-<div class="map-zoom-section">
-  <div class="map-controls">
-    <button onclick="zoomMap(1.2)">+</button>
-    <button onclick="zoomMap(0.8)">−</button>
-    <button onclick="resetMap()">Reset</button>
-  </div>
-
-  <div id="map-container">
-    <img id="zoomable-map" src="assets/img/YOUR-MAP-FILE.png" alt="Workshop map">
-  </div>
+<div class="map-controls">
+  <button onclick="zoomMap(1.2)">Zoom In</button>
+  <button onclick="zoomMap(0.8)">Zoom Out</button>
+  <button onclick="resetMap()">Reset</button>
 </div>
 
-<style>
-.map-zoom-section {
-  margin-top: 2rem;
-}
-
-.map-controls {
-  text-align: center;
-  margin-bottom: 0.75rem;
-}
-
-.map-controls button {
-  margin: 0 0.25rem;
-  padding: 0.4rem 0.8rem;
-  border: none;
-  border-radius: 6px;
-  background: #787878;
-  color: white;
-  cursor: pointer;
-}
-
-#map-container {
-  width: 100%;
-  height: 500px;
-  overflow: hidden;
-  border-radius: 12px;
-  border: 1px solid #ddd;
-  cursor: grab;
-  position: relative;
-}
-
-#map-container:active {
-  cursor: grabbing;
-}
-
-#zoomable-map {
-  width: 100%;
-  height: auto;
-  transform-origin: 0 0;
-  user-select: none;
-  pointer-events: none;
-}
-</style>
+<div id="map-container">
+  <img
+    id="flbsMap"
+    src="/assets/flbs-grounds-map-may-2021%20(1).pdf.png"
+    alt="Flathead Lake Biological Station grounds map"
+  >
+</div>
 
 <script>
 let scale = 1;
 let posX = 0;
 let posY = 0;
 let isDragging = false;
-let startX, startY;
+let startX = 0;
+let startY = 0;
 
-const map = document.getElementById("zoomable-map");
+const map = document.getElementById("flbsMap");
 const container = document.getElementById("map-container");
 
 function updateMapTransform() {
