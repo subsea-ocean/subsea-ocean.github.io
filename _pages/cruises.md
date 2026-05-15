@@ -75,9 +75,9 @@ nav_order: 2
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 14px;
-  background: white;
-  color: #1f2a44;
+  gap: 0;
+  background: #787878;
+  color: white;
   padding: 0;
   margin: 14px 0;
   border-radius: 999px;
@@ -108,6 +108,7 @@ nav_order: 2
   white-space: nowrap;
   transition: all 0.25s ease;
   font-weight: 700;
+  margin-left: 0;
 }
 
 .cruise-button:hover {
