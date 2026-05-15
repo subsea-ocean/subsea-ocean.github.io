@@ -9,6 +9,43 @@ nav: false
 .post-title {
   display: none;
 }
+
+.map-controls {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.map-controls button {
+  margin: 0 4px;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  background: var(--global-theme-color);
+  color: white;
+  cursor: pointer;
+}
+
+#map-container {
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  border-radius: 0.5rem;
+  border: 1px solid rgba(255,255,255,0.15);
+  cursor: grab;
+  position: relative;
+}
+
+#map-container:active {
+  cursor: grabbing;
+}
+
+#flbsMap {
+  width: 100%;
+  height: auto;
+  transform-origin: 0 0;
+  user-select: none;
+  pointer-events: none;
+}
 </style>
 
 <div style="margin-bottom:50px;">
