@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /cruises/team/nick-haws/
+permalink: /cruises/team/nicholas-hawco/
 nav: false
 ---
 
@@ -35,8 +35,8 @@ nav: false
 <div style="text-align:center;">
 
   <img 
-    src="/assets/img/nickhawscruise.png"
-    alt="Nick Haws"
+    src="/assets/img/nicholashawcocruise.png"
+    alt="Nicholas Hawco"
     style="
       width:220px;
       height:220px;
@@ -59,21 +59,21 @@ nav: false
   margin-top:25px;
   margin-bottom:35px;
 ">
-  Research Technician
+  co-PI
 </div>
 
 <div style="max-width:900px; margin:auto;">
 
 <p style="font-size:1.05em; line-height:1.8;">
-Nick Haws contributes to oceanographic field operations and scientific sampling efforts associated with SUBSEA and the Hawaiʻi Ocean Time-series program.
+Nicholas Hawco is an Associate Professor at the University of Hawaii at Manoa.
 </p>
 
 <p style="font-size:1.05em; line-height:1.8;">
-His work at sea includes assisting with cruise logistics, deck operations, and sample collection supporting studies of marine biogeochemistry and plankton ecology in the North Pacific subtropical gyre.
+His background is in chemistry and he received his Ph.D. from the MIT/WHOI Joint Program in 2017. His research group measures the abundance of trace elements in the oceans. Many of these elements are micronutrients that are essential for life, while others can serve as tracers of key oceanic processes. 
 </p>
 
 <p style="font-size:1.05em; line-height:1.8;">
-Through participation in HOT cruises, he helps support long-term observations of microbial and ecosystem processes in the open ocean.
+In SUBSEA, his group will be tracking the seasonal and spatial changes in trace element abundance to shed light on how the ecosystem has evolved to conserve scarce resources.
 </p>
 
 </div>
