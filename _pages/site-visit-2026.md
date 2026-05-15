@@ -70,7 +70,7 @@ Please include your arrival and departure details in the RSVP form so we can coo
 <div style="margin-top:30px; margin-bottom:40px;">
 
   <iframe
-    src="/assets/flbs-grounds-map-may-2021.pdf"
+    src="/assets/flbs-grounds-map-may-2021 (1).pdf.png"
     width="100%"
     height="700px"
     style="border:none; border-radius:0.5rem;"
