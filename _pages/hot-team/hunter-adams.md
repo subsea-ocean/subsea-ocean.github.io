@@ -59,7 +59,7 @@ nav: false
   margin-top:25px;
   margin-bottom:35px;
 ">
-  Research Technician
+  Technician
 </div>
 
 <div style="max-width:900px; margin:auto;">
