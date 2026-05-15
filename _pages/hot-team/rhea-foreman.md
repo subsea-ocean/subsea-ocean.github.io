@@ -65,15 +65,15 @@ nav: false
 <div style="max-width:900px; margin:auto;">
 
 <p style="font-size:1.05em; line-height:1.8;">
-Rhea Foreman is an ocean scientist whose research focuses on marine biogeochemistry, plankton ecology, and ecosystem processes in the open ocean.
+Rhea Foreman is part of the SUBSEA research staff at the University of Hawai’i - Mānoa.
 </p>
 
 <p style="font-size:1.05em; line-height:1.8;">
-Her work includes oceanographic field sampling, biogeochemical observations, and studies examining the interactions between microbial communities and nutrient cycling.
+Over the course of her career, she has pursued scientific questions related to the distribution and partitioning of elements in the Earth and Oceans, and her research and analytical experience has encompassed the majority of naturally-occurring elements in the periodic table. 
 </p>
 
 <p style="font-size:1.05em; line-height:1.8;">
-Through participation in SUBSEA and Hawaiʻi Ocean Time-series cruises, she contributes to collaborative efforts investigating ecological and biogeochemical variability in the North Pacific subtropical gyre.
+After completing a PhD in mantle geochemistry at the MIT/WHOI Joint Program in Oceanography, she went on to a postdoctoral fellowship at Caltech followed by a Young Investigator position at the University of Hawai’i - Mānoa. After a stint in a biotech start-up that was researching algae-derived biofuel, she gravitated to marine chemistry and has spent the last 10+ years studying nutrient cycling in the marine environment at UH-Mānoa. Her role in SUBSEA is primarily land-based analytical support with a focus on inorganic and organic nutrients.
 </p>
 
 </div>
