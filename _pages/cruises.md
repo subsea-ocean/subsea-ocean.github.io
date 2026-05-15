@@ -184,37 +184,37 @@ nav_order: 2
 
       <h3>Cruises</h3>
 
-      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">
+      <a class="cruise-button" href="/cruises/hot-356/" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">
         <span class="cruise-title">HOT Cruise 356</span>
         <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">
+      <a class="cruise-button" href="/cruises/hot-357/" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">
         <span class="cruise-title">HOT Cruise 357</span>
         <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">
+      <a class="cruise-button" href="/cruises/hot-358/" onmouseover="highlightNorthPacificTrack('hot356358')" onmouseout="resetNorthPacificTracks()">
         <span class="cruise-title">HOT Cruise 358</span>
         <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
+      <a class="cruise-button" href="/cruises/hot-359/" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
         <span class="cruise-title">HOT Cruise 359</span>
         <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
+      <a class="cruise-button" href="/cruises/hot-360/" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
         <span class="cruise-title">HOT Cruise 360</span>
         <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
+      <a class="cruise-button" href="/cruises/hot-361/" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
         <span class="cruise-title">HOT Cruise 361</span>
         <span class="cruise-learn-more">Learn more</span>
       </a>
 
-      <a class="cruise-button" href="#" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
+      <a class="cruise-button" href="/cruises/hot-362/" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
         <span class="cruise-title">HOT Cruise 362</span>
         <span class="cruise-learn-more">Learn more</span>
       </a>
