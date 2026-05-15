@@ -32,20 +32,9 @@ SUBSEA (Subtropical Underwater Biogeochemistry and Subsurface Export Alliance) i
 
 **SUBSEA's work is founded on observations from the North Pacific and South Atlantic subtropical gyres.** Subtropical ocean gyres cover more than 20% of Earth’s surface area, making them some of the largest ecosystems on the planet. Despite persistently low concentrations of nutrients, subtropical gyres are important components of the global carbon cycle. Our research focuses on the complex space-time structure of the sunlit portion of the upper ocean, from the sea surface to approximately 200 meters deep.
 
-<figure style="text-align:center; margin:40px auto; max-width:950px;">
-  <img 
-    src="/assets/img/subtropical_gyres_map.png"
-    alt="Map of subtropical ocean gyres"
-    style="width:75%; border-radius:0.25rem;"
-  >
-  <figcaption style="margin-top:12px; font-size:0.95em;">
-    Map of ocean gyres, with the North Pacific and South Atlantic subtropical gyres in white. SUBSEA partner institutions are marked in red.
-  </figcaption>
-</figure>
-
 The backbone of our work relies on shipboard observations in both the North Pacific and South Atlantic subtropical gyres. Our team has expertise in ocean biogeochemistry, remote and autonomous sensing technologies, and mathematical modeling.
 
-**Together, SUBSEA aims to improve mechanistic understanding of how carbon and nutrients move through the photic zone in support of plankton productivity and carbon export.** Specifically, we are interested in how nutrient cycling in the poorly studied subsurface habitats of the upper ocean impact plankton productivity and sequestration of carbon dioxide by the subtropical gyres.
+**Together, SUBSEA aims to improve mechanistic understanding of how carbon and nutrients move through the photic zone in support of plankton productivity and carbon export. Specifically, we are interested in how nutrient cycling in the poorly studied subsurface habitats of the upper ocean impact plankton productivity and sequestration of carbon dioxide by the subtropical gyres.**
 
 <p> <br> </p>
 
