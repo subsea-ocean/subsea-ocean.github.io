@@ -111,13 +111,18 @@ Please include your arrival and departure details in the RSVP form so we can coo
 
 ---
 
-## Map
+---
 
-<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; max-width:100%; border-radius:0.25rem;">
+## Flathead Lake Biological Station Map
+
+<div style="margin-top:30px; margin-bottom:40px;">
+
   <iframe
-    src="PASTE_GOOGLE_MAP_EMBED_LINK_HERE"
-    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
-    allowfullscreen=""
-    loading="lazy">
+    src="/assets/flbs-grounds-map-may-2021.pdf"
+    width="100%"
+    height="700px"
+    style="border:none; border-radius:0.5rem;"
+  >
   </iframe>
+
 </div>
