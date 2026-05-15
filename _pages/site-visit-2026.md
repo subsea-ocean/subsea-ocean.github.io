@@ -106,18 +106,29 @@ Please include your arrival and departure details in the RSVP form so we can coo
     >
   </div>
 
-</div>
+## Flathead Lake Biological Station Map
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<div id="flbsMap" style="height:700px; width:100%; border-radius:0.5rem;"></div>
 
 <script>
-let mapZoom = 1;
+const map = L.map("flbsMap", {
+  crs: L.CRS.Simple,
+  minZoom: -2,
+  maxZoom: 3,
+  scrollWheelZoom: true
+});
 
-function zoomMap(factor) {
-  mapZoom = Math.max(1, Math.min(mapZoom * factor, 4));
-  document.getElementById("flbsMap").style.transform = `scale(${mapZoom})`;
-}
+const imageUrl = "/assets/flbs-grounds-map-may-2021%20(1).pdf.png";
 
-function resetMapZoom() {
-  mapZoom = 1;
-  document.getElementById("flbsMap").style.transform = "scale(1)";
-}
+const imageWidth = 1600;
+const imageHeight = 1200;
+
+const bounds = [[0, 0], [imageHeight, imageWidth]];
+
+L.imageOverlay(imageUrl, bounds).addTo(map);
+
+map.fitBounds(bounds);
 </script>
