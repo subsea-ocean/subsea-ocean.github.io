@@ -9,27 +9,20 @@ nav: false
 .post-title {
   display: none;
 }
-
-.full-width-banner {
-  width: 100vw;
-  max-width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  margin-top: -20px;
-  margin-bottom: 50px;
-}
-
-.full-width-banner img {
-  width: 100%;
-  display: block;
-}
 </style>
 
-<div class="full-width-banner">
+<div style="margin-bottom:50px;">
+
   <img
     src="/assets/church2026_thumbnailnew.pdf.png"
     alt="2026 SUBSEA Site Visit"
+    style="
+      width:100%;
+      border-radius:0.5rem;
+      display:block;
+    "
   >
+
 </div>
 
 ## Details
