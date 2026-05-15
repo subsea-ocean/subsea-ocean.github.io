@@ -94,13 +94,15 @@ nav_order: 2
   flex: 1;
   text-align: left;
   padding: 18px 30px;
-  color: #1f2a44;
+  background: #787878;
+  color: white;
   white-space: nowrap;
+  font-weight: 700;
 }
 
 .cruise-learn-more {
-  background: rgba(0,0,0,0.10);
-  color: #1f2a44;
+  background: #a3a3a3;
+  color: white;
   padding: 18px 30px;
   border-radius: 999px;
   white-space: nowrap;
@@ -112,6 +114,10 @@ nav_order: 2
   text-decoration: none;
   transform: translateY(-2px);
   box-shadow: 0 8px 22px rgba(0,0,0,0.25);
+}
+
+.cruise-button:hover .cruise-title {
+  background: var(--global-theme-color);
 }
 
 .cruise-button:hover .cruise-learn-more {
