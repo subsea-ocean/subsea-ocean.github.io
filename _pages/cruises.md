@@ -154,7 +154,8 @@ nav_order: 2
 </h1>
 
 <p style="max-width:850px; margin:auto;">
-  Explore SUBSEA field expeditions across the subtropical gyres.
+  Map of ocean gyres, with the North Pacific and South Atlantic subtropical gyres in white. SUBSEA partner institutions are marked in red.
+  Click on the gyres to learn about SUBSEA field expeditions!
 </p>
 
 </div>
