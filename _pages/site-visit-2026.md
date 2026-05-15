@@ -106,29 +106,109 @@ Please include your arrival and departure details in the RSVP form so we can coo
     >
   </div>
 
-## Flathead Lake Biological Station Map
+### Map
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<div class="map-zoom-section">
+  <div class="map-controls">
+    <button onclick="zoomMap(1.2)">+</button>
+    <button onclick="zoomMap(0.8)">−</button>
+    <button onclick="resetMap()">Reset</button>
+  </div>
 
-<div id="flbsMap" style="height:700px; width:100%; border-radius:0.5rem;"></div>
+  <div id="map-container">
+    <img id="zoomable-map" src="assets/img/YOUR-MAP-FILE.png" alt="Workshop map">
+  </div>
+</div>
+
+<style>
+.map-zoom-section {
+  margin-top: 2rem;
+}
+
+.map-controls {
+  text-align: center;
+  margin-bottom: 0.75rem;
+}
+
+.map-controls button {
+  margin: 0 0.25rem;
+  padding: 0.4rem 0.8rem;
+  border: none;
+  border-radius: 6px;
+  background: #787878;
+  color: white;
+  cursor: pointer;
+}
+
+#map-container {
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  cursor: grab;
+  position: relative;
+}
+
+#map-container:active {
+  cursor: grabbing;
+}
+
+#zoomable-map {
+  width: 100%;
+  height: auto;
+  transform-origin: 0 0;
+  user-select: none;
+  pointer-events: none;
+}
+</style>
 
 <script>
-const map = L.map("flbsMap", {
-  crs: L.CRS.Simple,
-  minZoom: -2,
-  maxZoom: 3,
-  scrollWheelZoom: true
+let scale = 1;
+let posX = 0;
+let posY = 0;
+let isDragging = false;
+let startX, startY;
+
+const map = document.getElementById("zoomable-map");
+const container = document.getElementById("map-container");
+
+function updateMapTransform() {
+  map.style.transform = `translate(${posX}px, ${posY}px) scale(${scale})`;
+}
+
+function zoomMap(factor) {
+  scale *= factor;
+  scale = Math.min(Math.max(scale, 1), 6);
+  updateMapTransform();
+}
+
+function resetMap() {
+  scale = 1;
+  posX = 0;
+  posY = 0;
+  updateMapTransform();
+}
+
+container.addEventListener("wheel", function(e) {
+  e.preventDefault();
+  zoomMap(e.deltaY < 0 ? 1.1 : 0.9);
 });
 
-const imageUrl = "/assets/flbs-grounds-map-may-2021%20(1).pdf.png";
+container.addEventListener("mousedown", function(e) {
+  isDragging = true;
+  startX = e.clientX - posX;
+  startY = e.clientY - posY;
+});
 
-const imageWidth = 1600;
-const imageHeight = 1200;
+window.addEventListener("mousemove", function(e) {
+  if (!isDragging) return;
+  posX = e.clientX - startX;
+  posY = e.clientY - startY;
+  updateMapTransform();
+});
 
-const bounds = [[0, 0], [imageHeight, imageWidth]];
-
-L.imageOverlay(imageUrl, bounds).addTo(map);
-
-map.fitBounds(bounds);
+window.addEventListener("mouseup", function() {
+  isDragging = false;
+});
 </script>
