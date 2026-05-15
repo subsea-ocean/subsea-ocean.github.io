@@ -65,15 +65,6 @@ nav: false
 <div style="max-width:900px; margin:auto;">
 
 <p style="font-size:1.05em; line-height:1.8;">
-Alexis Floback is a biological oceanographer whose research explores marine microbial ecology and biogeochemical cycling in the open ocean.
-</p>
-
-<p style="font-size:1.05em; line-height:1.8;">
-Her work focuses on how microbial communities interact with environmental variability to shape nutrient dynamics, productivity, and ecosystem function.
-</p>
-
-<p style="font-size:1.05em; line-height:1.8;">
-Through participation in SUBSEA and Hawaiʻi Ocean Time-series cruises, she contributes to collaborative efforts investigating microbial and plankton processes in the North Pacific subtropical gyre.
-</p>
+Alexis Floback received a PhD from University of Southern California in 2025 on trace metal biogeochemistry. Currently, she is a postdoctoral scholar working on the SUBSEA project with Nick Hawco at the University of Hawaiʻi at Mānoa, where she is working to understand the controls on trace metal cycling across the lower euphotic zone in the North Pacific, at station ALOHA, and the South Atlantic
 
 </div>
