@@ -71,8 +71,8 @@ nav: false
 
 Lodging and catered meals will be available at FLBS.
 
-Lodging is available the nights of **September 22–25**.  
-Meals will be available from **breakfast on September 22 through breakfast on September 26**.
+Lodging is available for the nights of **Sunday September 20 – Friday 25**.  
+Meals will be available from **dinner on September 21 through breakfast on September 26**.
 
 ---
 
