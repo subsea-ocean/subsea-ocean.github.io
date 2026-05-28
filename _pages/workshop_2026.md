@@ -3,8 +3,8 @@ layout: about
 title: 2026 OBVI Workshop
 permalink: /workshop_2026
 subtitle:
-nav: false
-nav_order: 1
+nav: true
+nav_order: 2
 tabs: true
 ---
 
