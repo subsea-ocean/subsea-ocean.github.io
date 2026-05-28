@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cruises/";
           },
-        },{id: "nav-2026-obvi-workshop",
-          title: "2026 OBVI Workshop",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/workshop_2026";
-          },
         },{id: "nav-news",
           title: "news",
           description: "",
