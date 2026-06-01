@@ -1,11 +1,18 @@
 ---
 layout: page
 title: data
-description: 
+description:
 nav: true
 nav_order: 7
 dropdown: false
-permalink: /data #https://google.com #link to the data hosting page
+permalink: /data
 ---
 
-Data from this project will be hosted by the University of Hawai'i at Mānoa. Come back soon for links to the database. 
+SUBSEA is one of five projects funded by the
+<a href="https://www.schmidtsciences.org/obvi/" target="_blank">Ocean Biogeochemistry Virtual Institute (OBVI)</a>.
+
+Data from these projects will be hosted by OBVI. Come back soon for links to the database.
+
+<br>
+
+<img src="/assets/img/OBVI_programs_map.avif" alt="Map of Ocean Biogeochemistry Virtual Institute projects" style="max-width:100%; height:auto;">
