@@ -144,17 +144,16 @@ profiles:
     content: people/mcgourty.md
     category: *staff
 
-  - align: left
+   - align: left
     image: Tully_Rohrer.jpg
     alt: Tully smiles in front of the ocean at sunset.
     content: people/rohrer.md
     category: *staff
 
-    - align: right
+  - align: right
     image: mattia_people.png
     alt: Mattia smiles while doing a winkler titration.
     content: people/mattia.md
     category: *staff
-
 
 ---
