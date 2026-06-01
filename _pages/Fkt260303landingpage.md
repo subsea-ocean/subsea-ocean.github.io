@@ -464,8 +464,8 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
     <img src="/assets/img/media4.png">
 
     <div class="media-caption">
-      Instagram reel.<br>
-      Source: Scientific American.
+      Article.<br>
+      Source: SOI.
     </div>
 
   </a>
@@ -477,8 +477,8 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
     <img src="/assets/img/media5.png">
 
     <div class="media-caption">
-      Instagram reel.<br>
-      Source: Scientific American.
+      Article.<br>
+      Source: FLBS.
     </div>
 
   </a>
