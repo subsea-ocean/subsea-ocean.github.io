@@ -154,6 +154,6 @@ profiles:
     image: mattia_people.png
     alt: Mattia smiles while doing a winkler titration.
     content: people/mattia.md
-    category: *staff
+    category: staff
 
 ---
