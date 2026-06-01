@@ -457,5 +457,31 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
   </a>
 
+   <a class="media-card"
+     href="https://schmidtocean.org/critical-roles-in-global-carbon-cycle/"
+     target="_blank">
+
+    <img src="/assets/img/media4.png">
+
+    <div class="media-caption">
+      Instagram reel.<br>
+      Source: Scientific American.
+    </div>
+
+  </a>
+
+   <a class="media-card"
+     href="https://flbs.umt.edu/flbs-news/diving-into-ocean-gyre-research/"
+     target="_blank">
+
+    <img src="/assets/img/media5.png">
+
+    <div class="media-caption">
+      Instagram reel.<br>
+      Source: Scientific American.
+    </div>
+
+  </a>
+
 </div>
 ---
