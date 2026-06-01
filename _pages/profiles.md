@@ -152,7 +152,7 @@ profiles:
 
     - align: right
     image: mattia_people.png
-    alt: Cy Mattia smiles while doing a winkler titration.
+    alt: Mattia smiles while doing a winkler titration.
     content: people/mattia.md
     category: *staff
 
