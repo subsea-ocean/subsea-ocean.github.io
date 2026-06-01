@@ -144,7 +144,7 @@ profiles:
     content: people/mcgourty.md
     category: *staff
 
-   - align: left
+  - align: left
     image: Tully_Rohrer.jpg
     alt: Tully smiles in front of the ocean at sunset.
     content: people/rohrer.md
