@@ -8,7 +8,7 @@ nav_order: 2
 tabs: true
 ---
 
-{% include figure.liquid loading="eager" path="Church.WorkshopFlyer.pdf (9).png" class="img-fluid rounded z-depth-0" %}
+{% include figure.liquid loading="eager" path="2026_workshop_flyer.png" class="img-fluid rounded z-depth-0" %}
 
 ### About
 
