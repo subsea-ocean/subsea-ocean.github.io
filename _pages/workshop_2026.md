@@ -8,7 +8,7 @@ nav_order: 2
 tabs: true
 ---
 
-{% include figure.liquid loading="eager" path="2026_workshop_flyer.png" class="img-fluid rounded z-depth-0" %}
+{% include figure.liquid loading="eager" path="assets/img/2026_workshop_flyer.png" class="img-fluid rounded z-depth-0" %}
 
 ### About
 
@@ -59,4 +59,3 @@ The workshop schedule is currently being finalized and will be added to this pag
 ### Funding
 
 Funding for this workshop is provided by the [Schmidt Sciences Ocean Biogeochemistry Virtual Institute](https://www.schmidtsciences.org/the-ocean-biogeochemistry-virtual-institute-obvi/) through the Subtropical Underwater Biogeochemistry and Subsurface Export Alliance (SUBSEA) program.
-```
