@@ -412,6 +412,8 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 }
 </style>
 
+```html
+
 <h2 style="text-align:center; margin-bottom:30px;">
   In the Media
 </h2>
@@ -457,7 +459,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
   </a>
 
-   <a class="media-card"
+  <a class="media-card"
      href="https://schmidtocean.org/critical-roles-in-global-carbon-cycle/"
      target="_blank">
 
@@ -470,7 +472,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
   </a>
 
-   <a class="media-card"
+  <a class="media-card"
      href="https://flbs.umt.edu/flbs-news/diving-into-ocean-gyre-research/"
      target="_blank">
 
@@ -483,5 +485,18 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
   </a>
 
+  <a class="media-card"
+     href="https://umt.exposure.co/subsea-expedition"
+     target="_blank">
+
+    <img src="/assets/img/media6.png">
+
+    <div class="media-caption">
+      Photo essay.<br>
+      Source: University of Montana.
+    </div>
+
+  </a>
+
 </div>
----
+```
