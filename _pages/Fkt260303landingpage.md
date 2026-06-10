@@ -494,5 +494,4 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 
   </a>
 
-</div>
 ---
