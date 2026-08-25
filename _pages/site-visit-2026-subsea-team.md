@@ -120,9 +120,27 @@ Please complete the RSVP form below. Once your travel is booked, please also fil
 
 ## Schedule
 
-<p style="text-align:center; font-size:1.1rem; margin-top:25px; margin-bottom:40px;">
-  The workshop schedule is currently being finalized and will be provided to participants prior to the meeting.
+<p style="text-align:center; font-size:1.1rem; margin-top:25px;">
+  View the current schedule for the 2026 SUBSEA Site Visit below.
 </p>
+
+<div style="text-align:center; margin:30px 0 40px 0;">
+  <a  
+    href="https://drive.google.com/file/d/1Sp_b95QWNJY6zMeiU-ax5Msethnurq61/view?usp=drive_link"
+    target="_blank"
+    style="
+      display:inline-block;
+      background:var(--global-theme-color);
+      color:white;
+      padding:14px 34px;
+      border-radius:999px;
+      font-size:1.15rem;
+      text-decoration:none;
+      font-weight:600;
+    ">
+    View Schedule
+  </a>
+</div>
 
 ---
 
