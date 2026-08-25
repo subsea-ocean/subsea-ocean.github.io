@@ -78,11 +78,11 @@ Meals will be available from **dinner on September 21 through breakfast on Septe
 
 ## RSVP
 
-Please complete the RSVP and travel information form below.
+Please complete the RSVP form below. Once your travel is booked, please also fill out the travel details form so we can coordinate transportation.
 
 <div style="text-align:center; margin:30px 0;">
-  <a 
-    href="https://docs.google.com/forms/d/e/1FAIpQLSc8lTcTOvxiaDziV58lBRWVq4ADzfE_rfb75vMxPRD_CWiKnQ/viewform?usp=header" 
+  <a  
+    href="https://docs.google.com/forms/d/e/1FAIpQLSc8lTcTOvxiaDziV58lBRWVq4ADzfE_rfb75vMxPRD_CWiKnQ/viewform?usp=header"
     target="_blank"
     style="
       display:inline-block;
@@ -93,8 +93,26 @@ Please complete the RSVP and travel information form below.
       font-size:1.15rem;
       text-decoration:none;
       font-weight:600;
+      margin:6px;
     ">
     RSVP
+  </a>
+
+  <a  
+    href="https://docs.google.com/forms/d/e/1FAIpQLSeJy6oYlp9E4k2g6RzhghOpIa0JZh8CGO3GCt231PviiLwliQ/viewform?usp=header"
+    target="_blank"
+    style="
+      display:inline-block;
+      background:var(--global-theme-color);
+      color:white;
+      padding:14px 34px;
+      border-radius:999px;
+      font-size:1.15rem;
+      text-decoration:none;
+      font-weight:600;
+      margin:6px;
+    ">
+    Fill out travel details
   </a>
 </div>
 
