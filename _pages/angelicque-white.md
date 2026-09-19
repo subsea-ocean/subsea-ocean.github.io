@@ -35,7 +35,7 @@ nav: false
 <div style="text-align:center;">
 
   <img 
-    src="/assets/img/angeliquewhitecruise.png"
+    src="/assets/img/angelicquewhitecruise.png"
     alt="Angelicque White"
     style="
       width:220px;
