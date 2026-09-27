@@ -5,67 +5,38 @@ date: 2026-09-25
 inline: false
 ---
 
-BLANK
-
-</div>
-
-BLANK
+From September 24–25, the SUBSEA team gathered at the Flathead Lake Biological Station for an external project review with Schmidt Sciences and a panel of expert reviewers. The review provided an opportunity to reflect on the project's progress and impact, share results from across the SUBSEA research program, and receive feedback and recommendations to help guide the remainder of the project and future directions. Joining us from Schmidt Sciences were **Lexa Skrivanek**, OBVI Lead and Program Scientist; **Abhishek Chatterjee**, Senior Program Scientist; and **Elise Bell**, Associate. Our external review panel included [**Dave Siegel**](https://www.geog.ucsb.edu/people/faculty/david-siegel), Distinguished Professor Emeritus at UC Santa Barbara; [**Ajit Subramaniam**](https://lamont.columbia.edu/directory/ajit-subramaniam), Lamont Research Professor at Columbia University's Lamont-Doherty Earth Observatory; [**Debbie Steinberg**](https://www.vims.edu/people/steinberg_dk/), Professor at the Virginia Institute of Marine Science; and [**Katja Fennel**](https://memg.ocean.dal.ca/fennel/index.html), Professor at Dalhousie University.
 
 <figure style="text-align:center;">
-  <a href="/assets/img/news/subsea43.jpg" target="_blank">
-    <img 
-      src="/assets/img/news/subsea43.jpg"
-      alt="SUBSEA operations aboard R/V Falkor (too)"
+  <a href="/assets/img/news/grouppicsitevisit.jpg" target="_blank">
+    <img
+      src="/assets/img/news/grouppicsitevisit.jpg"
+      alt="SUBSEA team, Schmidt Sciences representatives, and external reviewers at Flathead Lake Biological Station"
       style="max-width:800px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
     >
   </a>
   <figcaption style="font-size:0.9em; margin-top:0.5rem;">
-     The SUBSEA team poses alongside the crew of the Falkor(too). Image Credit: Schmidt Ocean Institute.
+    The SUBSEA team gathers with Schmidt Sciences representatives and external reviewers during the September 2026 site visit at Flathead Lake Biological Station.
   </figcaption>
 </figure>
 
-BLANK 
+The two-day visit was filled with productive discussions about SUBSEA science and the progress of the project. Principal Investigators and Early Career Researchers shared research updates through presentations and a poster session, providing a chance to discuss results, connect work across the project, and think together about the next stages of SUBSEA.
 
-The SUBSEA team extends tremendous gratitude to the Schmidt Sciences team and the reviewers.
+There was also time to enjoy western Montana outside of the meeting room! Members of the SUBSEA team visited Wild Horse Island on Flathead Lake, where we were lucky enough to spot some of the island's wild horses, and took advantage of the beautiful September weather with plenty of swims in the lake.
 
-<div id="subseaNews6Carousel" class="carousel slide mt-4 mb-4" data-ride="carousel" style="max-width:800px; margin:auto;">
+The SUBSEA team extends tremendous gratitude to **Schmidt Sciences** for organizing and participating in the site visit and to **Dave Siegel, Ajit Subramaniam, Debbie Steinberg, and Katja Fennel** for contributing their time, expertise, thoughtful questions, and valuable feedback. We are grateful for the opportunity to reflect on how far the project has come and to carry these conversations and recommendations into the next stages of SUBSEA.
+
+<div id="subseaSiteVisitCarousel" class="carousel slide mt-4 mb-4" data-ride="carousel" style="max-width:800px; margin:auto;">
 
   <div class="carousel-inner" style="background:transparent; border-radius:0.25rem;">
 
     <div class="carousel-item active">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
-        <img 
-          src="/assets/img/news/subsea42.jpg"
-          alt="SUBSEA team aboard Falkor too"
+        <img
+          src="/assets/img/news/grouppic1sitevisit.jpg"
+          alt="SUBSEA team during the September 2026 site visit"
           style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
         >
       </div>
       <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
-        Scientists from the first SUBSEA South Atlantic cruise pose in front of the A-frame on the aft deck of the R/V Falkor (too). Image Credit: Schmidt Ocean Institute.
-      </p>
-    </div>
-
-    <div class="carousel-item">
-      <div style="height:500px; display:flex; align-items:center; justify-content:center;">
-        <img 
-          src="/assets/img/news/subsea44.jpg"
-          alt="Sunset from Falkor too aft deck"
-          style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
-        >
-      </div>
-      <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
-        View from the aft deck of the R/V Falkor (too) during sunset. Image Credit: Schmidt Ocean Institute.
-      </p>
-    </div>
-
-  </div>
-
-  <a class="carousel-control-prev" href="#subseaNews6Carousel" role="button" data-slide="prev" style="left:-90px; width:60px;">
-    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❮</span>
-  </a>
-
-  <a class="carousel-control-next" href="#subseaNews6Carousel" role="button" data-slide="next" style="right:-90px; width:60px;">
-    <span aria-hidden="true" style="font-size:4rem; color:white; line-height:1;">❯</span>
-  </a>
-
-</div>
+        Members of
