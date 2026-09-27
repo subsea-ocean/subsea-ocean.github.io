@@ -5,13 +5,6 @@ date: 2026-09-25
 inline: false
 ---
 
----
-layout: post
-title: "SUBSEA Site Visit Concludes"
-date: 2026-09-25
-inline: false
----
-
 From September 24–25, the SUBSEA team gathered at the Flathead Lake Biological Station for an external project review with Schmidt Sciences and a panel of expert reviewers. The review provided an opportunity to reflect on the project's progress and impact, share results from across the SUBSEA research program, and receive feedback and recommendations to help guide the remainder of the project and future directions. Joining us from Schmidt Sciences were **Lexa Skrivanek**, OBVI Lead and Program Scientist; **Abhishek Chatterjee**, Senior Program Scientist; and **Elise Bell**, Associate. Our external review panel included [**Dave Siegel**](https://www.geog.ucsb.edu/people/faculty/david-siegel), Distinguished Professor Emeritus at UC Santa Barbara; [**Ajit Subramaniam**](https://lamont.columbia.edu/directory/ajit-subramaniam), Lamont Research Professor at Columbia University's Lamont-Doherty Earth Observatory; [**Debbie Steinberg**](https://www.vims.edu/people/steinberg_dk/), Professor at the Virginia Institute of Marine Science; and [**Katja Fennel**](https://memg.ocean.dal.ca/fennel/index.html), Professor at Dalhousie University.
 
 <figure style="text-align:center;">
