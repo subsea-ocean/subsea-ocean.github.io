@@ -2,6 +2,7 @@
 layout: post
 title: "SUBSEA Site Visit Concludes"
 date: 2026-09-25
+permalink: /news/2026-09-25-subsea-site-visit-concludes/
 inline: false
 ---
 
