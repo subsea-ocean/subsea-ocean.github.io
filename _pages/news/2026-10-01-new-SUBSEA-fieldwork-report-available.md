@@ -9,6 +9,6 @@ Our latest SUBSEA Fieldwork Report is now available! The report highlights field
 
 These expeditions bring together researchers from SUBSEA partner institutions to investigate ocean biogeochemistry, microbial processes, and the cycling and transport of carbon and nutrients in subtropical ocean ecosystems.
 
-**[Read the 2026 SUBSEA Fieldwork Report]({{ '/_pages/cruises/SUBSEA%20Fieldwork%20Summary_2026.pdf' | relative_url }})**
+**[Read the 2026 SUBSEA Fieldwork Report]({{ '/assets/pdf/SUBSEA%20Fieldwork%20Summary_2026.pdf' | relative_url }})**
 
 *Report last updated: October 2026.*
