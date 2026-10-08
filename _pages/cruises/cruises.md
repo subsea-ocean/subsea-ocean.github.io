@@ -160,12 +160,26 @@ nav_order: 2
   Cruises
 </h1>
 
+
 <p style="max-width:850px; margin:auto;">
   Map of ocean gyres, with the North Pacific and South Atlantic subtropical gyres in white. SUBSEA partner institutions are marked in red.
   Click on the gyres to learn about SUBSEA field expeditions!
 </p>
 
-</div>
+<p style="max-width:850px; margin:20px auto 5px;">
+  Check out our latest
+  <a href="{{ '/_pages/cruises/SUBSEA%20Fieldwork%20Summary_2026.pdf' | relative_url }}"
+     target="_blank"
+     rel="noopener noreferrer">
+    SUBSEA Fieldwork Report
+  </a>,
+  highlighting our first South Atlantic expedition and
+  Hawaii Ocean Time-series (HOT) cruises 356–362.
+</p>
+
+<p style="font-size:0.85rem; color:gray; margin:0 auto;">
+  <em>Last updated: October 2026</em>
+</p>
 
 <div class="cruise-map-wrap">
 
