@@ -15,7 +15,7 @@ footer_text_after: > # this text shows up after the copyright info, on a new lin
   Plankton images from <a href="https://ifcbdb2.soest.hawaii.edu/">Station ALOHA IFCB</a>.
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: subsea_logo_small.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: logos/subsea_logo_small.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://subsea-ocean.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root 
