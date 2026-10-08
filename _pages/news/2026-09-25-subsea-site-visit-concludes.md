@@ -9,9 +9,9 @@ inline: false
 From September 24–25, the SUBSEA team gathered at the Flathead Lake Biological Station for an external project review with Schmidt Sciences and a panel of expert reviewers. The review provided an opportunity to reflect on the project's progress and impact, share results from across the SUBSEA research program, and receive feedback and recommendations to help guide the remainder of the project and future directions. Joining us from Schmidt Sciences were **Lexa Skrivanek**, OBVI Lead and Program Scientist; **Abhishek Chatterjee**, Senior Program Scientist; and **Elise Bell**, Associate. Our external review panel included [**Dave Siegel**](https://www.geog.ucsb.edu/people/faculty/david-siegel), Distinguished Professor Emeritus at UC Santa Barbara; [**Ajit Subramaniam**](https://lamont.columbia.edu/directory/ajit-subramaniam), Lamont Research Professor at Columbia University's Lamont-Doherty Earth Observatory; [**Debbie Steinberg**](https://www.vims.edu/people/steinberg_dk/), Professor at the Virginia Institute of Marine Science; and [**Katja Fennel**](https://memg.ocean.dal.ca/fennel/index.html), Professor at Dalhousie University.
 
 <figure style="text-align:center;">
-  <a href="/assets/img/news/grouppicsitevisit.jpg" target="_blank">
+  <a href="/assets/img/news/grouppicsitevisit.JPG" target="_blank">
     <img
-      src="/assets/img/news/grouppicsitevisit.jpg"
+      src="/assets/img/news/grouppicsitevisit.JPG"
       alt="SUBSEA team, Schmidt Sciences representatives, and external reviewers at Flathead Lake Biological Station"
       style="max-width:800px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
     >
@@ -34,7 +34,7 @@ The SUBSEA team extends tremendous gratitude to **Schmidt Sciences** for organiz
     <div class="carousel-item active">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
         <img
-          src="/assets/img/news/grouppic1sitevisit.jpg"
+          src="/assets/img/news/grouppic1sitevisit.JPG"
           alt="SUBSEA team during the September 2026 site visit"
           style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
         >
@@ -47,7 +47,7 @@ The SUBSEA team extends tremendous gratitude to **Schmidt Sciences** for organiz
     <div class="carousel-item">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
         <img
-          src="/assets/img/news/wildhorse.jpg"
+          src="/assets/img/news/wildhorse.JPG"
           alt="Wild horses on Wild Horse Island during the SUBSEA site visit"
           style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
         >
@@ -60,7 +60,7 @@ The SUBSEA team extends tremendous gratitude to **Schmidt Sciences** for organiz
     <div class="carousel-item">
       <div style="height:500px; display:flex; align-items:center; justify-content:center;">
         <img
-          src="/assets/img/news/jessieb.jpg"
+          src="/assets/img/news/jessieb.JPG"
           alt="SUBSEA site visit activities at Flathead Lake"
           style="max-height:100%; max-width:100%; object-fit:contain; border-radius:0.25rem;"
         >
