@@ -1,4 +1,7 @@
 {% assign page_news = site.pages | where_exp: "item", "item.path contains '_pages/news/'" %}
+{% assign page_news = page_news | where_exp: "item", "item.name != 'news.md'" %}
+{% assign page_news = page_news | where_exp: "item", "item.name != 'index.md'" %}
+
 {% assign news = site.news | concat: page_news | sort: "date" | reverse %}
 {% assign news_size = news | size %}
 
@@ -24,7 +27,8 @@
             </th>
             <td>
               {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                {% assign news_content = item.content | markdownify %}
+                {{ news_content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
                 <a class="news-title" href="{{ item.url | relative_url }}">
                   {{ item.title }}
