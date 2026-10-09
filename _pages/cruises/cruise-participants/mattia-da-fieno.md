@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /subsea-part-1/team/mattia-da-fieno/
+permalink: /cruises/participants/mattia-da-fieno/
 nav: false
 ---
 
