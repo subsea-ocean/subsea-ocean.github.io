@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S.Atlantic Cruise 1 Science Operations Begin"
+title: "News from the Cruise: Science Operations Begin"
 date: 2026-03-07
 permalink: /news/2026-03-07-subsea-part1-station1-operations/
 inline: false
