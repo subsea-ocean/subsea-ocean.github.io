@@ -6,7 +6,7 @@ permalink: /news/2026-10-01-new-SUBSEA-fieldwork-report-available/
 inline: false
 ---
 
-Our latest SUBSEA Fieldwork Report is now available! The report highlights field activities from our first South Atlantic expedition aboard R/V *Falkor (too)* and Hawaii Ocean Time-series (HOT) cruises 356–362 in the North Pacific Subtropical Gyre.
+Our latest SUBSEA Fieldwork Report is now available! The report highlights field activities from our first expedition into the South Atlantic Subtropical Gyre aboard R/V *Falkor(too)* and Hawaii Ocean Time-series (HOT) cruises 356–362 in the North Pacific Subtropical Gyre.
 
 These expeditions bring together researchers from SUBSEA partner institutions to investigate ocean biogeochemistry, microbial processes, and the cycling and transport of carbon and nutrients in subtropical ocean ecosystems.
 
