@@ -13,7 +13,7 @@ display_categories:
 
 profiles:
   - align: left
-    image: Matt_Church.jpg
+    image: Matt_Church.png
     alt: Matt smiles at the camera in front of pine needles, wearing a plaid shirt and black-framed glasses.
     content: people/church.md
     category: principal investigators
@@ -37,7 +37,7 @@ profiles:
     category: principal investigators
 
   - align: left
-    image: Sarah_Fawcett.jpg
+    image: Sarah_Fawcett.jpeg
     alt: Sarah laughs, facing to the camera's left, in front of an expanse of sea ice and ocean.
     content: people/fawcett.md
     category: principal investigators
