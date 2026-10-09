@@ -5,10 +5,7 @@ permalink: /cruises/participants/mattia-da-fieno/
 nav: false
 ---
 
-<div style="
-  background-image:
-    linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-    url('/assets/img/cruises/teampicfaded.png');
+<div id="profile-banner" style="
   background-size: cover;
   background-position: center;
   height: 350px;
@@ -104,3 +101,16 @@ Additionally, Mattia is also the Junior Field Coordinator for OBVI’s core meas
 </p>
 
 </div>
+
+<script>
+  const cruise = new URLSearchParams(window.location.search).get('cruise');
+  const banner = document.getElementById('profile-banner');
+
+  if (cruise === 'hot') {
+    banner.style.backgroundImage =
+      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/hot-profile-background.png')";
+  } else if (cruise === 'south-atlantic-1') {
+    banner.style.backgroundImage =
+      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/teampicfaded.png')";
+  }
+</script>
