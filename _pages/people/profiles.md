@@ -13,7 +13,7 @@ display_categories:
 
 profiles:
   - align: left
-    image: Matt_Church.png
+    image: people/Matt_Church.png
     alt: Matt smiles at the camera in front of pine needles, wearing a plaid shirt and black-framed glasses.
     content: people/church.md
     category: principal investigators
