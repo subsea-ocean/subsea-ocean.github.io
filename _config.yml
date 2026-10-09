@@ -185,7 +185,7 @@ scholar:
   style: apa
   locale: en
 
-  source: /_pages/publications/
+  source: ./_pages/publications
   bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
