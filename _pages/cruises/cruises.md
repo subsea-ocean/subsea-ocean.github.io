@@ -236,6 +236,16 @@ nav_order: 2
         <span class="cruise-learn-more">Learn more</span>
       </a>
 
+      <a class="cruise-button" href="/cruises/hot-364/" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
+        <span class="cruise-title">HOT Cruise 364</span>
+        <span class="cruise-learn-more">Learn more</span>
+      </a>
+
+      <a class="cruise-button" href="/cruises/hot-365/" onmouseover="highlightNorthPacificTrack('hot359362')" onmouseout="resetNorthPacificTracks()">
+        <span class="cruise-title">HOT Cruise 365</span>
+        <span class="cruise-learn-more">Learn more</span>
+    </a>
+
     </div>
 
     <div class="cruise-card">
