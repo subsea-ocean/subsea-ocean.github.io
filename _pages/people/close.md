@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 ### [**Hilary Close**](https://closelab.earth.miami.edu) co-PI
 #### University of Miami, USA
 
