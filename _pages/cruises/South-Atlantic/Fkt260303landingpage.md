@@ -26,9 +26,9 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 </h2>
 
 <figure style="text-align:center;">
-  <a href="/assets/img/cruises/Fkt260303_cruise_track.png" target="_blank">
+  <a href="/assets/img/cruises/Fkt260303_cruise_track_new.png" target="_blank">
     <img 
-      src="/assets/img/cruises/Fkt260303_cruise_track.png"
+      src="/assets/img/cruises/Fkt260303_cruise_track_new.png"
       alt="SUBSEA Part 1 cruise track"
       style="max-width:700px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
     >
