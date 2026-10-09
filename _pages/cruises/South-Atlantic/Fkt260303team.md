@@ -288,7 +288,7 @@ nav: false
 
 <!-- Mattia Da Fieno -->
 <div class="col-md-3 col-sm-6 mb-5">
-  <a href="/subsea-part-1/team/mattia-da-fieno/" style="text-decoration:none; color:inherit;">
+  <a href="/cruises/participants/mattia-da-fieno/?cruise=south-atlantic-1" style="text-decoration:none; color:inherit;">
     <img src="/assets/img/cruises/cruise-participants/mattiadafienocruise.png" alt="Mattia Da Fieno"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Mattia Da Fieno</h5>
