@@ -8,7 +8,7 @@ nav: false
 <div style="
   background-image:
     linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-    url('/assets/img/teampicfaded.png');
+    url('/assets/img/cruises/teampicfaded.png');
   background-size: cover;
   background-position: center;
   height: 350px;
