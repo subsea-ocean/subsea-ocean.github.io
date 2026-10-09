@@ -2,6 +2,7 @@
 layout: post
 title: "2025 OBVI meeting in Cape Town"
 date: 2025-10-20 16:11:00-0400
+permalink: /news/oct2025_UCTmeeting/
 inline: false
 ---
 
