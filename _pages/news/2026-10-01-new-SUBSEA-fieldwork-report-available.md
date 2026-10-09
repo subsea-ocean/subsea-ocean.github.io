@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2026 SUBSEA Fieldwork Report Now Available"
-date: 2026-10-08
+date: 2026-10-01
 permalink: /news/2026-10-01-new-SUBSEA-fieldwork-report-available/
 inline: false
 ---
