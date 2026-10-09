@@ -177,10 +177,6 @@ nav_order: 2
   Hawaii Ocean Time-series (HOT) cruises 356–362.
 </p>
 
-<p style="font-size:0.85rem; color:gray; margin:0 auto;">
-  <em>Last updated: October 2026</em>
-</p>
-
 <div class="cruise-map-wrap">
 
   <img src="/assets/img/cruises/ssubtropical_gyres_map.png" alt="Map of subtropical ocean gyres">
