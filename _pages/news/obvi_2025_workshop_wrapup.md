@@ -2,6 +2,7 @@
 layout: post
 title: 2025 OBVI Workshop recap
 date: 2025-12-19 16:11:00-0400
+permalink: /news/obvi_2025_workshop_wrapup/
 inline: false
 ---
 
