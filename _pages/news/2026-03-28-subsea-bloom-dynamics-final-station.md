@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "News from the Cruise: S.Atlantic Cruise 1 Final Long Station"
+title: "News from the Cruise: Final Long Station"
 date: 2026-03-28
 permalink: /news/2026-03-28-subsea-bloom-dynamics-final-station/
 inline: false
