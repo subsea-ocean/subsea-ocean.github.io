@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 ### **Calvin Swart** PhD candidate
 #### University of Cape Town, South Africa
 
