@@ -8,7 +8,7 @@ nav: false
 <div style="
   background-image:
     linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-    url('/assets/img/teampicfaded.png');
+    url('/assets/img/cruises/teampicfaded.png');
   background-size: cover;
   background-position: center;
   height: 350px;
@@ -35,7 +35,7 @@ nav: false
 <div style="text-align:center;">
 
   <img 
-    src="/assets/img/mattiadafienocruise.png"
+    src="/assets/img/cruises/cruise-participants/mattiadafienocruise.png"
     alt="Mattia Da Fieno"
     style="
       width:220px;
