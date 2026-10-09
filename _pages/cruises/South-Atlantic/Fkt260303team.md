@@ -49,7 +49,7 @@ nav: false
 <!-- Matthew Church -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/matthew-church/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/cruises/cruise-participants/MattChurchCruise.png" alt="Matthew Church"
+    <img src="/assets/img/cruises/cruise-participants/mattchurchcruise.png" alt="Matthew Church"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Matthew Church</h5>
     <p style="font-size:0.9em;">Chief Scientist</p>
@@ -169,7 +169,7 @@ nav: false
 <!-- Frank Xavier Ferrer González -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/frank-xavier-ferrer-gonzalez/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/cruises/cruise-participants/frankxavierferrergonzálezcruise%20(2).png" alt="Frank Xavier Ferrer González"
+    <img src="/assets/img/cruises/cruise-participants/frankxavierferrergonzálezcruise.png" alt="Frank Xavier Ferrer González"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Frank Xavier Ferrer González</h5>
     <p style="font-size:0.9em;">Postdoctoral Researcher</p>
