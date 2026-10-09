@@ -40,7 +40,7 @@ The SUBSEA team extends tremendous gratitude to **Schmidt Sciences** for organiz
         >
       </div>
       <p style="text-align:center; font-size:0.9em; margin-top:0.75rem; color:white;">
-        Members of the SUBSEA team, Schmidt Sciences, and the external review panel gather during the September 2026 site visit at Flathead Lake Biological Station.
+        Members of the SUBSEA team gather during the September 2026 site visit at Flathead Lake Biological Station.
       </p>
     </div>
 
