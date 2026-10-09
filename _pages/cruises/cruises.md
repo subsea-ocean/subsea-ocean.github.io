@@ -168,7 +168,7 @@ nav_order: 2
 
 <p style="max-width:850px; margin:20px auto 5px;">
   Check out our latest
-  <a href="{{ '/_pages/cruises/SUBSEA%20Fieldwork%20Summary_2026.pdf' | relative_url }}"
+  <a href="{{ '/assets/pdf/SUBSEA%20Fieldwork%20Summary_2026.pdf' | relative_url }}"
      target="_blank"
      rel="noopener noreferrer">
     SUBSEA Fieldwork Report
