@@ -2,6 +2,7 @@
 layout: post
 title: "News from the cruise: HOT September 2025"
 date: 2025-09-12 16:11:00-0400
+permalink: /news/sep2025_HOTcruise/
 inline: false
 ---
 
