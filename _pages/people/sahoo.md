@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 ### **Deepika Sahoo** postdoc
 #### University of Montana, USA
 
