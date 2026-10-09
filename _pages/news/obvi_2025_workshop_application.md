@@ -2,6 +2,7 @@
 layout: post
 title: OBVI workshop 2025 application opens
 date: 2025-04-01 16:11:00-0400
+permalink: /news/obvi_2025_workshop_application/
 inline: false
 ---
 
