@@ -155,6 +155,12 @@ defaults:
     values:
       sitemap: false
 
+  - scope:
+      path: "_pages/people"
+      type: "pages"
+    values:
+      layout: null
+
 sass:
   style: compressed
 
