@@ -25,7 +25,7 @@ profiles:
     category: principal investigators
 
   - align: left
-    image: people/Hilary_Close.jpg
+    image: people/Hilary_Close.png
     alt: Hilary smiles at the camera, wearing a tan blazer and red shirt, in front of palms and greenery.
     content: people/close.md
     category: principal investigators
@@ -37,7 +37,7 @@ profiles:
     category: principal investigators
 
   - align: left
-    image: people/Sarah_Fawcett.jpeg
+    image: people/Sarah_Fawcett.jpg
     alt: Sarah laughs, facing to the camera's left, in front of an expanse of sea ice and ocean.
     content: people/fawcett.md
     category: principal investigators
@@ -115,7 +115,7 @@ profiles:
     category: postdoctoral fellows and graduate students
 
   - align: right
-    image: people/Raquel_Flynn.png
+    image: people/Raquel_Flynn.jpg
     alt: Raquel smiles in front of rolling green coastline and blue ocean in a black puffy jacket.
     content: people/flynn.md
     category: staff
@@ -139,7 +139,7 @@ profiles:
     category: staff
 
   - align: right
-    image: people/Jared_McGourty.jpeg
+    image: people/Jared_McGourty.jpg
     alt: Jared grins while holding an antler in front of a mountainous landscape.
     content: people/mcgourty.md
     category: staff
