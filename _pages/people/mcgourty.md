@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 ### **Jared McGourty** technician
 #### University of Montana, USA
 
