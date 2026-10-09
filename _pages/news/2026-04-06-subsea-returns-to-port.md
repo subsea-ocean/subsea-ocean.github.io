@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "News from the Cruise: S.Atlantic Cruise 1 Returns to Port"
+title: "South Atlantic Cruise 1 Returns to Port"
 date: 2026-04-06
 permalink: /news/2026-04-06-subsea-returns-to-port/
 inline: false
