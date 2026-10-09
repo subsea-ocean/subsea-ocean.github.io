@@ -183,7 +183,7 @@ nav_order: 2
 
 <div class="cruise-map-wrap">
 
-  <img src="/assets/img/subtropical_gyres_map.png" alt="Map of subtropical ocean gyres">
+  <img src="/assets/img/cruises/ssubtropical_gyres_map.png" alt="Map of subtropical ocean gyres">
 
   <div id="northPacificHotspot" class="gyre-hotspot" onclick="showGyre('northPacific')"></div>
 
