@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "News from the Cruise: S.Atlantic Cruise 1 Week 2 Update"
+title: "News from the Cruise: Week 2 Update"
 date: 2026-03-13
 permalink: /news/2026-03-13-subsea-part1-week2-update/
 inline: false
