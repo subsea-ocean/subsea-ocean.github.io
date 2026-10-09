@@ -13,7 +13,7 @@ nav: false
   March 3, 2026 – April 6, 2026
 </p>
 
-The SUBSEA Part 1 expedition aboard Schmidt Ocean Institute’s R/V *Falkor* (too) was the first of two planned expeditions investigating nutrient cycling, productivity, and carbon export in the subtropical South Atlantic. Conducted as part of the Schmidt Sciences Ocean Biogeochemistry Virtual Institute (OBVI), the expedition brought together an international team of scientists, technicians, engineers, and students for 35 days of continuous science operations at sea.
+The SUBSEA Part 1 expedition aboard Schmidt Ocean Institute’s R/V *Falkor(too)* was the first of two planned expeditions investigating nutrient cycling, productivity, and carbon export in the subtropical South Atlantic. Conducted as part of the Schmidt Sciences Ocean Biogeochemistry Virtual Institute (OBVI), the expedition brought together an international team of scientists, technicians, engineers, and students for 35 days of continuous science operations at sea.
 
 The subtropical ocean gyres are thousands of kilometers in diameter, with an average depth exceeding 4,000 meters, making them one of Earth’s largest continuous biomes. Gyres are large, permanent circular current systems primarily driven by Earth’s global wind patterns and Earth’s rotation, and are found in each major ocean basin. While often deprived of nutrients, it is estimated that 20% of the ocean’s primary productivity occurs in the subtropical gyres, and these ecosystems may account for up to half of the global ocean carbon export to the deep sea. Understanding their biogeochemistry is required to develop a more accurate understanding of how climate change is impacting the global ocean.
 
@@ -26,9 +26,9 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 </h2>
 
 <figure style="text-align:center;">
-  <a href="/assets/img/Fkt260303_cruise_track.png" target="_blank">
+  <a href="/assets/img/cruises/Fkt260303_cruise_track.png" target="_blank">
     <img 
-      src="/assets/img/Fkt260303_cruise_track.png"
+      src="/assets/img/cruises/Fkt260303_cruise_track.png"
       alt="SUBSEA Part 1 cruise track"
       style="max-width:700px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
     >
@@ -42,9 +42,9 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 </h2>
 
 <figure style="text-align:center;">
-  <a href="/assets/img/newgrouppic.jpg" target="_blank">
+  <a href="/assets/img/cruises/newgrouppic.jpg" target="_blank">
     <img 
-      src="/assets/img/newgrouppic.jpg"
+      src="/assets/img/cruises/newgrouppic.jpg"
       alt="SUBSEA science team aboard Falkor too"
       style="max-width:900px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
     >
@@ -422,7 +422,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
      href="https://www.youtube.com/live/oRuxfFRRwh4?si=GLb5M_a321oTtIUr"
      target="_blank">
 
-    <img src="/assets/img/media1.jpg">
+    <img src="/assets/img/cruises/media1.jpg">
 
     <div class="media-caption">
       Livestream from R/V Falkor (too) about cruise operations.<br>
@@ -435,7 +435,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
      href="https://www.instagram.com/p/DXxS4g8FSgS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
      target="_blank">
 
-    <img src="/assets/img/media2.png">
+    <img src="/assets/img/cruises/media2.png">
 
     <div class="media-caption">
       Instagram post.<br>
@@ -448,7 +448,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
      href="https://www.instagram.com/reel/DXznxspuQWs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
      target="_blank">
 
-    <img src="/assets/img/media3.png">
+    <img src="/assets/img/cruises/media3.png">
 
     <div class="media-caption">
       Instagram reel.<br>
@@ -461,7 +461,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
      href="https://schmidtocean.org/critical-roles-in-global-carbon-cycle/"
      target="_blank">
 
-    <img src="/assets/img/media4.png">
+    <img src="/assets/img/cruises/media4.png">
 
     <div class="media-caption">
       Article.<br>
@@ -474,7 +474,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
      href="https://flbs.umt.edu/flbs-news/diving-into-ocean-gyre-research/"
      target="_blank">
 
-    <img src="/assets/img/media5.png">
+    <img src="/assets/img/cruises/media5.png">
 
     <div class="media-caption">
       Article.<br>
@@ -485,7 +485,7 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
      href="https://umt.exposure.co/subsea-expedition"
      target="_blank">
 
-    <img src="/assets/img/media6.png">
+    <img src="/assets/img/cruises/media6.png">
 
     <div class="media-caption">
       Article.<br>
