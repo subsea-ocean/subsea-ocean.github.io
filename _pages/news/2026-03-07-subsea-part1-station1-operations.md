@@ -23,9 +23,9 @@ SUBSEA Part 1 Seaglider Tracking
 </div>
 
 <div style="text-align:center; margin: 30px 0;">
-  <a href="/assets/img/subseaglider.jpg" target="_blank">
+  <a href="/assets/img/cruises/subseaglider_SA.jpg" target="_blank">
     <img 
-      src="/assets/img/subseaglider.jpg"
+      src="/assets/img/cruises/subseaglider_SA.jpg"
       alt="SUBSEA Seaglider deployment"
       style="max-width:450px; width:100%; display:block; margin:auto; border-radius:0.25rem;"
     >
