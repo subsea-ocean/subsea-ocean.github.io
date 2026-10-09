@@ -39,7 +39,7 @@ nav: false
 <!-- Alexandra Skrivanek -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/alexandra-skrivanek/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/alexandraskrivanekcruise.png" alt="Alexandra Skrivanek"
+    <img src="/assets/img/cruises/cruise-participants/alexandraskrivanekcruise.png" alt="Alexandra Skrivanek"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Alexandra Skrivanek</h5>
     <p style="font-size:0.9em;">Program Scientist</p>
@@ -49,7 +49,7 @@ nav: false
 <!-- Matthew Church -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/matthew-church/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/MattChurchCruise.png" alt="Matthew Church"
+    <img src="/assets/img/cruises/cruise-participants/MattChurchCruise.png" alt="Matthew Church"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Matthew Church</h5>
     <p style="font-size:0.9em;">Chief Scientist</p>
@@ -59,7 +59,7 @@ nav: false
 <!-- Benedetto Barone -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/benedetto-barone/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/benedettobaronecruise.png" alt="Benedetto Barone"
+    <img src="/assets/img/cruises/cruise-participants/benedettobaronecruise.png" alt="Benedetto Barone"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Benedetto Barone</h5>
     <p style="font-size:0.9em;">Co-PI</p>
@@ -69,7 +69,7 @@ nav: false
 <!-- Hilary Close -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/hilary-close/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/hilaryclosecruise.png" alt="Hilary Close"
+    <img src="/assets/img/cruises/cruise-participants/hilaryclosecruise.png" alt="Hilary Close"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Hilary Close</h5>
     <p style="font-size:0.9em;">Co-PI</p>
@@ -79,7 +79,7 @@ nav: false
 <!-- Daniela del Valle -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/daniela-del-valle/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/danieladelvallecruise.png" alt="Daniela del Valle"
+    <img src="/assets/img/cruises/cruise-participants/danieladelvallecruise.png" alt="Daniela del Valle"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Daniela del Valle</h5>
     <p style="font-size:0.9em;">Co-PI</p>
@@ -89,7 +89,7 @@ nav: false
 <!-- Robert Hall -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/robert-hall/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/roberthallcruise.png" alt="Robert Hall"
+    <img src="/assets/img/cruises/cruise-participants/roberthallcruise.png" alt="Robert Hall"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Robert Hall</h5>
     <p style="font-size:0.9em;">Co-PI</p>
@@ -99,7 +99,7 @@ nav: false
 <!-- Nicholas Hawco -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/nicholas-hawco/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/nicholashawcocruise.png" alt="Nicholas Hawco"
+    <img src="/assets/img/cruises/cruise-participants/nicholashawcocruise.png" alt="Nicholas Hawco"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Nicholas Hawco</h5>
     <p style="font-size:0.9em;">Co-PI</p>
@@ -109,7 +109,7 @@ nav: false
 <!-- Ricardo Letelier -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/ricardo-letelier/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/ricardoleteliercruise.png" alt="Ricardo Letelier"
+    <img src="/assets/img/cruises/cruise-participants/ricardoleteliercruise.png" alt="Ricardo Letelier"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Ricardo Letelier</h5>
     <p style="font-size:0.9em;">Co-PI</p>
@@ -119,7 +119,7 @@ nav: false
 <!-- Angelicque White -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/angelicque-white/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/angeliquewhitecruise.png" alt="Angelicque White"
+    <img src="/assets/img/cruises/cruise-participants/angeliquewhitecruise.png" alt="Angelicque White"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Angelicque White</h5>
     <p style="font-size:0.9em;">Co-PI</p>
@@ -129,7 +129,7 @@ nav: false
 <!-- Alexis Floback -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/alexis-floback/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/alexisflobackcruise.png" alt="Alexis Floback"
+    <img src="/assets/img/cruises/cruise-participants/alexisflobackcruise.png" alt="Alexis Floback"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Alexis Floback</h5>
     <p style="font-size:0.9em;">Postdoctoral Scholar</p>
@@ -139,7 +139,7 @@ nav: false
 <!-- Esther Mak -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/esther-mak/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/esthermakcruise.png" alt="Esther Mak"
+    <img src="/assets/img/cruises/cruise-participants/esthermakcruise.png" alt="Esther Mak"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Esther Mak</h5>
     <p style="font-size:0.9em;">Postdoctoral Researcher</p>
@@ -149,7 +149,7 @@ nav: false
 <!-- Deepika Sahoo -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/deepika-sahoo/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/deepikasahoocruise.png" alt="Deepika Sahoo"
+    <img src="/assets/img/cruises/cruise-participants/deepikasahoocruise.png" alt="Deepika Sahoo"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Deepika Sahoo</h5>
     <p style="font-size:0.9em;">Postdoctoral Researcher</p>
@@ -159,7 +159,7 @@ nav: false
 <!-- María Luz Torres Alberto -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/maria-luz-torres-alberto/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/marialuztorresalbertocruise.png" alt="María Luz Torres Alberto"
+    <img src="/assets/img/cruises/cruise-participants/marialuztorresalbertocruise.png" alt="María Luz Torres Alberto"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">María Luz Torres Alberto</h5>
     <p style="font-size:0.9em;">Postdoctoral Researcher</p>
@@ -169,7 +169,7 @@ nav: false
 <!-- Frank Xavier Ferrer González -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/frank-xavier-ferrer-gonzalez/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/frankxavierferrergonzálezcruise%20(2).png" alt="Frank Xavier Ferrer González"
+    <img src="/assets/img/cruises/cruise-participants/frankxavierferrergonzálezcruise%20(2).png" alt="Frank Xavier Ferrer González"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Frank Xavier Ferrer González</h5>
     <p style="font-size:0.9em;">Postdoctoral Researcher</p>
@@ -179,7 +179,7 @@ nav: false
 <!-- Jason Freisen -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/jason-freisen/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/jasonfreisencruise.png" alt="Jason Freisen"
+    <img src="/assets/img/cruises/cruise-participants/jasonfreisencruise.png" alt="Jason Freisen"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Jason Freisen</h5>
     <p style="font-size:0.9em;">PhD Student</p>
@@ -189,7 +189,7 @@ nav: false
 <!-- Calvin Swart -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/calvin-swart/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/calvinswartcruise.png" alt="Calvin Swart"
+    <img src="/assets/img/cruises/cruise-participants/calvinswartcruise.png" alt="Calvin Swart"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Calvin Swart</h5>
     <p style="font-size:0.9em;">PhD Candidate</p>
@@ -199,7 +199,7 @@ nav: false
 <!-- Susan Garcia -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/susan-garcia/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/susangarciacruise.png" alt="Susan Garcia"
+    <img src="/assets/img/cruises/cruise-participants/susangarciacruise.png" alt="Susan Garcia"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Susan Garcia</h5>
     <p style="font-size:0.9em;">Ph.D. Student</p>
@@ -209,7 +209,7 @@ nav: false
 <!-- Raquel Flynn -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/raquel-flynn/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/raquelflynncruise.png" alt="Raquel Flynn"
+    <img src="/assets/img/cruises/cruise-participants/raquelflynncruise.png" alt="Raquel Flynn"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Raquel Flynn</h5>
     <p style="font-size:0.9em;">Research Scientist</p>
@@ -219,7 +219,7 @@ nav: false
 <!-- Kelly George -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/kelly-george/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/kellygeorgecruise.png" alt="Kelly George"
+    <img src="/assets/img/cruises/cruise-participants/kellygeorgecruise.png" alt="Kelly George"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Kelly George</h5>
     <p style="font-size:0.9em;">Research Assistant</p>
@@ -229,7 +229,7 @@ nav: false
 <!-- Pierre Marrec -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/pierre-marrec/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/pierremarreccruise.png" alt="Pierre Marrec"
+    <img src="/assets/img/cruises/cruise-participants/pierremarreccruise.png" alt="Pierre Marrec"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Pierre Marrec</h5>
     <p style="font-size:0.9em;">Field Coordinator</p>
@@ -239,7 +239,7 @@ nav: false
 <!-- Micaela Gonella -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/micaela-gonella/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/micaelagonellacruise.png" alt="Micaela Gonella"
+    <img src="/assets/img/cruises/cruise-participants/micaelagonellacruise.png" alt="Micaela Gonella"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Micaela Gonella</h5>
     <p style="font-size:0.9em;">Intern</p>
@@ -249,7 +249,7 @@ nav: false
 <!-- Hunter Adams -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/hunter-adams/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/hunteradamscruise.png" alt="Hunter Adams"
+    <img src="/assets/img/cruises/cruise-participants/hunteradamscruise.png" alt="Hunter Adams"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Hunter Adams</h5>
     <p style="font-size:0.9em;">Technician</p>
@@ -259,7 +259,7 @@ nav: false
 <!-- Katie Coates -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/katie-coates/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/katiecoatescruise.png" alt="Katie Coates"
+    <img src="/assets/img/cruises/cruise-participants/katiecoatescruise.png" alt="Katie Coates"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Katie Coates</h5>
     <p style="font-size:0.9em;">Technician</p>
@@ -269,7 +269,7 @@ nav: false
 <!-- Jared McGourty -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/jared-mcgourty/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/jaredmcgourtycruise.png" alt="Jared McGourty"
+    <img src="/assets/img/cruises/cruise-participants/jaredmcgourtycruise.png" alt="Jared McGourty"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Jared McGourty</h5>
     <p style="font-size:0.9em;">Technician</p>
@@ -279,7 +279,7 @@ nav: false
 <!-- Tully Rohrer -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/tully-rohrer/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/tullyrohrercruise.png" alt="Tully Rohrer"
+    <img src="/assets/img/cruises/cruise-participants/tullyrohrercruise.png" alt="Tully Rohrer"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Tully Rohrer</h5>
     <p style="font-size:0.9em;">Technician</p>
@@ -289,7 +289,7 @@ nav: false
 <!-- Mattia Da Fieno -->
 <div class="col-md-3 col-sm-6 mb-5">
   <a href="/subsea-part-1/team/mattia-da-fieno/" style="text-decoration:none; color:inherit;">
-    <img src="/assets/img/mattiadafienocruise.png" alt="Mattia Da Fieno"
+    <img src="/assets/img/cruises/cruise-participants/mattiadafienocruise.png" alt="Mattia Da Fieno"
       style="width:160px;height:160px;object-fit:cover;border-radius:50%;border:6px solid white;">
     <h5 style="margin-top:15px;">Mattia Da Fieno</h5>
     <p style="font-size:0.9em;">Technician</p>
