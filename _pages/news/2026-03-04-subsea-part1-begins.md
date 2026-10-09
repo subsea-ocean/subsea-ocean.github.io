@@ -2,6 +2,7 @@
 layout: post
 title: "South Atlantic Cruise 1 Begins"
 date: 2026-03-04
+permalink: /news/2026-03-04-south-atlantic-cruise-1-begins/
 inline: false
 ---
 
