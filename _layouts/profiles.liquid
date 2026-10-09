@@ -36,7 +36,8 @@ layout: page
 
           <div class="clearfix">
             {% if profile.content %}
-              {% assign profile_page = site.pages | where: "path", profile.content | first %}
+              {% assign full_profile_path = profile.content | prepend: "_pages/" %}
+              {% assign profile_page = site.pages | where: "path", full_profile_path | first %}
               {% if profile_page %}
                 {{ profile_page.content | markdownify }}
               {% else %}
@@ -73,7 +74,8 @@ layout: page
 
         <div class="clearfix">
           {% if profile.content %}
-            {% assign profile_page = site.pages | where: "path", profile.content | first %}
+            {% assign full_profile_path = profile.content | prepend: "_pages/" %}
+            {% assign profile_page = site.pages | where: "path", full_profile_path | first %}
             {% if profile_page %}
               {{ profile_page.content | markdownify }}
             {% else %}
