@@ -94,6 +94,22 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
+      - name: Diagnose HOT cruise pages
+        run: |
+          echo "=== Source HOT files ==="
+          ls -la _pages/cruises/HOT/
+
+          echo "=== Generated HOT pages ==="
+          find _site -type f -iname '*hot-3*' -print
+
+          echo "=== Expected public URLs ==="
+          for cruise in 356 357 358 359 360 361 362 364 365; do
+            if [ -f "_site/cruises/hot-${cruise}/index.html" ]; then
+              echo "FOUND: HOT ${cruise}"
+            else
+              echo "MISSING: HOT ${cruise}"
+            fi
+          done
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
