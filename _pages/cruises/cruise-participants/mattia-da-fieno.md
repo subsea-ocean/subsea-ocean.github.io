@@ -102,6 +102,7 @@ Additionally, Mattia is also the Junior Field Coordinator for OBVI’s core meas
 
 </div>
 
+
 <script>
   const cruise = new URLSearchParams(window.location.search).get('cruise');
   const banner = document.getElementById('profile-banner');
@@ -114,3 +115,4 @@ Additionally, Mattia is also the Junior Field Coordinator for OBVI’s core meas
       "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/teampicfaded.png')";
   }
 </script>
+
