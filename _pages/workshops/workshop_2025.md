@@ -12,7 +12,7 @@ tabs: true
 
 The 2025 OBVI workshop wrapped up Dec 12, 2025. [Read more here](/news/obvi_2025_workshop_wrapup)!
 
-{% include figure.liquid loading="eager" path="assets/img/Workshop2025Flyer.png" class="img-fluid rounded z-depth-0" %}
+{% include figure.liquid loading="eager" path="assets/img/workshops/Workshop2025Flyer.png" class="img-fluid rounded z-depth-0" %}
 
 ### About
 
@@ -21,7 +21,7 @@ A 2-week workshop for OBVI graduate students and post-docs. Funding for this pro
 Workshop dates: November 30 - December 12, 2025
 - Location: University of Hawaii at Manoa
 - Application deadline: April 15, 2025
-- [Application announcement](/news/obvi_2025_workshop_application) and [link to apply](https://forms.gle/HiTw8S9vEasGYbK39)
+- [Application announcement](/news/obvi_2025_workshop_application)
 
 Workshop will include daily lectures, hands-on analyses and modeling of ocean productivity data, and training in ocean biogeochemical sampling and methodologies. Workshop objectives include:
 
@@ -29,9 +29,7 @@ Workshop will include daily lectures, hands-on analyses and modeling of ocean pr
 2. Become familiar with publicly available data and data products specific to ocean primary production
 3. Analyze shipboard, autonomous, and remote sensing data and data products
 
-Missed the application deadline? Join us next year at the 2026 workshop! Keep an eye on this site for updates.
-
-Attending this year? Scroll below for more information about the workshop's speakers and logistics. 
+Scroll below for more information about the workshop's speakers and logistics. 
 
 ### Who
 
