@@ -93,13 +93,14 @@ With SUBSEA, he specializes in deck array operations, nitrogen fixation measurem
 
 </div>
 
+
 <script>
   const cruise = new URLSearchParams(window.location.search).get('cruise');
   const banner = document.getElementById('profile-banner');
 
   if (cruise === 'hot') {
     banner.style.backgroundImage =
-      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/HOT.png')";
+      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/hot-profile-background.png')";
   } else if (cruise === 'south-atlantic-1') {
     banner.style.backgroundImage =
       "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/teampicfaded.png')";
