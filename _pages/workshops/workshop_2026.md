@@ -8,7 +8,7 @@ nav_order: 2
 tabs: true
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/2026_workshop_flyer.png" class="img-fluid rounded z-depth-0" %}
+{% include figure.liquid loading="eager" path="assets/img/workshops/Workshop2026flyer.png" class="img-fluid rounded z-depth-0" %}
 
 ### About
 
@@ -17,8 +17,7 @@ The OBVI SUBSEA (Ocean Biogeochemistry Virtual Institute Subtropical Underwater 
 Workshop dates: December 2 - December 11, 2026
 
 - **Location:** University of Hawai‘i at Mānoa
-- **The application is now closed** The application closed at 11:59 PM ET on Thursday, June 11, 2026
-- [Application announcement](https://public.app.basecamp.com/p/8E5ToUEtcbfwvZE5BgD8Hz9K)
+- **The application is now closed** It closed at 11:59 PM ET on Thursday, June 11 2026.
 
 This workshop will introduce participants to the science of ocean carbon export and its importance in the global climate system. Through lectures, discussions, and hands-on analyses, participants will explore the biological, chemical, and physical processes that drive the transfer of carbon from the surface ocean to the deep sea.
 
