@@ -1,14 +1,11 @@
 ---
 layout: page
 title: ""
-permalink: /subsea-part-1/team/frank-xavier-ferrer-gonzalez/
+permalink: /cruises/participants/frank-xavier-ferrer-gonzalez/
 nav: false
 ---
 
-<div style="
-  background-image:
-    linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-    url('/assets/img/teampicfaded.png');
+<div id="profile-banner" style="
   background-size: cover;
   background-position: center;
   height: 350px;
@@ -36,7 +33,7 @@ nav: false
 <div style="text-align:center;">
 
   <img 
-    src="/assets/img/frankxavierferrergonzálezcruise (2).png"
+    src="/assets/img/cruises/cruise-participants/frankxavierferrergonzálezcruise.png"
     alt="Frank Xavier Ferrer González"
     style="
       width:220px;
@@ -114,3 +111,16 @@ I also strive to create spaces in science where everyone has the opportunity to 
 </p>
 
 </div>
+
+<script>
+  const cruise = new URLSearchParams(window.location.search).get('cruise');
+  const banner = document.getElementById('profile-banner');
+
+  if (cruise === 'hot') {
+    banner.style.backgroundImage =
+      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/HOT.png')";
+  } else if (cruise === 'south-atlantic-1') {
+    banner.style.backgroundImage =
+      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/teampicfaded.png')";
+  }
+</script>
