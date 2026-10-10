@@ -367,48 +367,80 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
 ---
 
 <style>
-.media-slider {
+/* Responsive media gallery */
+.subsea-media-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  margin: 30px auto 50px;
+  max-width: 1100px;
+}
+
+/* Individual media cards */
+.subsea-media-card {
   display: flex;
-  align-items: stretch;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
-  padding: 20px 10px;
-}
-
-.media-card {
-  flex: 0 0 260px;
-  background: #111;
-  border-radius: 10px;
+  flex-direction: column;
   overflow: hidden;
-  transition: all 0.35s ease;
-  text-decoration: none;
-  color: white;
+  border-radius: 10px;
+  background: #111;
+  color: white !important;
+  text-decoration: none !important;
+  transition: box-shadow 0.2s ease;
+  min-width: 0;
 }
 
-.media-card:hover {
-  flex: 0 0 360px;
-  transform: translateY(-4px);
+/* Subtle hover effect without resizing */
+.subsea-media-card:hover {
+  color: white !important;
+  text-decoration: none !important;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
 }
 
-.media-card img {
-  width: 100%;
-  height: 250px;
-  min-height: 250px;
-  max-height: 250px;
-  object-fit: cover;
+.subsea-media-card:focus-visible {
+  outline: 3px solid var(--global-theme-color, #4a90e2);
+  outline-offset: 4px;
+}
+
+/* Consistent image sizes */
+.subsea-media-card img {
   display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
 }
 
-.media-caption {
-  padding: 14px;
+/* Captions */
+.subsea-media-caption {
+  padding: 16px;
   font-size: 0.95rem;
   line-height: 1.5;
   text-align: center;
+  flex-grow: 1;
 }
 
-.media-card:hover .media-caption {
-  font-size: 1rem;
+.subsea-media-caption strong {
+  display: block;
+  margin-bottom: 6px;
+}
+
+/* Tablet layout */
+@media (max-width: 900px) {
+  .subsea-media-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+  }
+}
+
+/* Mobile layout */
+@media (max-width: 600px) {
+  .subsea-media-grid {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .subsea-media-card img {
+    height: 240px;
+  }
 }
 </style>
 
@@ -416,80 +448,116 @@ During this expedition between Schmidt Ocean Institute and the Schmidt Sciences 
   In the Media
 </h2>
 
-<div class="media-slider justify-content-center">
-  
-  <a class="media-card"
+<div class="subsea-media-grid">
+
+  <!-- Schmidt Ocean Institute Livestream -->
+  <a class="subsea-media-card"
      href="https://www.youtube.com/live/oRuxfFRRwh4?si=GLb5M_a321oTtIUr"
-     target="_blank">
+     target="_blank"
+     rel="noopener noreferrer">
 
-    <img src="/assets/img/cruises/media1.jpg">
+    <img
+      src="/assets/img/cruises/media1.jpg"
+      alt="Schmidt Ocean Institute cruise livestream"
+      loading="lazy">
 
-    <div class="media-caption">
-      Livestream from R/V Falkor (too) about cruise operations.<br>
+    <div class="subsea-media-caption">
+      <strong>Cruise Livestream</strong>
+      Livestream from R/V Falkor (too) about cruise operations.
+      <br>
       Source: YouTube, Schmidt Ocean Institute.
     </div>
 
   </a>
 
-  <a class="media-card"
+  <!-- Schmidt Sciences Instagram -->
+  <a class="subsea-media-card"
      href="https://www.instagram.com/p/DXxS4g8FSgS/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-     target="_blank">
+     target="_blank"
+     rel="noopener noreferrer">
 
-    <img src="/assets/img/cruises/media2.png">
+    <img
+      src="/assets/img/cruises/media2.png"
+      alt="Schmidt Sciences Instagram post"
+      loading="lazy">
 
-    <div class="media-caption">
-      Instagram post.<br>
+    <div class="subsea-media-caption">
+      <strong>Instagram Post</strong>
       Source: Schmidt Sciences.
     </div>
 
   </a>
 
-  <a class="media-card"
+  <!-- Scientific American Instagram -->
+  <a class="subsea-media-card"
      href="https://www.instagram.com/reel/DXznxspuQWs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
-     target="_blank">
+     target="_blank"
+     rel="noopener noreferrer">
 
-    <img src="/assets/img/cruises/media3.png">
+    <img
+      src="/assets/img/cruises/media3.png"
+      alt="Scientific American Instagram reel"
+      loading="lazy">
 
-    <div class="media-caption">
-      Instagram reel.<br>
+    <div class="subsea-media-caption">
+      <strong>Instagram Reel</strong>
       Source: Scientific American.
     </div>
 
   </a>
 
-   <a class="media-card"
+  <!-- Schmidt Ocean Institute Article -->
+  <a class="subsea-media-card"
      href="https://schmidtocean.org/critical-roles-in-global-carbon-cycle/"
-     target="_blank">
+     target="_blank"
+     rel="noopener noreferrer">
 
-    <img src="/assets/img/cruises/media4.png">
+    <img
+      src="/assets/img/cruises/media4.png"
+      alt="Schmidt Ocean Institute article"
+      loading="lazy">
 
-    <div class="media-caption">
-      Article.<br>
-      Source: SOI.
+    <div class="subsea-media-caption">
+      <strong>Article</strong>
+      Source: Schmidt Ocean Institute.
     </div>
 
   </a>
 
-   <a class="media-card"
+  <!-- Flathead Lake Biological Station Article -->
+  <a class="subsea-media-card"
      href="https://flbs.umt.edu/flbs-news/diving-into-ocean-gyre-research/"
-     target="_blank">
+     target="_blank"
+     rel="noopener noreferrer">
 
-    <img src="/assets/img/cruises/media5.png">
+    <img
+      src="/assets/img/cruises/media5.png"
+      alt="Flathead Lake Biological Station article"
+      loading="lazy">
 
-    <div class="media-caption">
-      Article.<br>
-      Source: FLBS.
+    <div class="subsea-media-caption">
+      <strong>Article</strong>
+      Source: Flathead Lake Biological Station.
     </div>
 
-   <a class="media-card"
+  </a>
+
+  <!-- University of Montana Article -->
+  <a class="subsea-media-card"
      href="https://umt.exposure.co/subsea-expedition"
-     target="_blank">
+     target="_blank"
+     rel="noopener noreferrer">
 
-    <img src="/assets/img/cruises/media6.png">
+    <img
+      src="/assets/img/cruises/media6.png"
+      alt="University of Montana SUBSEA expedition article"
+      loading="lazy">
 
-    <div class="media-caption">
-      Article.<br>
+    <div class="subsea-media-caption">
+      <strong>Article</strong>
       Source: University of Montana.
     </div>
 
   </a>
+
+</div>
