@@ -1,14 +1,11 @@
 ---
 layout: page
 title: ""
-permalink: /subsea-part-1/team/tully-rohrer/
+permalink: /cruises/participants/tully-rohrer/
 nav: false
 ---
 
-<div style="
-  background-image:
-    linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-    url('/assets/img/teampicfaded.png');
+<div id="profile-banner" style="
   background-size: cover;
   background-position: center;
   height: 350px;
@@ -35,7 +32,7 @@ nav: false
 <div style="text-align:center;">
 
   <img 
-    src="/assets/img/tullyrohrercruise.png"
+    src="/assets/img/cruises/cruise-participants/tullyrohrercruise.png"
     alt="Tully Rohrer"
     style="
       width:220px;
@@ -95,3 +92,16 @@ With SUBSEA, he specializes in deck array operations, nitrogen fixation measurem
 </p>
 
 </div>
+
+<script>
+  const cruise = new URLSearchParams(window.location.search).get('cruise');
+  const banner = document.getElementById('profile-banner');
+
+  if (cruise === 'hot') {
+    banner.style.backgroundImage =
+      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/HOT.png')";
+  } else if (cruise === 'south-atlantic-1') {
+    banner.style.backgroundImage =
+      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/teampicfaded.png')";
+  }
+</script>
