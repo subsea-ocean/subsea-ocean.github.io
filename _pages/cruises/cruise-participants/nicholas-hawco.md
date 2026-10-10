@@ -108,7 +108,7 @@ Nick Hawco is an Associate Professor at the University of Hawaiʻi at Mānoa. He
 
   if (cruise === 'hot') {
     banner.style.backgroundImage =
-      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/HOT.png')";
+      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/hot-profile-background.png')";
   } else if (cruise === 'south-atlantic-1') {
     banner.style.backgroundImage =
       "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/teampicfaded.png')";
