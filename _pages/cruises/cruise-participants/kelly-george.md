@@ -130,7 +130,7 @@ More recently, Kelly’s research has expanded deeper into phytoplankton pigment
       "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/hot-profile-background.png')";
   } else if (cruise === 'south-atlantic-1') {
     banner.style.backgroundImage =
-      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/teampicfaded.png')";
+      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/sa-pt1-profile-background.png')";
   }
 </script>
 
