@@ -112,7 +112,7 @@ Additionally, Mattia is also the Junior Field Coordinator for OBVI’s core meas
       "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/hot-profile-background.png')";
   } else if (cruise === 'south-atlantic-1') {
     banner.style.backgroundImage =
-      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/teampicfaded.png')";
+      "linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/img/cruises/sa-pt1-profile-background.png')";
   }
 </script>
 
